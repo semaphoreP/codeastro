@@ -8,7 +8,6 @@
     background-image: url("../../milky-way-984050_1920.jpg");
     background-size: cover;
     height: 300px;
-
     padding: 0 0;
 }
 
@@ -23,7 +22,9 @@
    border-width: 2px;
 }
 
-
+.project-name {
+    font-family: "Courier New", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", monospace;
+}
 
 
 .main-content h1,
@@ -38,14 +39,10 @@
 .header-overlay {
     background-color: rgba(91, 34, 153, 0.4);
     height: 300px;
+    /* For centering the stuff inside it */
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
-.header-text {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
 

@@ -1,6 +1,4 @@
-# Code/Astro
-
-## Program Description
+# Program Description
 
 ​Code/Astro is a week-long astronomy software development bootcamp for undergraduates at Caltech. The goal of this program is to teach students fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. The workshop will also serve as a networking and career development opportunity. Code/Astro is supported by the Heising-Simons Foundation.
 
