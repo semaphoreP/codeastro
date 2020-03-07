@@ -17,13 +17,12 @@
 During the bootcamp, students will obtain hands-on experience with software engineering by developing a software package from scratch. The daily schedule will consist of classes in the mornings and time to work on individual projects in the afternoons. Topics covered each day are as follows:
 
 | Monday 6/22   | Tuesday 6/23  | Wednesday 6/24  | Thursday 6/25  | Friday 6/26   |
-| ------------- | ------------- | --------------- | -------------- | ------------- |
+| :------------ | :------------ | :-------------- | :------------- | :------------ |
 | Programming Paradigms      | Git & GitHub            | Software Testing        | Releasing Code          | Project Presentations   |
 | How to Google              | Code Documentation      | Debugging               | Contributing Code       | Guest Lectures          |
-| Python Package Tutorials   | Hack Session (Optional) | Code Profiling          | Parallel Programming    | Hack Session (Optional) |
-| Development Environments   |                         | Hack Session (Optional) | Hack Session (Optional) |        |
+| Python Package Tutorials   |                         | Code Profiling          | Parallel Programming    |        |
+| Development Environments   |                         |                         |                         |        |
 | High Performance Computing |                         |                         |                         |        |
-| Hack Session (Optional)    |                         |                         |                         |        |
 
 Detailed schedule and logistical information coming soon!
 
