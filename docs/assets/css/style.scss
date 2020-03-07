@@ -18,27 +18,34 @@
 
 .btn{
    background-color: rgba(91, 34, 153,0.38);
-   height: 300px;
+   color: rgba(255,255,255,0.9);
+   border-color: rgba(255,255,255,0.3);
+   border-width: 2px;
 }
 
 
 
-content h1,
-content h2,
-content h3,
-content h4,
-content h5,
-content h6 {
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
   color: #5b2299;
 }
 
 .header-overlay {
     background-color: rgba(91, 34, 153, 0.4);
+    height: 300px;
 }
 
 .header-text {
+    margin: 0;
     position: absolute;
     top: 50%;
-    text-align: center;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
