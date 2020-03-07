@@ -5,6 +5,28 @@
 
 .page-header {
     background-color: #5b2299;
-    background-image: "milky-way-984050_1920.jpg";
+    background-image: url("../../milky-way-984050_1920.jpg");
+    background-size: cover;
+}
 
+.project-tagline {
+    opacity: 0.95;
+}
+
+.btn{
+   background-color: rgba(91, 34, 153,0.38);
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #5b2299;
+}
+
+.header-overlay {
+    background-color: rgba(91, 34, 153, 0.4);
 }
