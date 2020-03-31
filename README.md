@@ -23,6 +23,24 @@ You can also install the packages one-by-one by typing, for example:
     pip install numpy
 
 
+
+## Visual Studio Code
+
+In this workshop, we are recommending you use Visual Studio Code (VS Code) to develop and test your code. 
+As part of the workshop, we will cover skills such as debugging and demonstrate how to do them using VS Code, so it will be easiest to also use it and follow along.
+You can download VS Code for free from its official webpage: https://code.visualstudio.com/.
+
+There are a few plugins to install and setup to utilize its features for Python development. The instructions we give below are adapted from the official [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial). That guide is long, and not everyhting will be needed, so feel free to peruse the documentation, but do not worry if you do not understand certain parts of it (it can get quite advanced!). 
+
+> For Windows users using WSL, install the `Remote - WSL` extension from the Marketplace so you can connect VS Code with WSL. Check the [Windows install guide](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md) again for a few more details then come back here. If you cannot find where the Marketplace is to install this extension, check out the paragraph below on installing the Python installation, and adapt it for `Remote - WSL`. 
+
+First, install the Python extension from the Marketplace. The Marketplace is the place to install all VS Code addons, and can be accessed by clicking the icon with the 4 square blocks on the lefthand bar of the application (it is the icon highlighted in white below). Then type Python in the search bar, and install the `Python` add-on that is published by Microsoft. It should be the top result, and it should look like the screenshot below, except that you should have a big green install button instead. 
+![alt text](imgs/vscode-python-install.png)
+
+We also recommend you install the `Remote - SSH` plugin so that you can develop on machines you have connected to over ssh. Note that when you connect to a remote machine (this could be either SSH or WSL or Docker containers), it will use the remote machine's VS Code setup. Likely, you will need to install your extensions there again.
+
+The VS Code Python add on is simply just hooks that connect your system Python installation. Next, we will configure VS Code so that it is connected with your system Python installation. [TODO]
+
 # Apple-specific Instructions
 
 BJ to add command line tools instructions
