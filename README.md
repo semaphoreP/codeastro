@@ -16,14 +16,14 @@ Once you've installed miniconda, install the Python packages listed in our
 [requirements.txt](https://github.com/semaphoreP/codeastro/blob/master/requirements.txt) file.
 If you clone this repository onto your local machine, you can do this using the command:
 
-    ``` pip install -r requirements.txt ```.
+    pip install -r requirements.txt
 
 You can also install the packages one-by-one by typing, for example:
 
-    ``` pip install numpy ```.
+    pip install numpy
 
 
 # Apple-specific Instructions
 
-* BJ to add command line tools instructions *
+BJ to add command line tools instructions
 
