@@ -1,0 +1,6 @@
+numpy
+scipy
+astropy
+matplotlib
+cython
+orbitize
