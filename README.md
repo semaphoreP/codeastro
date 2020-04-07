@@ -22,6 +22,8 @@ You can also install the packages one-by-one by typing, for example:
 
     pip install numpy
 
+If you run into any issues, [contact us](mailto:sblunt@caltech.edu). We will hold a "virtual office hours" session for 
+technical setup questions.
 
 
 ## Visual Studio Code
