@@ -22,6 +22,16 @@ Normally, WSL is just a command prompt, so it does not have a GUI interface. If 
 
 After you download and install xming, click on it to run. It runs passively in the backgorund, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. 
 
+### Install git
+
+Git can be installed inside of Linux or in Windows. We recommend both, as it does not take up much space and is very convenient. For this workshop, we will work only with the git in Linux, but here we will describe how to install both. If you are using WSL with Ubuntu, you can install it in Ubuntu using its package manager (the most common way to install applications in Ubuntu):
+
+    > sudo apt-get install git
+
+You will need to type your root password (it likely is the same as your Windows password).
+
+In Windows, to install git, download the execuable from the git website: https://git-scm.com/download/win. You generally can just download the regular one labeled "Click here to download manually". We won't use the Windows git, but you may find it useful in the future. 
+
 ### Setup Python in Linux
 
 Follow the Linux setup guide to install and configure python for your WSL setup.
