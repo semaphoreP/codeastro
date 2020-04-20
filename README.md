@@ -47,5 +47,13 @@ When you are done setting up a python interpreter, feel free to run the [Hello W
 
 # Apple-specific Instructions
 
-BJ to add command line tools instructions
+If you are using a Mac you will need to install Xcode and the associated command line utilities in order to compile code. Some Python packages include portions of C or fortran code and must be compiled to run optimally. 
+
+First, install the Xcode application using the App Store. 
+
+Once Xcode is finished installing open a terminal and type:
+    
+    xcode-select --install
+
+Accept the user agreement and follow the onscreen prompts. 
 
