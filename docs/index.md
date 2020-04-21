@@ -1,6 +1,6 @@
 # Program Description
 
-​Code/Astro is a week-long astronomy software development bootcamp for undergraduates at Caltech. The goal of this program is to teach students fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. The workshop will also serve as a networking and career development opportunity. Code/Astro is supported by the Heising-Simons Foundation.
+​Code/Astro is a week-long astronomy software development bootcamp. The goal of this program is to teach students fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. The workshop will also serve as a networking and career development opportunity. Due to the current pandenmic, the inaugural Code/Astro will be held remotely. Code/Astro is supported by the Heising-Simons Foundation.
 
 ### Dates
 6/22/2020 - 6/26/2020
@@ -19,17 +19,15 @@ During the bootcamp, students will obtain hands-on experience with software engi
 | Monday 6/22   | Tuesday 6/23  | Wednesday 6/24  | Thursday 6/25  | Friday 6/26   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 | Programming Paradigms      | Git & GitHub            | Software Testing        | Releasing Code          | Project Presentations   |
-| How to Google              | Code Documentation      | Debugging               | Contributing Code       | Guest Lectures          |
-| Python Package Tutorials   |                         | Code Profiling          | Parallel Programming    |        |
-| Development Environments   |                         |                         |                         |        |
-| High Performance Computing |                         |                         |                         |        |
+| Python Package Tutorials   | Code Documentation      | Debugging               | Contributing Code       | Guest Lectures          |
+| Development Environments   |                         | Code Profiling          | Parallel Programming    |        |
 
 Detailed schedule and logistical information coming soon!
 
 # How to Apply
 
-The workshop will be held at Caltech in Pasadena, CA and participants will be responsible for their own transportation and housing costs. For that reason, the workshop is targeted students who will already doing research at Caltech or JPL through the Caltech SURF program. It is not necessary to be a US citizen; international students are welcome to apply.
+The workshop will be held remotely via Zoom each day. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. 
 
-We require students to be familiar with Python or another high-level programming language (e.g., Java, Matlab) as this bootcamp will not be teaching the basics of programming. Students are expected to develop on their own computers and have set up their development environment there.
+We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab) as this bootcamp will not be teaching the basics of programming. Students are expected to develop on their own computers and have set up their development environment there. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
 To apply: [stay tuned for link to application]
