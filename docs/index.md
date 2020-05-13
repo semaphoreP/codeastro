@@ -11,7 +11,7 @@
  * Sarah Blunt (Caltech)
  * BJ Fulton (IPAC)
  
- ### Teaching Assistants
+### Teaching Assistants
  
  * Mia de los Reyes (Caltech)
  * Ryan Rubenzahl (Caltech)
