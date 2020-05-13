@@ -6,7 +6,7 @@ https://semaphorep.github.io/codeastro/
 # Getting Started
 
 If you are using a Windows machine, first check out the setup instructions 
-[here](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md). Once you've
+[here](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
 followed those instructions, come back and continue here.
 
 We'll use miniconda to install Python and necessary packages. You can download and install
@@ -21,6 +21,14 @@ If you clone this repository onto your local machine, you can do this using the 
 You can also install the packages one-by-one by typing, for example:
 
     pip install numpy
+
+Once you've installed all of the requirements, clone the `orbitize!` repository to your machine and run the test suite to make sure everything is working properly. You can use the command sequence below to do this:
+
+    git clone https://github.com/sblunt/orbitize.git
+    cd orbitize
+    py.test
+
+You may get some warnings, but you should see 0 errors if your setup is working.
 
 If you run into any issues, [contact us](mailto:sblunt@caltech.edu). We will hold a "virtual office hours" session for 
 technical setup questions.
