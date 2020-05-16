@@ -10,6 +10,13 @@
  * Jason Wang (Caltech)
  * Sarah Blunt (Caltech)
  * BJ Fulton (IPAC)
+ 
+### Teaching Assistants
+ 
+ * Mia de los Reyes (Caltech)
+ * Ryan Rubenzahl (Caltech)
+ * Yuping Huang (Caltech)
+ * Simon Ko (Roblox)
 
 # ​Schedule
 
