@@ -51,6 +51,12 @@ Instead of having to do this complex navigation each time, we recommend using a 
 
 Now you should have a linked folder called Research. If you `cd` into the folder, you should see the regular contents of that folder. 
 
+### Make Git cross compatible. 
+
+Windows and Linux use slightly different line endings. This somethings causes Linux or Windows to think a file is modified in git when it hasn't been due to different line ending usage. In Linux, run the following line to fix this:
+
+    > git config --global core.autocrlf true
+
 ## Setup VS Code
 
 For either WSL or native Windows setup, we will use Visual Studio Code as our code editor. You can download it here: https://code.visualstudio.com/. Install the Windows version either way. Follow the general install guide to install the necessary packages and then come back here for specific WSL setup instructions. 
