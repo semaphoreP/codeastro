@@ -1,5 +1,11 @@
 ## This code is broken. Don't treat it as model code for your work ##
 
+# Topics we'll cover:
+# - setting up debugging configuration in VSCode
+# - post mortem debugging
+# - breakpoints/conditional breakpoints
+# - debug console
+
 import numpy as np
 import matplotlib.pylab as plt
 
