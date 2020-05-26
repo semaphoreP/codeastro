@@ -10,7 +10,6 @@
  * Jason Wang (Caltech)
  * Sarah Blunt (Caltech)
  * BJ Fulton (IPAC)
- * Erik Petigura (UCLA)
 
 # ​Schedule
 
@@ -28,6 +27,6 @@ Detailed schedule and logistical information coming soon!
 
 The workshop will be held remotely via Zoom each day. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. 
 
-We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab) as this bootcamp will not be teaching the basics of programming. Students are expected to develop on their own computers and have set up their development environment there. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
+We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab) as this bootcamp will not be teaching the basics of programming. Students are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
 To apply: [stay tuned for link to application]
