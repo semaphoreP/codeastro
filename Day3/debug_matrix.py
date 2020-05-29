@@ -1,10 +1,17 @@
-## This code is broken. Don't treat it as model code for your work ##
+"""
+Warning: This code is broken. Don't treat it as model code for your work.
+
+This code generates random pixel art. The values are all integers drawn from a
+random uniform distribution. The range of the random distribution increases as 
+we go up in the image. We also will log how many times each integer is hit.  
 
 # Topics we'll cover:
 # - setting up debugging configuration in VSCode
 # - post mortem debugging
 # - breakpoints/conditional breakpoints
+# - stepping through lines
 # - debug console
+"""
 
 import numpy as np
 import matplotlib.pylab as plt
@@ -15,8 +22,8 @@ np.random.seed(99999)
 # for each row, we will draw numbers from increasinly large pools of random numbers
 new_image = []
 
-dim1 = 150
-dim2 = 75
+dim1 = 25
+dim2 = 7
 
 for i in range(dim1):
     # draw random integers between 0 and 10*(i+1), no repeats!
@@ -29,16 +36,21 @@ for i in range(dim1):
     # add this row to the image we are creating
     new_image.append(this_row)
 
-
-# now let's check we did that right. Test that each value only occurs once in the array
+# now let's check how many of each number we generated
+counts = {} # dictionary of counts per value
 for i in range(dim1):
     for j in range(dim2):
         value = new_image[dim1, dim2]
-        all_matches = np.where(new_image == value)[0]
-        assert np.size(all_matches) == 1
+        if value in counts:
+            counts[value] += 1
+        else:
+            counts[value] = 0
 
+print(counts)
 
+# plot the resulting image. 
 plt.figure()
 plt.imshow(new_image, cmap="RdBu")
 plt.gca().invert_yaxis()
+plt.title("Art")
 plt.show()
