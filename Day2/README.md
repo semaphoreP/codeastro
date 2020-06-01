@@ -2,7 +2,8 @@
 
 ## Project Goals
 
-  * Set up a Github repository for your project. Start creating modules and classes that you need. Make sure you write docstring comments for them!
+  * Set up a Github repository for your project. Start creating modules and classes that you need. 
+  * Write at least 1 or 2 functions for tomorrow (we'll need it for an activity).
 
 ## Useful Links
 

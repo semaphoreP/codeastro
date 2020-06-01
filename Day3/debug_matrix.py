@@ -7,10 +7,12 @@ we go up in the image. We also will log how many times each integer is hit.
 
 # Topics we'll cover:
 # - setting up debugging configuration in VSCode
+# - pdb
 # - post mortem debugging
 # - breakpoints/conditional breakpoints
 # - stepping through lines
 # - debug console
+# - How to use this when developing for large packages. 
 """
 
 import numpy as np

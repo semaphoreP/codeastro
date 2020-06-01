@@ -17,6 +17,7 @@
  * Ryan Rubenzahl (Caltech)
  * Yuping Huang (Caltech)
  * Simon Ko (Roblox)
+ * Matt Hosek (UCLA)
 
 # ​Schedule
 
@@ -34,4 +35,4 @@ Detailed schedule and logistical information coming soon!
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Students are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
-**To apply: [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfKr4ExLUrIMgw1HEs2ABcB1gIvd53pOxcRPlxf0cReCQnyKQ/viewform?usp=sf_link) by May 31st.** 
+**Applications have closed for 2020.**
