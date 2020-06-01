@@ -8,4 +8,4 @@
 
 ## Useful Links
 
-  * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/171
+  * TBD

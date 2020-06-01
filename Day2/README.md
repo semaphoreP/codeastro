@@ -8,3 +8,4 @@
 ## Useful Links
 
   * [Insert link for Mechanics of Git presentation]
+  * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/171
