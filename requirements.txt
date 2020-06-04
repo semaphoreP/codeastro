@@ -4,3 +4,4 @@ astropy
 matplotlib
 cython
 orbitize
+mkl
