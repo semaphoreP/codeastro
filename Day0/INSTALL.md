@@ -7,6 +7,10 @@ followed those instructions, come back and continue here.
 We'll use miniconda to install Python and necessary packages. You can download and install
 miniconda [here](https://docs.conda.io/en/latest/miniconda.html).
 
+You'll likely need to restart your terminal window for the new miniconda Python installation to become your defualt one. To verify your installation, run the following line, which will list the path to your python installation, and check it is pointing to your miniconda install:
+
+    which python
+
 Once you've installed miniconda, install the Python packages listed in our 
 [requirements.txt](https://github.com/semaphoreP/codeastro/blob/master/requirements.txt) file.
 If you clone this repository onto your local machine, you can do this using the command:

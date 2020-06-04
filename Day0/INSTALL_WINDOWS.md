@@ -14,7 +14,7 @@ WSL allows you to run a virtual Linux operating system in Windows. This is offic
 
 ### Install WSL
 
-See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. When you get to the step of choosing a Linux distrbution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
+See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. WSL is currently transitioning from WSL 1 to WSL 2, and depending on your Windows version, you may only be able to install WSL 1. This is perfectly ok: try to follow the steps to install WSL 2, but if you do not meet the requirements just install WSL 1 and it will have all the features you need. When you get to the step of choosing a Linux distrbution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
 
 ### Install xming
 
