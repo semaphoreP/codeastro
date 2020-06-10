@@ -15,10 +15,6 @@ Then, clone this repoistory to your machine. It will create a folder called code
 We recommend you use an Anaconda Python installation. If you don't have such an installation already, use miniconda to install Python and necessary packages. You can download and install
 miniconda [here](https://docs.conda.io/en/latest/miniconda.html).
 
-You'll likely need to restart your terminal window for the new miniconda Python installation to become your defualt one. To verify your installation, run the following line, which will list the path to your python installation, and check it is pointing to your miniconda install:
-
-    which python
-
 For all Python users, it is good to use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other porjects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
 
     conda create -n codeastro python=3
@@ -26,6 +22,10 @@ For all Python users, it is good to use conda environments to manage multiple Py
 Then, any time you want to use this version of Python from the command line, run the following line of code to set Python to point to this version:
 
     conda activate codeastro
+
+ To verify your installation, run the following line, which will list the path to your python installation. The path should include miniconda/anaconda and codeastro:
+
+    which python
 
 Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `jupyter` notebooks this way if they are not already installed.
 
