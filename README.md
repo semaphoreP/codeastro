@@ -9,9 +9,7 @@ Before the workshop, please complete the following:
 
 1. Follow the [installation instructions](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL.md) to get the necessary packages installed. 
 
-2. Clone this repo to your machine: `git clone https://github.com/semaphoreP/codeastro.git`.
-
-3. Do the [diagnostic assignment](https://github.com/semaphoreP/codeastro/blob/master/Day0/diagnostic.ipynb) to get familiarized with some Python fundamentals. 
+2. Do the [diagnostic assignment](https://github.com/semaphoreP/codeastro/blob/master/Day0/diagnostic.ipynb) to get familiarized with some Python fundamentals. You can access this notebook by starting a Jupyter notebook server from the command line and opening it from your browser or by opening the notebook directly with VS Code. 
 
 
 

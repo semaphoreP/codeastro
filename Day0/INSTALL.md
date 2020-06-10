@@ -4,22 +4,42 @@ If you are using a Windows machine, first check out the setup instructions
 [here](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
 followed those instructions, come back and continue here.
 
-We'll use miniconda to install Python and necessary packages. You can download and install
+### Git ###
+If you don't have `git` installed, [install git](https://git-scm.com/downloads). (Windows users can use the `git` installed from WSL)
+
+Then, clone this repoistory to your machine. It will create a folder called codeastro. 
+
+    git clone https://github.com/semaphoreP/codeastro.git
+
+### Python ###
+We recommend you use an Anaconda Python installation. If you don't have such an installation already, use miniconda to install Python and necessary packages. You can download and install
 miniconda [here](https://docs.conda.io/en/latest/miniconda.html).
 
 You'll likely need to restart your terminal window for the new miniconda Python installation to become your defualt one. To verify your installation, run the following line, which will list the path to your python installation, and check it is pointing to your miniconda install:
 
     which python
 
-Once you've installed miniconda, install the Python packages listed in our 
-[requirements.txt](https://github.com/semaphoreP/codeastro/blob/master/requirements.txt) file.
-If you clone this repository onto your local machine, you can do this using the command:
+For all Python users, it is good to use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other porjects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
+
+    conda create -n codeastro python=3
+
+Then, any time you want to use this version of Python from the command line, run the following line of code to set Python to point to this version:
+
+    conda activate codeastro
+
+Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `jupyter` notebooks this way if they are not already installed.
+
+    conda install numpy mkl jupyter
+
+We can install the rest of the Python packages listed in our 
+[requirements.txt](https://github.com/semaphoreP/codeastro/blob/master/requirements.txt) file through the regular `pip` package manager.
+Assuming you followed the instructions above to clone this repository, `cd` into the codeastro folder and run the command:
 
     pip install -r requirements.txt
 
 You can also install the packages one-by-one by typing, for example:
 
-    pip install numpy
+    pip install matplotlib
 
 Once you've installed all of the requirements, clone the `orbitize!` repository to your machine and run the test suite to make sure everything is working properly. You can use the command sequence below to do this:
 
@@ -48,7 +68,7 @@ First, install the Python extension from the Marketplace. The Marketplace is the
 
 We also recommend you install the `Remote - SSH` plugin so that you can develop on machines you have connected to over ssh. Note that when you connect to a remote machine (this could be either SSH or WSL or Docker containers), it will use the remote machine's VS Code setup. Likely, you will need to install your extensions there again.
 
-The VS Code Python add on is simply just hooks that connect your system Python installation. Next, we will configure VS Code so that it is connected with your system Python installation. This means you should have installed python already (see instructions above). Follow the instructions in the [Select a Python Interpreter](https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter) section of the official VS code tutorial. Select your preferred python installation (likely the miniconda you just installed). For WSL users, do this in a VS Code running in WSL. Note that VS Code allows you to set the python version on a per user and per workspace basis, which makes it easy to develop for multiple projects that have different python versioning requirements. 
+The VS Code Python add on is simply just hooks that connect your system Python installation. Next, we will configure VS Code so that it is connected with your system Python installation. This means you should have installed python already (see instructions above). Follow the instructions in the [Select a Python Interpreter](https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter) section of the official VS code tutorial. Select your preferred python installation (likely the codeastro enviornment of the miniconda you just installed). For WSL users, do this in a VS Code running in WSL. Note that VS Code allows you to set the python version on a per user and per workspace basis, which makes it easy to develop for multiple projects that have different python versioning requirements by having a different conda environment for each project. 
 
 When you are done setting up a python interpreter, feel free to run the [Hello World tutorial](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-python-hello-world-source-code-file) to test that everything works and get a feel for VS Code development in Python. If you choose to do this, stop before "Configure and run the debugger" which we will cover later.
 
