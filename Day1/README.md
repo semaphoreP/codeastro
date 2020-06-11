@@ -6,6 +6,6 @@
 
 ## Useful Links
 
- * [Link to intro/welcome slides]
+ * Welcome Slides: https://docs.google.com/presentation/d/1sGDmTb8A4Wbr1gdT3QOyoeGWJ7IJRpvST9FP9_pipdo/edit?usp=sharing
 
 
