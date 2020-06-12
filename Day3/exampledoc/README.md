@@ -23,5 +23,19 @@ $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-1. Open `conf.py` in VScode or other editor.
+1. Open `conf.py` in VScode or other editor. We'll need to uncomment the following lines in the "Path setup" section.
+```
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
+```
+
+1. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
+```
+import os
+import sys
+sys.path.insert(0, os.path.abspath('..'))
+```
+
+
 
