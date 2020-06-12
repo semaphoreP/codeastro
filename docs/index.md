@@ -29,7 +29,7 @@
 | Python Package Tutorials   | Code Documentation      | Debugging               | Contributing Code       | Guest Lectures          |
 | Development Environments   |                         | Code Profiling          | Parallel Programming    |        |
 
-Detailed schedule and logistical information coming soon!
+**Click [this link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) for a detailed schedule of classes and office hours.**
 
 # How to Apply
 
