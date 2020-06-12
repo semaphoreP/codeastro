@@ -7,5 +7,6 @@
 
 ## Useful Links
 
+  * [Day 2 Slides](https://docs.google.com/presentation/d/1HTWKeYw1iwI9AGh52uDatMo6T1wWUGbTmkhaJ_tyT5U/edit?usp=sharing)
   * [Insert link for Mechanics of Git presentation]
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/171
