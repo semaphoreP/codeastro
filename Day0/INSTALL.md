@@ -15,7 +15,7 @@ Then, clone this repoistory to your machine. It will create a folder called code
 We recommend you use an Anaconda Python installation. If you don't have such an installation already, use miniconda to install Python and necessary packages. You can download and install
 miniconda [here](https://docs.conda.io/en/latest/miniconda.html).
 
-For all Python users, it is good to use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other porjects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
+For all Python users, we strongly recommend that you use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other projects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
 
     conda create -n codeastro python=3
 
