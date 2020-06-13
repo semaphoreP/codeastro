@@ -24,6 +24,8 @@ Next, we'll want to override your system's default orbitize installation with th
 
     pip install -r requirements.txt -e .
 
+That command just ran pip to install the package in the current directory, and to automatically update when you ake changes to the code (useful for developing on packages). 
+
 Next, check out the `broken_orbitize` branch and fix the bug! To help you get started, we are providing the bug reproduction script from [the issue](https://github.com/sblunt/orbitize/issues/171) in this folder. If you run `broken_orbitize.py`, the code should crash.
 
 After you fix and push the bug fix to your forked orbitize!, go back to the original [orbitize! repo page](https://github.com/sblunt/orbitize) and submit a pull request. The pull request should be requesting to pull your forked repo's `broken_orbitize` branch to the original `broken_orbitize` branch. And you've fixed the bug, and submitted a PR to incorporate your fixes into a public python repository. 
