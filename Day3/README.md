@@ -8,4 +8,4 @@
 
 ## Useful Links
 
-  * TBD
+  * [Day 3 Slides](https://docs.google.com/presentation/d/1yL9IwCZztBag5LCMrhwyl_xo8OVx0TVHg8LCRqXb-u8/edit?usp=sharing)
