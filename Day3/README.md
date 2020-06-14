@@ -10,3 +10,4 @@
 ## Useful Links
 
   * [Day 3 Slides](https://docs.google.com/presentation/d/1yL9IwCZztBag5LCMrhwyl_xo8OVx0TVHg8LCRqXb-u8/edit?usp=sharing)
+  * [Testing Slides](https://docs.google.com/presentation/d/11MVjkourMh2aBwWWPpN6874_9ZoTB1WgV9TYmb-Kqc0/edit?usp=sharing)
