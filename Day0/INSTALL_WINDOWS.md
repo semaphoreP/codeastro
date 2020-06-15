@@ -2,7 +2,7 @@
 
 ## Windows or WSL?
 
-One important decision to make at the start is to whether or not make Windows your development environment. Generally, python works fine on Windows, so it is perfectly viable for python alone. However, there are a number of python packages for astronomy that are not compatible with Windows. For Code/Astro, all of the packages we will work with work with Windows, but this may not be true for other packages you might encounter for your research.
+One important decision to make at the start is to decide whether or not to make Windows your development environment. Generally, python works fine on Windows, so it is perfectly viable for python alone. However, there are a number of python packages for astronomy that are not compatible with Windows. For Code/Astro, all of the packages we will work with work with Windows, but this may not be true for other packages you might encounter for your research.
 
 The suggested alternative is to use Windows Subsystem for Linux (WSL), which is a full Linux operating system running inside of Windows. This is supported by default now on Windows 10 and it is fairly simple to setup. The additional complexity introduced by WSL is that there usually is 1-2 more steps that need to be done to hook up your programming setup to use the python installed under WSL for your development. This is generally not a large barrier, but it involves doing a few extra steps. 
 
@@ -14,13 +14,13 @@ WSL allows you to run a virtual Linux operating system in Windows. This is offic
 
 ### Install WSL
 
-See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. WSL is currently transitioning from WSL 1 to WSL 2, and depending on your Windows version, you may only be able to install WSL 1. This is perfectly ok: try to follow the steps to install WSL 2, but if you do not meet the requirements just install WSL 1 and it will have all the features you need. When you get to the step of choosing a Linux distrbution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
+See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. WSL is currently transitioning from WSL 1 to WSL 2, and depending on your Windows version, you may only be able to install WSL 1. This is perfectly ok: try to follow the steps to install WSL 2, but if you do not meet the requirements just install WSL 1 and it will have all the features you need. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
 
 ### Install xming
 
 Normally, WSL is just a command prompt, so it does not have a GUI interface. If you try to display matplotlib plots through the command line, it will not work, because WSL does not directly talk with your Windows desktop normally. However, you can make this communication happen with xming, which can be installed from here: https://sourceforge.net/projects/xming/.
 
-After you download and install xming, click on it to run. It runs passively in the backgorund, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. 
+After you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. 
 
 ### Install git
 
@@ -30,7 +30,7 @@ Git can be installed inside of Linux or in Windows. We recommend both, as it doe
 
 You will need to type your root password (it likely is the same as your Windows password).
 
-In Windows, to install git, download the execuable from the git website: https://git-scm.com/download/win. You generally can just download the regular one labeled "Click here to download manually". We won't use the Windows git, but you may find it useful in the future. 
+In Windows, to install git, download the executable from the git website: https://git-scm.com/download/win. You generally can just download the regular one labeled "Click here to download manually". We won't use the Windows git, but you may find it useful in the future. 
 
 ### Setup Python in Linux
 
@@ -43,7 +43,7 @@ Be default, WSL starts out in its own specific Linux portion of your filesystem.
     > pwd
     /home/codeastro
 
-We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents fodler (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codastro/Documents/Research/`. 
+We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codeastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents folder (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codastro/Documents/Research/`. 
 
 Instead of having to do this complex navigation each time, we recommend using a symbolic link to connect your main work folders to your WSL home directory. FOr example, to link my Research folder in the example above, I can do something like this:
 
@@ -53,7 +53,7 @@ Now you should have a linked folder called Research. If you `cd` into the folder
 
 ### Make Git cross compatible. 
 
-Windows and Linux use slightly different line endings. This somethings causes Linux or Windows to think a file is modified in git when it hasn't been due to different line ending usage. In Linux, run the following line to fix this:
+Windows and Linux use slightly different line endings. This sometimes causes Linux or Windows to think a file is modified in git when it hasn't been due to different line ending usage. In Linux, run the following line to fix this:
 
     > git config --global core.autocrlf true
 
@@ -67,8 +67,8 @@ Normally, the VS Code editor launches in your regular Windows environment. After
 
 ![](../imgs/vscode-wsl-connect.png)
 
-It will take a minute to set up VS Code in WSL, and might ask you a prompt or two (which you will likely need to agree to). Afterwards, it will launch a new VS Code window. This window will be running in WSL. The lefthand side should similar to the screenshot below. At the bottom left corner, you will notice a green status bar indicating you are connected to WSL. 
+It will take a minute to set up VS Code in WSL, and might ask you a prompt or two (which you will likely need to agree to). Afterwards, it will launch a new VS Code window. This window will be running in WSL. The lefthand side should be similar to the screenshot below. At the bottom left corner, you will notice a green status bar indicating you are connected to WSL. 
 
 ![](../imgs/vscode-wsl-connected.png)
 
-If you click Open Folder, you can now open up folders and files as if you are in WSL on the command line. Note that extensions for VS Code in WSL is separate from extensions for VS Code on regular Windows, because they are running in separate operating systems. Install extensions in the WSL to use them in WSL. You should now return to the main tutorial to install the necessary extensions and configure python. 
+If you click Open Folder, you can now open up folders and files as if you are in WSL on the command line. Note that extensions for VS Code in WSL are separate from extensions for VS Code on regular Windows, because they are running in separate operating systems. Install extensions in the WSL to use them in WSL. You should now return to the main tutorial to install the necessary extensions and configure python. 
