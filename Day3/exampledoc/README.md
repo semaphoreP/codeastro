@@ -37,5 +37,16 @@ import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
 
+1. Also change the `html_theme` variable to "sphinx_rtd_theme".
 
+1. Now we are ready to build the documentation pages! Do this from the `docs` directory.
+```
+$ make html
+```
 
+This will create a basic set of documentation pages in `_build/html`. Lets open up `index.html`.
+```
+$ open _build/html/index.html
+```
+
+1. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `api.rst`.

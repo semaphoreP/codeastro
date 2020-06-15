@@ -107,4 +107,5 @@ if __name__ == '__main__':
     # do the cross-correlation
     shift = find_shift(y1, y2)
 
-    print("Shift array b by {:d} pixels to line up with array a.")
+    print("Shift array b by {:.0f} pixels to line up with array a." \
+          .format(shift))
