@@ -5,12 +5,12 @@
 $ pip install sphinx
 ```
 
-1. Since we will be using the Napolean style of docstrings we need to install the `sphinx-napolean` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
+2. Since we will be using the Napolean style of docstrings we need to install the `sphinx-napolean` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
 ```
 $ pip install sphinxcontrib-napolean sphinx-rtd-theme
 ```
 
-1. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
+3. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
 ```
 $ mkdir docs
 $ sphinx-quickstart
@@ -23,23 +23,23 @@ $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-1. Open `conf.py` in VScode or other editor. We'll need to uncomment the following lines in the "Path setup" section.
+4. Open `conf.py` in VScode or other editor. We'll need to uncomment the following lines in the "Path setup" section.
 ```
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 
-1. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
+5. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
 ```
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
 
-1. Also change the `html_theme` variable to "sphinx_rtd_theme".
+6. Also change the `html_theme` variable to "sphinx_rtd_theme" and add the line `master_doc='index'` below your author name.
 
-1. Now we are ready to build the documentation pages! Do this from the `docs` directory.
+7. Now we are ready to build the documentation pages! Do this from the `docs` directory.
 ```
 $ make html
 ```
@@ -49,4 +49,23 @@ This will create a basic set of documentation pages in `_build/html`. Lets open 
 $ open _build/html/index.html
 ```
 
-1. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `api.rst`.
+8. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
+```
+.. _correlate:
+
+Correlate
+=========
+
+.. automodule:: correlate
+   :members:
+```
+This will automatically parse `correlate.py` and look for your docstrings in order to turn them into a nicely-formatted web page.
+
+9. View your documentation by opening the file at `_build/html/index.html`.
+
+
+## Activity
+1. Set up sphinx documentation for your project repo.
+2. Document at least one function in your package and make sure it builds in the sphinx documentation.
+3. (BONUS) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
+
