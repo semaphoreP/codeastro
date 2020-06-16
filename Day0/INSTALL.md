@@ -1,7 +1,7 @@
 # Installation
 
 If you are using a Windows machine, first check out the setup instructions 
-[here](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
+[here](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
 followed those instructions, come back and continue here.
 
 ### Git ###
@@ -32,7 +32,7 @@ Now that we have a Python environment for this workshop, let's install packages 
     conda install numpy mkl jupyter
 
 We can install the rest of the Python packages listed in our 
-[requirements.txt](https://github.com/semaphoreP/codeastro/blob/master/requirements.txt) file through the regular `pip` package manager.
+[requirements.txt](https://github.com/semaphoreP/codeastro/blob/main/requirements.txt) file through the regular `pip` package manager.
 Assuming you followed the instructions above to clone this repository, `cd` into the codeastro folder and run the command:
 
     pip install -r requirements.txt
@@ -61,7 +61,7 @@ You can download VS Code for free from its official webpage: https://code.visual
 
 There are a few plugins to install and setup to utilize its features for Python development. The instructions we give below are adapted from the official [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial). That guide is long, and not everyhting will be needed, so feel free to peruse the documentation, but do not worry if you do not understand certain parts of it (it can get quite advanced!). 
 
-> For Windows users using WSL, install the `Remote - WSL` extension from the Marketplace so you can connect VS Code with WSL. Check the [Windows install guide](https://github.com/semaphoreP/codeastro/blob/master/Day0/INSTALL_WINDOWS.md) again for a few more details then come back here. If you cannot find where the Marketplace is to install this extension, check out the paragraph below on installing the Python installation, and adapt it for `Remote - WSL`. 
+> For Windows users using WSL, install the `Remote - WSL` extension from the Marketplace so you can connect VS Code with WSL. Check the [Windows install guide](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL_WINDOWS.md) again for a few more details then come back here. If you cannot find where the Marketplace is to install this extension, check out the paragraph below on installing the Python installation, and adapt it for `Remote - WSL`. 
 
 First, install the Python extension from the Marketplace. The Marketplace is the place to install all VS Code addons, and can be accessed by clicking the icon with the 4 square blocks on the lefthand bar of the application (it is the icon highlighted in white below). Then type Python in the search bar, and install the `Python` add-on that is published by Microsoft. It should be the top result, and it should look like the screenshot below, except that you should have a big green install button instead. 
 ![alt text](../imgs/vscode-python-install.png)
