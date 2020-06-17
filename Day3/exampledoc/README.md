@@ -5,9 +5,9 @@
 $ pip install sphinx
 ```
 
-2. Since we will be using the Napolean style of docstrings we need to install the `sphinx-napolean` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
+2. Since we will be using the Napoleon style of docstrings we need to install the `sphinx-napoleon` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
 ```
-$ pip install sphinxcontrib-napolean sphinx-rtd-theme
+$ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
 3. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
