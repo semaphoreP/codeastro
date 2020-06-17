@@ -10,7 +10,9 @@ $ pip install sphinx
 $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
-3. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
+3. Copy the `exampledocs` directory somewhere into your repo and `cd` into it.
+
+4. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
 ```
 $ mkdir docs
 $ sphinx-quickstart
@@ -23,33 +25,31 @@ $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-4. Open `conf.py` in VScode or other editor. We'll need to uncomment the following lines in the "Path setup" section.
+5. Open `conf.py` in VScode or other editor. We'll need to uncomment the following lines in the "Path setup" section.
 ```
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 
-5. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
+6. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
 ```
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
 
-6. Also change the `html_theme` variable to "sphinx_rtd_theme" and add the line `master_doc='index'` below your author name.
+7. Also change the `html_theme` variable to "sphinx_rtd_theme" and add the line `master_doc='index'` below your author name.
 
-7. Now we are ready to build the documentation pages! Do this from the `docs` directory.
+8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
 ```
 $ make html
 ```
 
-This will create a basic set of documentation pages in `_build/html`. Lets open up `index.html`.
-```
-$ open _build/html/index.html
-```
+This will create a basic set of documentation pages in `_build/html`. Open up the `index.html` with your favorite browser.
 
-8. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
+
+9. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
 ```
 .. _correlate:
 
@@ -61,7 +61,9 @@ Correlate
 ```
 This will automatically parse `correlate.py` and look for your docstrings in order to turn them into a nicely-formatted web page.
 
-9. View your documentation by opening the file at `_build/html/index.html`.
+10. Run `make html` again to update the docs.
+
+11. View your documentation by opening the file at `_build/html/index.html`.
 
 
 ## Activity
