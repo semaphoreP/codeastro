@@ -21,9 +21,9 @@ Some sample questions:
 ### Share your project with another group (x2)
 
   * Each group should spend 5 minutes summarizing their package they developed this week, and demonstrate what it does
-  * Install and run each other's packages using the documentation provided. Sepnd at most 15 minutes doing this. 
+  * Install and run each other's packages using the documentation provided. Spend at most 15 minutes doing this. 
   * Provide the other group with one thing you liked about their package and one suggestion/thing you found confusing.
-  * Fill out a Google form (link TBA) with your experiences on what went well and what could be improved?
+  * Fill out a Google form (link TBA) with your experiences on what went well and what could be improved.
 
 
   
