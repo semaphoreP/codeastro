@@ -32,10 +32,6 @@ You will need to type your root password (it likely is the same as your Windows 
 
 In Windows, to install git, download the executable from the git website: https://git-scm.com/download/win. You generally can just download the regular one labeled "Click here to download manually". We won't use the Windows git, but you may find it useful in the future. 
 
-### Setup Python in Linux
-
-Follow the Linux setup guide to install and configure python for your WSL setup.
-
 ### Make your Windows files easily accessible
 
 Be default, WSL starts out in its own specific Linux portion of your filesystem. If you run `pwd` and your username is codeastro, then you will see you start out here (this is your home directory):
@@ -50,6 +46,10 @@ Instead of having to do this complex navigation each time, we recommend using a 
     > ln -s /mnt/c/Users/codastro/Documents/Research/ Research
 
 Now you should have a linked folder called Research. If you `cd` into the folder, you should see the regular contents of that folder. 
+
+### Setup Python in Linux
+
+Follow the Linux setup guide to install and configure python for your WSL setup. Download the Linux version of miniconda and install it from WSL.
 
 ### Make Git cross compatible. 
 
