@@ -16,14 +16,14 @@ Some sample questions:
   * What is the career trajectory of a software engineer like?
 
 
-## Project Presentations
+## Project Show and Tell
 
 ### Share your project with another group (x2)
 
   * Each group should spend 5 minutes summarizing their package they developed this week, and demonstrate what it does
   * Install and run each other's packages using the documentation provided. Spend at most 15 minutes doing this. 
   * Provide the other group with one thing you liked about their package and one suggestion/thing you found confusing.
-  * Fill out a Google form (link TBA) with your experiences on what went well and what could be improved.
+  * Fill out [this Google for](https://docs.google.com/forms/d/e/1FAIpQLSeTBOGSl7y2hacO3jpJTNO2TUVGQo2RZA6cPMCAgB1p9Y6xqQ/viewform?usp=sf_link) after you tried out each other's packages and gave each other feedback. 
 
 
   
