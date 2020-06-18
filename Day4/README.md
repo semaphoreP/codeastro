@@ -4,7 +4,7 @@
 
 ## Project Goals
 
-  * Deploy a version (even preliminary) to PyPI
+  * Add tests to your repo and try to debug your code so the tests pass
   * Have an example/demo of your package (preferably in your docs or in your repo)
   * Another group should be able to install and run your package tomorrow!
 

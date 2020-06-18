@@ -4,6 +4,7 @@
 
   * Set up a Github repository for your project. Start creating modules and classes that you need. 
   * Write at least 1 or 2 functions for tomorrow (we'll need it for an activity).
+  * The next two days will have a lot of scaffolding work for your code packages. Today is a good time to make progress on code functionality!
 
 ## Useful Links
 

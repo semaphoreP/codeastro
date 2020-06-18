@@ -3,7 +3,8 @@
 
 ## Project Goals
 
-  * Add tests to your repo and try to debug your code so the tests pass
+  * Turn your project into a python package using `setup.py` and `__init__.py`
+  * Deploy a version (even preliminary) to PyPI with a LICENSE and version number
   * Start a readthedocs page for your repo
   * Aim to finish the basic functionality of your package
 
