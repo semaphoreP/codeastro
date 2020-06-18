@@ -4,7 +4,7 @@
 
 Some sample questions:
 
-  * Could you briefly share your career trajectory? Talk about your experience switching between academia and indstury?
+  * Could you briefly share your career trajectory? Talk about your experience switching between academia and industry?
   * What does your everyday work look like?
   * Looking at academic software development, what do you think is working and what can be improved?
   * What are some common practices at your job that could be useful to astronomers?

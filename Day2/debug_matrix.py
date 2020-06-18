@@ -21,7 +21,7 @@ import matplotlib.pylab as plt
 # make a random image
 np.random.seed(99999)
 
-# for each row, we will draw numbers from increasinly large pools of random numbers
+# for each row, we will draw numbers from increasingly large pools of random numbers
 new_image = []
 
 dim1 = 25

@@ -2,7 +2,7 @@
 
 ## Project Goals for Today
 
- * Come up with an idea for a small Python pacakge to work on for the week. The function can be simple (for example: a package to blur images). The goal for the package is to learn the steps to develope and publish this package. 
+ * Come up with an idea for a small Python package to work on for the week. The function can be simple (for example: a package to blur images). The goal for the package is to learn the steps to develope and publish this package. 
  * Start working on writing/designing the code. Think about how to structure your code: what should be a function and what should be a class?
 
 ## Useful Links
