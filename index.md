@@ -25,11 +25,13 @@
 
 | Monday 6/22   | Tuesday 6/23  | Wednesday 6/24  | Thursday 6/25  | Friday 6/26   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
-| Programming Paradigms      | Git & GitHub            | Software Testing        | Releasing Code          | Project Presentations     |
-| Python Package Tutorials   | Code Documentation      | Debugging               | Contributing Code       | Industry Panel Discussion |
-| Development Environments   |                         | Code Profiling          | Parallel Programming    |        |
+| Programming Paradigms      | Git & GitHub            | Releasing Code          | Software Testing              | Industry Panel Discussion     |
+| Python Package Tutorials   | Debugging               | Code Documentation      | Parallel Programming          | Project Presentations |
+| Development Environments   |                         | Code Profiling          | Anti-Discriminatory Practices |        |
 
 **Click [this link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) for a detailed schedule of classes and office hours.**
+
+The Industry Panel Discussion on Friday will start at 9am and consist of three panelists who have done software development in both academia and industry. Bring any questions you want to ask them!
 
 # How to Apply
 
