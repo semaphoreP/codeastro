@@ -6,10 +6,15 @@
   * Write at least 1 or 2 functions for tomorrow (we'll need it for an activity).
   * The next two days will have a lot of scaffolding work for your code packages. Today is a good time to make progress on code functionality!
 
+## Learning Objectives
+
+  * Be able to use git and follow the git flow process to contribute version-controlled code
+  * Interactively debug code using breakpoints, and not rely on print statements
+
 ## Useful Links
 
   * [Day 2 Slides](https://docs.google.com/presentation/d/1HTWKeYw1iwI9AGh52uDatMo6T1wWUGbTmkhaJ_tyT5U/edit?usp=sharing)
-  * [Insert link for Mechanics of Git presentation]
+  * [Mechanics of Git (.pptx)](https://drive.google.com/file/d/1WE0eB4c1qb7N_aerenr4bboiNjvY7QT2/view?usp=sharing)
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/171
 
 ## Debug orbitize!

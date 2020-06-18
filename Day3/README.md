@@ -8,6 +8,12 @@
   * Start a readthedocs page for your repo
   * Aim to finish the basic functionality of your package
 
+## Learning Objectives
+
+  * Be able to use docstrings and sphinx to document code for others to use
+  * Profile the run time of your code and identify the computational bottlenecks
+  * Set up and release Python packages publicly
+
 ## Useful Links
 
   * [Day 3 Slides](https://docs.google.com/presentation/d/1yL9IwCZztBag5LCMrhwyl_xo8OVx0TVHg8LCRqXb-u8/edit?usp=sharing)
