@@ -159,12 +159,13 @@ Congratulations, you have a working Windows (read: Linux) environment!
 
 ## Optional (VS Code)
 11. Download VSCode. Linky: https://code.visualstudio.com/
-12. Get the `Remote - WSL` and the `Python` plugins. Click on the 4 squares on the bottom of the left panel to get to the package marketplace (Highlighted in white in image below).
+12. Get the `Remote - WSL` plugin. We'll get the python plugin later. Click on the 4 squares on the bottom of the left panel to get to the package marketplace (Highlighted in white in image below).
 ![pythonplugin](../imgs/vscode-python-install.png)
 13. Click `Open folder...` and open the folder we made in the beginning. In my example `C:\Users\cygnus\Documents\Ubuntu`. Since it's linked with the folder we made in Ubuntu you should see `codeastro` and `orbitize`. Click on the green button on the bottom left to open a session with remote WSL. Select the option to reopen the folder. 
 
     <img src="../imgs/vscode_wsl.png" alt="vscodewsl" width="600"/>
-14. Open one of the ipython notebooks and make sure you're using the `'codeastro':conda` environment in the bottom next to the WSL option. 
+14. Once you're in the WSL environment get the `python` plugin (see image in step 12.)
+15. Open one of the ipython notebooks and make sure you're using the `'codeastro':conda` environment in the bottom next to the WSL option. 
 
     <img src="../imgs/vscode_python.png" alt="check marky" width="600"/>
 
