@@ -1,5 +1,12 @@
 # Setup for Windows
 
+---
+**Note**
+
+If you just want a simple working windows environment there is a "no frills" windows install section at the end.
+
+---
+
 ## Windows or WSL?
 
 One important decision to make at the start is to decide whether or not to make Windows your development environment. Generally, python works fine on Windows, so it is perfectly viable for python alone. However, there are a number of python packages for astronomy that are not compatible with Windows. For Code/Astro, all of the packages we will work with work with Windows, but this may not be true for other packages you might encounter for your research.
