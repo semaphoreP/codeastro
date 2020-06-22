@@ -6,3 +6,4 @@ cython
 orbitize
 mkl
 pytest
+pandas
