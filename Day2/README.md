@@ -14,7 +14,7 @@
 ## Useful Links
 
   * [Day 2 Slides](https://docs.google.com/presentation/d/1HTWKeYw1iwI9AGh52uDatMo6T1wWUGbTmkhaJ_tyT5U/edit?usp=sharing)
-  * [Mechanics of Git (.pptx)](https://drive.google.com/file/d/1WE0eB4c1qb7N_aerenr4bboiNjvY7QT2/view?usp=sharing)
+  * Mechanics of Git: [.PDF](https://drive.google.com/file/d/14S8w6b26JXjcFGa1aAFquq3Fh5iAa3-b/view?usp=sharing), [.PPTX](https://drive.google.com/file/d/1WE0eB4c1qb7N_aerenr4bboiNjvY7QT2/view?usp=sharing)
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/171
 
 ## Debug orbitize!
