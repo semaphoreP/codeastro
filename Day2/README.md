@@ -37,6 +37,6 @@ Next, check out the `broken_orbitize` branch and fix the bug! To help you get st
 
 After you fix and push the bug fix to your forked orbitize!, go back to the original [orbitize! repo page](https://github.com/sblunt/orbitize) and submit a pull request. The pull request should be requesting to pull your forked repo's `broken_orbitize` branch to the original `broken_orbitize` branch. And you've fixed the bug, and submitted a PR to incorporate your fixes into a public python repository. 
 
-After you have finished debugging this code (or before tomorrow's in-class activities), please revert back to working `orbitize!`. You can go back to the current version of `orbitize!` by switching to the `main` branch (same VS Code instructions as switching to the `broken_orbitize` branch) or reinstall the most recent pip version by using:
+After you have finished debugging this code (or before tomorrow's in-class activities), please revert back to working `orbitize!`. You can go back to the current version of `orbitize!` by switching to the `main` branch (same VS Code instructions as switching to the `broken_orbitize` branch) or reinstalling the most recent pip version by using:
 
     pip install orbitize==1.11.1
