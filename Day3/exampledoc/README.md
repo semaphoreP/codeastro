@@ -1,3 +1,5 @@
+![Astronomy Documentation](https://pbs.twimg.com/media/EUJmsaXUcAEfmTT?format=jpg&name=medium)
+
 # Sphinx quickstart guide
 
 1. Make sure that sphinx is installed.
