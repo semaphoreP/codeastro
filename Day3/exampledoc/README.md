@@ -17,6 +17,7 @@ $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 4. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
 ```
 $ mkdir docs
+$ cd docs
 $ sphinx-quickstart
 ```
 Answer the questions when prompted on the terminal. You can answer `n` to the question: `Separate source and build directories?`.
