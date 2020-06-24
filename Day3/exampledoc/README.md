@@ -42,7 +42,7 @@ import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
 
-7. Also change the `html_theme` variable to "sphinx_rtd_theme" and add the line `master_doc='index'` below your author name.
+7. Also change the `html_theme` variable to "sphinx_rtd_theme", add the line `master_doc='index'` below your author name. Also add “sphinx.ext.autodoc” and "sphinx.ext.napolean" to the `extensions` list in `conf.py`.
 
 8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
 ```
