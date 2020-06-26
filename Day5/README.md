@@ -25,5 +25,6 @@ Some sample questions:
   * Provide the other group with one thing you liked about their package and one suggestion/thing you found confusing.
   * Fill out [this Google for](https://docs.google.com/forms/d/e/1FAIpQLSeTBOGSl7y2hacO3jpJTNO2TUVGQo2RZA6cPMCAgB1p9Y6xqQ/viewform?usp=sf_link) after you tried out each other's packages and gave each other feedback. 
 
+## Closing Slides: [link](https://docs.google.com/presentation/d/11SWHa4qrhPOhxaosTEg9LEpk3DKNEjifETVGhLtfnxE/edit?usp=sharing)
 
   
