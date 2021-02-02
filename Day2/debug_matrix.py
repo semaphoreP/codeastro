@@ -6,8 +6,8 @@ random uniform distribution. The range of the random distribution increases as
 we go up in the image. We also will log how many times each integer is hit.  
 
 # Topics we'll cover:
-# - setting up debugging configuration in VSCode
 # - pdb
+# - setting up debugging configuration in VSCode
 # - post mortem debugging
 # - breakpoints/conditional breakpoints
 # - stepping through lines
@@ -21,7 +21,7 @@ import matplotlib.pylab as plt
 # make a random image
 np.random.seed(99999)
 
-# for each row, we will draw numbers from increasinly large pools of random numbers
+# for each row, we will draw numbers from increasingly large pools of random numbers
 new_image = []
 
 dim1 = 25
@@ -37,6 +37,8 @@ for i in range(dim1):
 
     # add this row to the image we are creating
     new_image.append(this_row)
+
+new_image = np.array(new_image)
 
 # now let's check how many of each number we generated
 counts = {} # dictionary of counts per value
