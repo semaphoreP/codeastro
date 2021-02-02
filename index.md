@@ -17,10 +17,10 @@
  * Simon Ko (Roblox)
  * Matt Hosek (UCLA)
  * Jea Adams (Amherst)
- * Kruthi Krishnan (Indian Institute of Science)
+ * Kruthi Krishna (Indian Institute of Science)
  * Paulina Palma-Bifani (DAS, U Chile)
  * Gullo Mastroserio
- * Pranav Satheesh 
+ * Pranav Satheesh (IIT Madras)
  * Sameh Othman
  * Vighnesh Nagpal (UC Berkeley)
 
