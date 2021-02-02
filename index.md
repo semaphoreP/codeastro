@@ -18,7 +18,7 @@
  * Matt Hosek (UCLA)
  * Jea Adams (Amherst)
  * Kruthi Krishnan (Indian Institute of Science)
- * Paulina Palambi 
+ * Paulina Palma-Bifani (DAS, U Chile)
  * Gullo Mastroserio
  * Pranav Satheesh 
  * Sameh Othman
