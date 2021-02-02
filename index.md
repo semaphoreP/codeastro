@@ -3,7 +3,7 @@
 ​Code/Astro is a week-long astronomy software development workshop. The goal of this program is to teach students fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, students will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. Due to the current pandemic, the inaugural Code/Astro will be held remotely. Code/Astro is supported by the Heising-Simons Foundation.
 
 ### Dates
-6/21/2020 - 6/25/2020
+6/21/2021 - 6/25/2021
 
 ### Instructors
 
