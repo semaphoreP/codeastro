@@ -19,7 +19,6 @@
  * Jea Adams (Amherst)
  * Kruthi Krishna (Indian Institute of Science)
  * Paulina Palma-Bifani (DAS, U Chile)
- * Gullo Mastroserio
  * Pranav Satheesh (IIT Madras)
  * Sameh Othman
  * Vighnesh Nagpal (UC Berkeley)
