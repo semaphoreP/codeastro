@@ -23,6 +23,8 @@
  * Pranav Satheesh (IIT Madras)
  * Sameh Othman
  * Vighnesh Nagpal (UC Berkeley)
+ * Yash Mehta (Indian Institute of Science)
+ * Siddharth Kumar (Indian Institute of Science)
 
 # ​Schedule
 
