@@ -1,5 +1,5 @@
 # Code/Astro
-Course materials for the 2020 Code/Astro workshop. 
+Course materials for the 2021 Code/Astro workshop. 
 
 Workshop website: https://semaphorep.github.io/codeastro/
 
