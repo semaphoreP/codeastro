@@ -7,24 +7,24 @@
 
 ### Instructors
 
- * Jason Wang (Caltech)
  * Sarah Blunt (Caltech)
  * BJ Fulton (IPAC)
+ * Jason Wang (Caltech)
  
 ### Teaching Assistants
  
- * Ryan Rubenzahl (Caltech)
- * Simon Ko (Roblox)
- * Matt Hosek (UCLA)
  * Jéa Adams (Amherst)
- * Kruthi Krishna (Indian Institute of Science)
- * Paulina Palma-Bifani (DAS, U Chile)
- * Pranav Satheesh (IIT Madras)
- * Sameh Othman
- * Vighnesh Nagpal (UC Berkeley)
- * Yash Mehta (Indian Institute of Science)
- * Siddharth Kumar (Indian Institute of Science)
  * Shubh Agrawal (Caltech)
+ * Matt Hosek (UCLA)
+ * Simon Ko (Roblox)
+ * Kruthi Krishna (Indian Institute of Science)
+ * Siddharth Kumar (Indian Institute of Science)
+ * Yash Mehta (Indian Institute of Science)
+ * Vighnesh Nagpal (UC Berkeley)
+ * Sameh Othman
+ * Paulina Palma-Bifani (DAS, U Chile)
+ * Ryan Rubenzahl (Caltech)
+ * Pranav Satheesh (IIT Madras)
 
 # ​Schedule
 
