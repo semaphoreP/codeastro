@@ -16,7 +16,7 @@
  * Ryan Rubenzahl (Caltech)
  * Simon Ko (Roblox)
  * Matt Hosek (UCLA)
- * Jea Adams (Amherst)
+ * Jéa Adams (Amherst)
  * Kruthi Krishna (Indian Institute of Science)
  * Paulina Palma-Bifani (DAS, U Chile)
  * Pranav Satheesh (IIT Madras)
@@ -24,6 +24,7 @@
  * Vighnesh Nagpal (UC Berkeley)
  * Yash Mehta (Indian Institute of Science)
  * Siddharth Kumar (Indian Institute of Science)
+ * Shubh Agrawal (Caltech)
 
 # ​Schedule
 
@@ -45,4 +46,4 @@ The Industry Panel Discussion on Friday will start at 9am and consist of three p
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Students are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
-Apply at this link. We anticipate accepting 100 applicants, prioritizing early-career astronomers and people who are marginalized in astronomy. 
+Apply at [this link](https://forms.gle/zxSqQa6RgzbbCazYA). We anticipate accepting 100 applicants, prioritizing early-career astronomers and people who are marginalized in astronomy. 
