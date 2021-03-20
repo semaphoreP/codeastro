@@ -1,6 +1,6 @@
 # Program Description
 
-​Code/Astro is a week-long astronomy software development workshop. The goal of this program is to teach students fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, students will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. Due to the current pandemic, the workshop will be held remotely. Code/Astro is supported by the Heising-Simons Foundation.
+​Code/Astro is a week-long astronomy software development workshop. The goal of this program is to teach participants fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, participants will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. The workshop is free and open to folks at all career levels. Due to the current pandemic, the workshop will be held remotely. Code/Astro is supported by the Heising-Simons Foundation.
 
 ### Dates
 6/21/2021 - 6/25/2021
@@ -44,6 +44,6 @@ The Industry Panel Discussion on Friday will start at 9am and consist of three p
 
 # How to Apply
 
-We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Students are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For students that require financial assistance in any way to participate, please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
+We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For those that require financial assistance in any way to participate (the workshop itself is free), please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
 Apply at [this link](https://forms.gle/zxSqQa6RgzbbCazYA). We anticipate accepting 100 applicants, prioritizing early-career astronomers and people who are marginalized in astronomy. 
