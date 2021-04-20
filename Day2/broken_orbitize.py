@@ -1,11 +1,14 @@
-import matplotlib.pyplot as plt
-import orbitize.driver
+"""
+A script to test some edge cases for the calc_orbit() function. We threw a bunch of weird inputs in
+and now everything is returning nans. Try to figure out which input or inputs is causing it to return nan.
+If you have time, update the code to do some error checking to alert the user the input is invalid. 
+"""
+import numpy as np
+import orbitize.kepler as kepler
 
-myDriver = orbitize.driver.Driver("broken_repo.csv", 'OFTI', 1, 1.22, 56.95, mass_err=0.08, plx_err=0.26)
+ra, dec, rv = kepler.calc_orbit(np.array([1000, 1e6, -12]), 10.0, 0.1, -1, 1000, 0, 0.5, 100, -99)
 
-s = myDriver.sampler
-s.run_sampler(1000)
-
-# test orbit plot generation
-s.results.plot_orbits(start_mjd=myDriver.system.data_table['epoch'][0])
-plt.show()
+print(ra, dec, rv)
+assert np.all(np.isfinite(ra))
+assert np.all(np.isfinite(dec))
+assert np.all(np.isfinite(rv))
