@@ -18,5 +18,3 @@
  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colaboratory link for mpl_astropy.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/mpl_astropy.ipynb)
 
-
-
