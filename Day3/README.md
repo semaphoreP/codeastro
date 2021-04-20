@@ -18,3 +18,4 @@
 
   * [Day 3 Slides](https://docs.google.com/presentation/d/1yL9IwCZztBag5LCMrhwyl_xo8OVx0TVHg8LCRqXb-u8/edit?usp=sharing)
   * [Slides on Releasing Code](https://docs.google.com/presentation/d/1V7mgeZCZ_9-eKKz4yMzAJcyqSCrXNtQUwU_zMVnNk_w/edit?usp=sharing)
+  * [Colaboratory Link for analyze_profiler.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/add-colab-links/Day3/analyze_profiler.ipynb)
