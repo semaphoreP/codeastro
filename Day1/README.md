@@ -14,6 +14,6 @@
 ## Useful Links
 
  * Welcome Slides: https://docs.google.com/presentation/d/1sGDmTb8A4Wbr1gdT3QOyoeGWJ7IJRpvST9FP9_pipdo/edit?usp=sharing
- * Colaboratory link for code_developing.ipynb: https://colab.research.google.com/drive/1DQnUsmxJl2Vt2XKIPotulL2gsjVFLoA5?usp=sharing
+ * Colaboratory link for code_developing.ipynb: https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/code_developing.ipynb
 
 
