@@ -4,6 +4,5 @@ astropy
 matplotlib
 cython
 orbitize
-mkl
 pytest
 pandas
