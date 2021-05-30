@@ -47,9 +47,18 @@ This makes it so that the current working directory of the debugger will always 
 
 Now that you are set up, use the VS Code debugger to try to identify which input(s) is/are causing the function to return NaN, and if you have time, suggest a fix. Use this as an opportunity to get familiar with using the interactive controls (step into, and step over) and/or breakpoints!
 
-### Goal
+If you aren't able to step into `calc_orbit()`, you may need to add the following line to your launch.json file:
 
+     "justMyCode": false
+
+### Instructions
+
+  * Follow the instructions above to set up the debugger on your machine and use it on the `broken_orbitize.py` script
+  * Reproduce the error: run the code and verify the assertion in the script fails
   * Identify which of the nine inputs is/are causing the function to return NaN
+    * step into the `calc_orbit` function
+    * identify the line when NaNs first start appearing
+    * what variable needs to be changed on this line to prevent the NaNs from being created?
   * (Optional) Modify the code to prevent this from happening in the future
 
 ### End Product
