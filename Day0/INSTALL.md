@@ -4,6 +4,8 @@ If you are using a Windows machine, first check out the setup instructions
 [here](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
 followed those instructions, come back and continue here.
 
+At the end of the Python installation section, you will run a series of tests that will give you a secret code that indicates Python has been installed successfully! 
+
 ### Git ###
 If you don't have `git` installed, [install git](https://git-scm.com/downloads). (Windows users can use the `git` installed from WSL)
 
@@ -45,9 +47,9 @@ Once you've installed all of the requirements, clone the `orbitize!` repository 
 
     git clone https://github.com/sblunt/orbitize.git
     cd orbitize
-    py.test
+    pytest --mode codeastro
 
-You may get some warnings, but you should see 0 errors if your setup is working.
+You may get some warnings, but you should see 0 errors and a secret code at the end of the output. We will ask you for the secret code to check your python installation is all working. 
 
 If you run into any issues, [contact us](mailto:sblunt@caltech.edu). We will hold a "virtual office hours" session for 
 technical setup questions.
