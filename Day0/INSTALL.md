@@ -29,9 +29,9 @@ Then, any time you want to use this version of Python from the command line, run
 
     which python
 
-Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `jupyter` notebooks this way if they are not already installed.
+Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `cython` and `jupyter` notebooks this way if they are not already installed. We are install cython here because we will need it installed ahead of time for some packages in requirements.txt. 
 
-    conda install numpy jupyter
+    conda install numpy cython jupyter
 
 We can install the rest of the Python packages listed in our 
 [requirements.txt](https://github.com/semaphoreP/codeastro/blob/main/requirements.txt) file through the regular `pip` package manager.
@@ -73,6 +73,10 @@ We also recommend you install the `Remote - SSH` plugin so that you can develop 
 The VS Code Python add on is simply just hooks that connect your system Python installation. Next, we will configure VS Code so that it is connected with your system Python installation. This means you should have installed python already (see instructions above). Follow the instructions in the [Select a Python Interpreter](https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter) section of the official VS code tutorial. Select your preferred python installation (likely the codeastro environment of the miniconda you just installed). For WSL users, do this in a VS Code running in WSL. Note that VS Code allows you to set the python version on a per user and per workspace basis, which makes it easy to develop for multiple projects that have different python versioning requirements by having a different conda environment for each project. 
 
 When you are done setting up a python interpreter, feel free to run the [Hello World tutorial](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-python-hello-world-source-code-file) to test that everything works and get a feel for VS Code development in Python. If you choose to do this, stop before "Configure and run the debugger" which we will cover later.
+
+# Finished?
+
+When you have finished everything above, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdp3CnIVv-_XprhRmnA6j8em5Akm4eg9XXIYDs9v1_NWTYXBw/viewform?usp=sf_link) with the secret code so we know you are ready for the workshop!
 
 # Apple-specific Instructions
 
