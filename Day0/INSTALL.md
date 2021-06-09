@@ -6,6 +6,12 @@ followed those instructions, come back and continue here.
 
 At the end of the Python installation section, you will run a series of tests that will give you a secret code that indicates Python has been installed successfully! 
 
+### Video Walkthough and Advice on Managing Python Installations ###
+
+Watch this [setup video](https://youtu.be/vpMbZdMeRAs) (23 min) to guide you through the setup process. It gives a short walkthrough of part of the setup process, discusses some details on how conda/pip work, and offers some best practices for managing your Python environment. Note that we are using Discord instead of Slack, so replace all mentions of Slack with Discord. You can also [view the slides here](https://docs.google.com/presentation/d/10PZgGP7SENmOKb6Xji4BX9POtVZcOpIYhaCsWUh-Qco/edit?usp=sharing). 
+
+[![Setup Video](http://img.youtube.com/vi/vpMbZdMeRAs/0.jpg)](https://youtu.be/vpMbZdMeRAs "Setup Video")
+
 ### Git ###
 If you don't have `git` installed, [install git](https://git-scm.com/downloads). (Windows users can use the `git` installed from WSL)
 
