@@ -15,7 +15,17 @@ Then, clone this repository to your machine. It will create a folder called code
 
 ### Python ###
 We recommend you use an Anaconda Python installation. If you don't have such an installation already, use miniconda to install Python and necessary packages. You can download and install
-miniconda [here](https://docs.conda.io/en/latest/miniconda.html).
+miniconda [here](https://docs.conda.io/en/latest/miniconda.html) (https://docs.conda.io/en/latest/miniconda.html).
+
+
+---
+**Note**
+When installing miniconda be sure to follow the prompts and say `yes` to running `conda init` at the last prompt! If you don't your terminal may not be able to recognize the `conda` command. If you miss it you can run it manually with:
+```
+/[conda install directory]/bin/conda init
+```
+
+---
 
 For all Python users, we strongly recommend that you use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other projects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
 

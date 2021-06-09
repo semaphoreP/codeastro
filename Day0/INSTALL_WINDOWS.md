@@ -23,6 +23,12 @@ WSL allows you to run a virtual Linux operating system in Windows. This is offic
 
 See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. There are currently two versions of WSL: WSL 1 and WSL 2. We suggest using WSL 1 for now. Follow the manual installation steps, and you should only need to run steps 1 and 6 for WSL 1. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
 
+Run the following once you've finished your install to make sure your apt repositories and pip repositories are up to date. 
+```
+sudo apt update
+sudo apt install python3-pip
+```
+
 ### Install xming
 
 Normally, WSL is just a command prompt, so it does not have a GUI interface. If you try to display matplotlib plots through the command line, it will not work, because WSL does not directly talk with your Windows desktop normally. However, you can make this communication happen with xming, which can be installed from here: https://sourceforge.net/projects/xming/.
@@ -48,11 +54,11 @@ Be default, WSL starts out in its own specific Linux portion of your filesystem.
     > pwd
     /home/codeastro
 
-We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codeastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents folder (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codastro/Documents/Research/`. 
+We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codeastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents folder (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codeastro/Documents/Research/`. 
 
 Instead of having to do this complex navigation each time, we recommend using a symbolic link to connect your main work folders to your WSL home directory. FOr example, to link my Research folder in the example above, I can do something like this:
 
-    > ln -s /mnt/c/Users/codastro/Documents/Research/ Research
+    > ln -s /mnt/c/Users/codeastro/Documents/Research/ Research
 
 Now you should have a linked folder called Research. If you `cd` into the folder, you should see the regular contents of that folder. 
 
@@ -114,11 +120,11 @@ These steps are for when you've just finished downloading WSL and opened up your
     or run a `wget` command to get it directly if you have the link to the script (right click, copy link address). So in my case:
 
     `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
-4. Run the script in silent mode (no prompts). and run an init.
+4. Run the script and follow the prompts. Make sure to say `yes` at the end of the prompts when it asks if you'd like to run a `conda init`, or run it yourself.
 
     ```
-    bash ~/Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda3
-    conda init
+    bash Miniconda3-latest-Linux-x86_64.sh
+    /[conda install directory]/bin/conda init
     ```
 
 5. Restart your Ubuntu terminal and confirm that conda has been configured properly. 
@@ -127,7 +133,7 @@ These steps are for when you've just finished downloading WSL and opened up your
 
     Should return something like 
 
-    `conda 4.8.3`
+    `conda 4.9.2`
 6. Create the codeastro environment in conda and activate it when done.
     ```
     conda create -n codeastro python=3
@@ -136,7 +142,7 @@ These steps are for when you've just finished downloading WSL and opened up your
     ```
 7. Get some packages we need
     
-    `conda install numpy mkl jupyter`
+    `conda install numpy cython jupyter`
 8. Clone the codeastro git repo.
 
     ```
@@ -153,9 +159,9 @@ These steps are for when you've just finished downloading WSL and opened up your
     cd ..
     git clone https://github.com/sblunt/orbitize.git
     cd orbitize
-    py.test
+    pytest --mode codeastro
     ```
-    You may get some warnings, but you should see 0 errors if your setup is working.
+    You may get some warnings, but you should see 0 errors and a secret code if your setup is working.
     
 Congratulations, you have a working Windows (read: Linux) environment!
 
@@ -177,16 +183,18 @@ Fill in the `[]`
 
 Create folder in `C:\Users\[USERNAME]\Documents\Ubuntu`
 ```
+sudo apt update
+sudo apt install python3-pip
 ln -s /mnt/c/Users/[USERNAME]/Documents/Ubuntu/ ~/
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh # use the correct link. This is for 64bit. 
-bash ~/Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda3 # Again, use the correct script name. This is still 64.
-conda init
+bash Miniconda3-latest-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
+[conda install directory]/bin/conda init # Only do this step if you didn't say yes to the `conda init` command at the end of the prompts
 ```
 Restart Ubuntu terminal. 
 ```
 conda create -n codeastro python=3
 conda activate codeastro
-conda install numpy mkl jupyter
+conda install numpy cython jupyter
 cd Ubuntu
 git clone https://github.com/semaphoreP/codeastro.git
 cd codeastro
@@ -194,5 +202,5 @@ pip install -r requirements.txt
 cd ..
 git clone https://github.com/sblunt/orbitize.git
 cd orbitize
-py.test
+pytest --mode codeastro
 ```
