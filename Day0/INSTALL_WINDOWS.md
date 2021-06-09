@@ -48,11 +48,11 @@ Be default, WSL starts out in its own specific Linux portion of your filesystem.
     > pwd
     /home/codeastro
 
-We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codeastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents folder (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codastro/Documents/Research/`. 
+We recommend you save your files in the Windows part of your filesystem for easy access with other applications. You can find your main Windows drives (e.g., `C:\`) in the `/mnt/` directory. For example, if my Windows account name is codeastro and it is stored on my `C:\` drive, then I can find my user folder at `/mnt/c/Users/codeastro/` when it is normally located at `C:\Users\codeastro\` on regular Windows. If I have a folder called Research in my Documents folder (located at `C:\Users\codeastro\Documents\Research\`), then I can find it at `/mnt/c/Users/codeastro/Documents/Research/`. 
 
 Instead of having to do this complex navigation each time, we recommend using a symbolic link to connect your main work folders to your WSL home directory. FOr example, to link my Research folder in the example above, I can do something like this:
 
-    > ln -s /mnt/c/Users/codastro/Documents/Research/ Research
+    > ln -s /mnt/c/Users/codeastro/Documents/Research/ Research
 
 Now you should have a linked folder called Research. If you `cd` into the folder, you should see the regular contents of that folder. 
 
@@ -109,15 +109,15 @@ These steps are for when you've just finished downloading WSL and opened up your
     This will link the directory we created at the beginning to a new directory in your home in Ubuntu (`~/Ubuntu` or your `/home/[USERNAME]/Ubuntu`). This is useful for managing your stuff for this project. Now anything we do in this Ubuntu's home will happen if your linked directory! They are... well, linked!
 3. Let's get your conda install. Either download it and move it over with 
 
-    `cp /mnt/c/Users/[USERNAME]/Downloads/Miniconda3-latest-Linux-x86_64.sh ~` 
+    `cp /mnt/c/Users/[USERNAME]/Downloads/Miniconda3-py39_4.9.2-Linux-x86_64.sh ~` 
 
     or run a `wget` command to get it directly if you have the link to the script (right click, copy link address). So in my case:
 
-    `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
-4. Run the script in silent mode (no prompts). and run an init.
+    `wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh`
+4. Run the script and follow the prompts. Make sure to run an init at the end of the prompts, or run it yourself.
 
     ```
-    bash ~/Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda3
+    bash ~/Miniconda3-latest-Linux-x86_64.sh
     conda init
     ```
 
@@ -178,15 +178,15 @@ Fill in the `[]`
 Create folder in `C:\Users\[USERNAME]\Documents\Ubuntu`
 ```
 ln -s /mnt/c/Users/[USERNAME]/Documents/Ubuntu/ ~/
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh # use the correct link. This is for 64bit. 
-bash ~/Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda3 # Again, use the correct script name. This is still 64.
-conda init
+wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh # use the correct link. This is for 64bit. 
+bash ~/Miniconda3-latest-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
+[install path of your conda]/bin/conda init # Only do this step if you didn't run the init command it at the end of the prompts
 ```
 Restart Ubuntu terminal. 
 ```
 conda create -n codeastro python=3
 conda activate codeastro
-conda install numpy mkl jupyter
+conda install numpy cython
 cd Ubuntu
 git clone https://github.com/semaphoreP/codeastro.git
 cd codeastro
