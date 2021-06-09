@@ -142,7 +142,7 @@ These steps are for when you've just finished downloading WSL and opened up your
     ```
 7. Get some packages we need
     
-    `conda install numpy cython`
+    `conda install numpy cython jupyter`
 8. Clone the codeastro git repo.
 
     ```
@@ -194,7 +194,7 @@ Restart Ubuntu terminal.
 ```
 conda create -n codeastro python=3
 conda activate codeastro
-conda install numpy cython
+conda install numpy cython jupyter
 cd Ubuntu
 git clone https://github.com/semaphoreP/codeastro.git
 cd codeastro
