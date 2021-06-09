@@ -117,7 +117,7 @@ These steps are for when you've just finished downloading WSL and opened up your
 4. Run the script and follow the prompts. Make sure to say `yes` at the end of the prompts when it asks if you'd like to run a `conda init`, or run it yourself.
 
     ```
-    bash ~/Miniconda3-latest-Linux-x86_64.sh
+    bash Miniconda3-py39_4.9.2-Linux-x86_64.sh
     /[conda install directory]/bin/conda init
     ```
 
@@ -179,7 +179,7 @@ Create folder in `C:\Users\[USERNAME]\Documents\Ubuntu`
 ```
 ln -s /mnt/c/Users/[USERNAME]/Documents/Ubuntu/ ~/
 wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh # use the correct link. This is for 64bit. 
-bash ~/Miniconda3-latest-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
+bash Miniconda3-py39_4.9.2-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
 [conda install directory]/bin/conda init # Only do this step if you didn't say yes to the `conda init` command at the end of the prompts
 ```
 Restart Ubuntu terminal. 
