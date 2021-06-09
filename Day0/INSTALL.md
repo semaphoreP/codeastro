@@ -22,7 +22,7 @@ miniconda [here](https://docs.conda.io/en/latest/miniconda.html) (https://docs.c
 **Note**
 When installing miniconda be sure to follow the prompts and say `yes` to running `conda init` at the last prompt! If you don't your terminal may not be able to recognize the `conda` command. If you miss it you can run it manually with:
 ```
-/[miniconda install directory here]/bin/conda init
+/[conda install directory]/bin/conda init
 ```
 
 ---

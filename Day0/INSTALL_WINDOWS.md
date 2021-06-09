@@ -114,11 +114,11 @@ These steps are for when you've just finished downloading WSL and opened up your
     or run a `wget` command to get it directly if you have the link to the script (right click, copy link address). So in my case:
 
     `wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh`
-4. Run the script and follow the prompts. Make sure to run an init at the end of the prompts, or run it yourself.
+4. Run the script and follow the prompts. Make sure to say `yes` at the end of the prompts when it asks if you'd like to run a `conda init`, or run it yourself.
 
     ```
     bash ~/Miniconda3-latest-Linux-x86_64.sh
-    conda init
+    /[conda install directory]/bin/conda init
     ```
 
 5. Restart your Ubuntu terminal and confirm that conda has been configured properly. 
@@ -127,7 +127,7 @@ These steps are for when you've just finished downloading WSL and opened up your
 
     Should return something like 
 
-    `conda 4.8.3`
+    `conda 4.9.2`
 6. Create the codeastro environment in conda and activate it when done.
     ```
     conda create -n codeastro python=3
@@ -136,7 +136,7 @@ These steps are for when you've just finished downloading WSL and opened up your
     ```
 7. Get some packages we need
     
-    `conda install numpy mkl jupyter`
+    `conda install numpy cython`
 8. Clone the codeastro git repo.
 
     ```
@@ -153,9 +153,9 @@ These steps are for when you've just finished downloading WSL and opened up your
     cd ..
     git clone https://github.com/sblunt/orbitize.git
     cd orbitize
-    py.test
+    pytest --mode codeastro
     ```
-    You may get some warnings, but you should see 0 errors if your setup is working.
+    You may get some warnings, but you should see 0 errors and a secret code if your setup is working.
     
 Congratulations, you have a working Windows (read: Linux) environment!
 
@@ -180,7 +180,7 @@ Create folder in `C:\Users\[USERNAME]\Documents\Ubuntu`
 ln -s /mnt/c/Users/[USERNAME]/Documents/Ubuntu/ ~/
 wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh # use the correct link. This is for 64bit. 
 bash ~/Miniconda3-latest-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
-[install path of your conda]/bin/conda init # Only do this step if you didn't run the init command it at the end of the prompts
+[conda install directory]/bin/conda init # Only do this step if you didn't say yes to the `conda init` command at the end of the prompts
 ```
 Restart Ubuntu terminal. 
 ```
@@ -194,5 +194,5 @@ pip install -r requirements.txt
 cd ..
 git clone https://github.com/sblunt/orbitize.git
 cd orbitize
-py.test
+pytest --mode codeastro
 ```
