@@ -23,10 +23,11 @@ WSL allows you to run a virtual Linux operating system in Windows. This is offic
 
 See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. There are currently two versions of WSL: WSL 1 and WSL 2. We suggest using WSL 1 for now. Follow the manual installation steps, and you should only need to run steps 1 and 6 for WSL 1. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
 
-Run the following once you've finished your install to make sure your apt repositories and pip repositories are up to date. 
+Run the following once you've finished your install to make sure your apt repositories and pip repositories are up to date. You also want to install the gcc C-compiler for some Python packages
 ```
 sudo apt update
 sudo apt install python3-pip
+sudo apt install gcc
 ```
 
 ### Install xming
@@ -185,6 +186,7 @@ Create folder in `C:\Users\[USERNAME]\Documents\Ubuntu`
 ```
 sudo apt update
 sudo apt install python3-pip
+sudo apt install gcc
 ln -s /mnt/c/Users/[USERNAME]/Documents/Ubuntu/ ~/
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh # use the correct link. This is for 64bit. 
 bash Miniconda3-latest-Linux-x86_64.sh # Be sure to run the conda init command on the last prompt!!
