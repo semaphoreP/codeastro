@@ -46,4 +46,4 @@ The Industry Panel Discussion on Friday will start at 9am and consist of three p
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. The workshop will be held online via video conferencing. For those that require financial assistance in any way to participate (the workshop itself is free), please contact Jason Wang (jwang4@caltech.edu), as we have some funding support available. Anyone related to astronomy is eligible. 
 
-**Applications have closed for 2021. We are reviewing applications now and we will notify everyone of decisions during the second-half of May**
+**Applications have closed for 2021. All applicants should have received an email notification. **
