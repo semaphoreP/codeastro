@@ -14,7 +14,7 @@
 ## Useful Links
 
   * [Day 2 Slides](https://docs.google.com/presentation/d/1HTWKeYw1iwI9AGh52uDatMo6T1wWUGbTmkhaJ_tyT5U/edit?usp=sharing)
-  * Mechanics of Git: [.PDF](https://drive.google.com/file/d/14S8w6b26JXjcFGa1aAFquq3Fh5iAa3-b/view?usp=sharing), [.PPTX](https://drive.google.com/file/d/1WE0eB4c1qb7N_aerenr4bboiNjvY7QT2/view?usp=sharing)
+  * Mechanics of Git: [.PDF](https://drive.google.com/file/d/1ybHcKcaaamoUJ2DspuG-bpVbvsk5_CkV/view?usp=sharing), [.PPTX](https://drive.google.com/file/d/1IRGU9ksxuc28tlwXhzASQ2i_Jo6sXEJd/view?usp=sharing)
     * 1 person should be the facilitator: keep track of time, stay on track, and keep track of progress
     * 1 person should be the recorder: writes down the solution (suggestion: use powerpoint, keynote, or google slides to draw out the git commit tree)
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/230
