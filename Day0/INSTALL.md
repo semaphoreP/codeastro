@@ -26,10 +26,13 @@ miniconda [here](https://docs.conda.io/en/latest/miniconda.html) (https://docs.c
 
 ---
 **Note**
-When installing miniconda be sure to follow the prompts and say `yes` to running `conda init` at the last prompt! If you don't your terminal may not be able to recognize the `conda` command. If you miss it you can run it manually with:
+
+1. When installing miniconda be sure to follow the prompts and say `yes` to running `conda init` at the last prompt! If you don't your terminal may not be able to recognize the `conda` command. If you miss it you can run it manually with:
 ```
 /[conda install directory]/bin/conda init
 ```
+
+2. Be sure to restart your terminal after installing conda and running `conda init` to apply the changes! Otherwise you will still be left with the unrecognized `conda` command error. 
 
 ---
 
