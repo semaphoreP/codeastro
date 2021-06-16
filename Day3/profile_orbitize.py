@@ -7,6 +7,9 @@ python -m cProfile -o profiler_output.txt profile_orbitize.py
 
 This will attach the cProfile profiler to this script and save its output to profiler_output.txt. 
 
+If you have any issues running the above command, your python configuration might be different than what
+we are assuing here. Ask a TA to help you figure out what needs to be changed if needed!
+
 Note on parallelized code:
 orbitize! by default is parallelized, but we will avoid doing that here. 
 Using parallelism will make the cprofiler output more confusing than necessary. We just want to know what takes the most time,
