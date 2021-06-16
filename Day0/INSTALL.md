@@ -48,7 +48,7 @@ Then, any time you want to use this version of Python from the command line, run
 
     which python
 
-Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `cython` and `jupyter` notebooks this way if they are not already installed. We are install cython here because we will need it installed ahead of time for some packages in requirements.txt. 
+Now that we have a Python environment for this workshop, let's install packages that we need. First we want to install `numpy` through conda so that it is compiled with MKL/BLAS so that we can parallelize linear algebra operations. We'll also install `cython` and `jupyter` notebooks this way if they are not already installed (use `conda list` to check what is already installed in a given conda environment). We're installing cython here because we will need it installed ahead of time for some packages in requirements.txt. 
 
     conda install numpy cython jupyter
 
