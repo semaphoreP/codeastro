@@ -10,10 +10,10 @@ Some sample questions:
   * What are some common practices at your job that could be useful to astronomers?
   * For astronomers looking to transition to industry, what would you recommend them to do?
   * What kind of programming languages, development software, testing, web services do you use?
-  * Are there any primary differences you see between academic and industry programmers?
+  * Are there any primary differences you see between academic and industry programming?
   * What is the workplace culture like there? 
   * How much supervision is there compared to academia?
-  * What is the career trajectory of a software engineer like?
+  * What does your future career trajectory look like?
 
 
 ## Project Show and Tell
