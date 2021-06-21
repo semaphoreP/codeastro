@@ -17,4 +17,5 @@
  * [Colaboratory link for code_developing.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/code_developing.ipynb)
  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colaboratory link for mpl_astropy.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/mpl_astropy.ipynb)
+ * [Closing Slides](https://docs.google.com/presentation/d/1EFRaBLhQjwf_AFZ3gOSG_61Z8gCNg7aZxwGvNQumd8I/edit?usp=sharing)
 
