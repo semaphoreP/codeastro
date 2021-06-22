@@ -44,7 +44,7 @@ new_image = np.array(new_image)
 counts = {} # dictionary of counts per value
 for i in range(dim1):
     for j in range(dim2):
-        value = new_image[dim1, dim2]
+        value = new_image[i, j]
         if value in counts:
             counts[value] += 1
         else:
