@@ -17,6 +17,7 @@
   * Mechanics of Git: [.PDF](https://drive.google.com/file/d/1ybHcKcaaamoUJ2DspuG-bpVbvsk5_CkV/view?usp=sharing), [.PPTX](https://drive.google.com/file/d/1IRGU9ksxuc28tlwXhzASQ2i_Jo6sXEJd/view?usp=sharing)
     * 1 person should be the facilitator: keep track of time, stay on track, and keep track of progress
     * 1 person should be the recorder: writes down the solution (suggestion: use powerpoint, keynote, or google slides to draw out the git commit tree)
+    * [ANSWER KEY](https://drive.google.com/file/d/1lYgEP9zYi0KbRL48hUCQDYMOZ20WBRjD/view?usp=sharing)
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/230
 
 ## Debug orbitize!
