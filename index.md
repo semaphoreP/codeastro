@@ -1,5 +1,7 @@
 # Program Description
 
+<img src="codeastro_logo_purple.png" alt="Code/Astro logo" width="200"/>
+
 ​Code/Astro is a week-long astronomy software development workshop. The goal of this program is to teach participants fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, participants will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. The workshop is free and open to folks at all career levels. Code/Astro is supported by the Heising-Simons Foundation.
 
 Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech, allowing participation both in-person and virtually. Caltech currently requires all visitors to be vaccinated and boosted, and masks are required indoors. We will monitor the COVID situation and Caltech COVID policites as the situation continues to evolve. Please indicate on the Code/Astro application form if you are interested in attending in person, and we understand if you wish to change your mind later. We also have some funds available for travel supports for folks that cannot afford to attend themselves -- just let us know on the application form!
