@@ -22,7 +22,8 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
  * David Law (LJMU)
  * Briley Lewis (UCLA)
  * Yash Mehta (Indian Institute of Science)
- * Suchi Narayanan (UHIfA)
+ * Suchi Narayanan (UHIfA)]
+ * Ricky Nilsson (IPAC)
  * Sameh Othman
  * Paulina Palma-Bifani (DAS, U Chile)
  * Pranav Satheesh (IIT Madras)
@@ -47,4 +48,4 @@ The Industry Panel Discussion on Saturday will start at 9am and consist of three
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. Attendence to the workshop can either be in-person or virtual. For those that require financial assistance in any way to participate (the workshop itself is free), please contact Jason Wang (jwang4@caltech.edu), as we have funding support available for in-person and remote attendence. Anyone related to astronomy is eligible. 
 
-**Applications have closed for 2021. All applicants should have received an email notification. **
+**Applications for 2022 will be released very soon!**
