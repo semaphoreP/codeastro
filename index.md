@@ -48,4 +48,4 @@ The Industry Panel Discussion on Saturday will start at 9am and consist of three
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. Attendence to the workshop can either be in-person or virtual. For those that require financial assistance in any way to participate (the workshop itself is free), let us know on the form, as we have funding support available for in-person and remote attendence. Anyone related to astronomy is eligible. If you have questions about the application, contact Jason Wang (jwang4@caltech.edu). 
 
-**Applications for 2022 will be released very soon!**
+Apply for our 2022 workshop at [this link](https://colab.research.google.com/drive/1ZctFSkoE0uorM13Js-Djco09ve_7LOEh?usp=sharing)!  Applications are due April 8th, 2022 at 11:59 PT.
