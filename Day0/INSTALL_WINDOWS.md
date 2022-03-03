@@ -37,6 +37,9 @@ Normally, WSL is just a command prompt, so it does not have a GUI interface. If 
 After you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
 
     echo export DISPLAY=localhost:0.0 >> ~/.bashrc
+### Note for Windows 11
+XMing should not be needed for windows 11 from build 22000 or higher. Your build can be checked by hitting start typing "winver" and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
 ### Install git
 
