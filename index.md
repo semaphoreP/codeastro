@@ -22,6 +22,7 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
  * David Law (LJMU)
  * Briley Lewis (UCLA)
  * Yash Mehta (Indian Institute of Science)
+ * Vighnesh Nagpal (UC Berkeley)
  * Suchi Narayanan (UHIfA)
  * Ricky Nilsson (IPAC)
  * Sameh Othman
