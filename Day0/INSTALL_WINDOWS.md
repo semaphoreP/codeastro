@@ -30,18 +30,20 @@ sudo apt install python3-pip
 sudo apt install gcc
 ```
 
+bashrc
+
+### Note for WSL2 on Windows 11
+XMing should not be needed for windows 11 from build 22000 or higher. Your build can be checked by hitting start typing "winver" and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
+You can skip to installing git 
+
 ### Install xming
 
 Normally, WSL is just a command prompt, so it does not have a GUI interface. If you try to display matplotlib plots through the command line, it will not work, because WSL does not directly talk with your Windows desktop normally. However, you can make this communication happen with xming, which can be installed from here: https://sourceforge.net/projects/xming/.
 
 After you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
 
-    echo export DISPLAY=localhost:0.0 >> ~/.bashrc
-
-### Note for WSL2 on Windows 11
-XMing should not be needed for windows 11 from build 22000 or higher. Your build can be checked by hitting start typing "winver" and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
-https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
-
+    echo export DISPLAY=localhost:0.0 >> ~/.
 ### Install git
 
 Git can be installed inside of Linux or in Windows. We recommend both, as it does not take up much space and is very convenient. For this workshop, we will work only with the git in Linux, but here we will describe how to install both. If you are using WSL with Ubuntu, you can install it in Ubuntu using its package manager (the most common way to install applications in Ubuntu):
