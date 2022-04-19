@@ -95,7 +95,7 @@ When you are done setting up a python interpreter, please run through the [Hello
 
 # Finished?
 
-When you have finished everything above, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdp3CnIVv-_XprhRmnA6j8em5Akm4eg9XXIYDs9v1_NWTYXBw/viewform?usp=sf_link) with the secret code so we know you are ready for the workshop!
+When you have finished everything above, fill out [this form](https://drive.google.com/drive/folders/1jzrm8Iy68LwKp7ndE6SVGDaviTNNaDRA?usp=sharing) with the secret code so we know you are ready for the workshop!
 
 # Apple-specific Instructions
 
