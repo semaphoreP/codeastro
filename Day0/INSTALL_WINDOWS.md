@@ -20,20 +20,29 @@ For Code/Astro, we will present instructions on how to set things up for WSL and
 WSL allows you to run a virtual Linux operating system in Windows. This is officially supported by Microsoft and lets you do anything a Linux user would do. 
 
 ### Install WSL
+There are currently two versions of WSL: WSL 1 and WSL 2. WSL2 is the future and works well on Windows 11. However, if you use Windows 10, we suggest using WSL 1 for now, as enabling GUIs for WSL2 on Windows 10 is tricky. It appears that transitioning from WSL1 to WSL2 is pretty straightforward. 
 
-See the WSL installation instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10. There are currently two versions of WSL: WSL 1 and WSL 2. We suggest using WSL 1 for now. Follow the manual installation steps, and you should only need to run steps 1 and 6 for WSL 1. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear. Anything you do inside this terminal screen will be done through Ubuntu. But as we will see, this is not the only way to run things in Linux.
+To install WSL1, follow only stpes #1 and #6 (not #2-#5) of these manual install instructions: https://docs.microsoft.com/en-us/windows/wsl/install-manual. Note that you will need to restart your computer after step 1. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear.
 
-Run the following once you've finished your install to make sure your apt repositories and pip repositories are up to date. You also want to install the gcc C-compiler for some Python packages
+In install WSL2, run the one-line install command found here: https://docs.microsoft.com/en-us/windows/wsl/install. You will need to restart your computer afterwards before you can use WSL2. By default, you will install Ubuntu, which is what we recommend also. After the restart, you should be able to launch a WSL session. 
+
+### Install Windows Terminal
+We recommend Windows Terminal to run all the various terminal programs in Windows (cmd, powershell, WSL, etc.). It's much more customizable to use than the default WSL shell. Windows Terminal is easily installed from the Windows store: https://docs.microsoft.com/en-us/windows/terminal/install. 
+
+After you install Windows Terminal, there shuold be an option to launch WSL by clicking the `v` button at the top of the window. You can even set it as your default terminal (see instructions in install link above). 
+
+### Install Linux Dependencies
+
+Run the following once you've finished your install to make sure your apt repositories and pip repositories are up to date (the pip command may not be necessary, but we have not tested it to confirm). You also want to install the gcc C-compiler for some Python packages
 ```
 sudo apt update
 sudo apt install python3-pip
 sudo apt install gcc
 ```
 
-
 ### Note for WSL2 on Windows 11
 
-XMing should not be needed for windows 11 from build 22000 or higher. Your build can be checked by hitting start typing "winver" and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
+XMing (the following section) should not be needed for windows 11 from build 22000 or higher. Your build can be checked by typing `winver` in a cmd/powershell (not WSL shell) and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
 https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
 You can skip to installing git 
@@ -42,9 +51,17 @@ You can skip to installing git
 
 Normally, WSL is just a command prompt, so it does not have a GUI interface. If you try to display matplotlib plots through the command line, it will not work, because WSL does not directly talk with your Windows desktop normally. However, you can make this communication happen with xming, which can be installed from here: https://sourceforge.net/projects/xming/.
 
-After you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
+The following insturctions are different depending on whether you are using WSL1 or WSL2. If you are using WSL2 and have Windows 11 with build 22000 or higher, you don't need to do any of the following. 
+
+For WSL1, after you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
 
     echo export DISPLAY=localhost:0.0 >> ~/.bashrc
+    
+For WSL2, after you download and install xming, run xlaunch. Xlaunch is xming but allows you to customize some xming settings. Use the default settings except check the box that says "No Access Control" (should be 3rd page of the interative prompt) before clicking finish, which will launch xming. You should now see the xming icon appear in the Windows taskbar. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming.  
+
+    export DISPLAY=`grep -oP "(?<=nameserver ).+" /etc/resolv.conf`:0.0
+    
+    
 ### Install git
 
 Git can be installed inside of Linux or in Windows. We recommend both, as it does not take up much space and is very convenient. For this workshop, we will work only with the git in Linux, but here we will describe how to install both. If you are using WSL with Ubuntu, you can install it in Ubuntu using its package manager (the most common way to install applications in Ubuntu):
