@@ -1,7 +1,7 @@
 # Installation
 
 If you are using a Windows machine, first check out the setup instructions 
-[here](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions at the bottom of this page. Once you've
+[here](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL_WINDOWS.md). If you are using a Mac, first check out the instructions [at the bottom of this page](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md#apple-specific-instructions). Once you've
 followed those instructions, come back and continue here.
 
 At the end of the Python installation section, you will run a series of tests that will give you a secret code that indicates Python has been installed successfully! 
