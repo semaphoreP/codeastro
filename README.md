@@ -77,6 +77,6 @@ Many of you don’t have research experience, and/or did not come to this worksh
 
 - write an educational visualization of a physical process (e.g. check out Show Me the Orbit)
 - write something that randomly generates a joke or song lyrics given the name of a user 
-- write a quadratic equation solver that prints out the steps for solving bby hand
+- write a quadratic equation solver that prints out the steps for solving by hand
 - write a image processing tool that does one main task (e.g., make color images from astronomical data taken at different wavelengths, a tool that automatically looks for stars in an image). 
 
