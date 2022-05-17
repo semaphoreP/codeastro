@@ -10,11 +10,10 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
 ### Instructors
 
  * Sarah Blunt (Caltech)
- * BJ Fulton (IPAC)
  * Jason Wang (Caltech/Northwestern)
  * Matt Hosek (UCLA)
  
-### Teaching Assistants (still finalizing)
+### Teaching Assistants
  
  * Belinda Blakley
  * Simon Ko (Roblox)
@@ -25,14 +24,17 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
  * Vighnesh Nagpal (UC Berkeley)
  * Suchi Narayanan (UHIfA)
  * Ricky Nilsson (IPAC)
- * Sameh Othman
+ * Sameh Othman (Birzeit University & Cologne University)
  * Paulina Palma-Bifani (DAS, U Chile)
  * Pranav Satheesh (IIT Madras)
+ * Shubh Agrawal (Caltech)
+ * Jea Adams (Harvard CfA)
+ * Yoni Brande (University of Kansas)
+ * Kruthi Krishna (Radboud University)
+ * Chetan Chawla (ASIAA)
 
 # ​Schedule
-
- The workshop will held in-person at Caltech and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. A [detailed schedule and local Caltech logsitics are available here](details.html). Topics covered each day are as follows:
-
+ The workshop will held in-person at Caltech and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. A [detailed schedule and local Caltech logsitics are available here](details.html). Topics covered each day are as follows:d
 | Tuesday 6/21   | Wednesday 6/22  | Thursday 6/23  | Friday 6/24  | Saturday 6/25   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 | Programming Paradigms      | Git & GitHub            | Releasing Code          | Software Testing              | Industry Panel Discussion     |
@@ -44,6 +46,9 @@ Before the workshop starts, we ask all participants to setup their development e
 [This link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) will be updated with a detailed schedule of classes and office hours. Local Caltech logistics will also be released in the coming weeks. 
 
 The Industry Panel Discussion on Saturday will start at 9am and consist of three panelists who have done software development in both academia and industry. Bring any questions you want to ask them!
+
+### Industry Panelists (still finalizing)
+ - Denise Schmitz, Avicena (attending in person)
 
 # How to Apply
 
