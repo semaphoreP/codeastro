@@ -2,7 +2,7 @@
 
 ​Code/Astro is a week-long astronomy software development workshop. The goal of this program is to teach participants fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, participants will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. The workshop is free and open to folks at all career levels. Code/Astro is supported by the Heising-Simons Foundation.
 
-Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech, allowing participation both in-person and virtually. Caltech currently requires all visitors to be vaccinated and boosted, and masks are required indoors. We will monitor the COVID situation and Caltech COVID policites as the situation continues to evolve. Please indicate on the Code/Astro application form if you are interested in attending in person, and we understand if you wish to change your mind later. We also have some funds available for travel supports for folks that need it -- just let us know on the application form!
+Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech, allowing participation both in-person and virtually. Caltech currently requires all visitors to be vaccinated and boosted, and masks are required indoors. See [logistical details](details.html) for further COVID prevention info.
 
 ### Dates
 6/21/2022 - 6/25/2022
@@ -34,7 +34,8 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
  * Chetan Chawla (ASIAA)
 
 # ​Schedule
- The workshop will held in-person at Caltech and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. A [detailed schedule and local Caltech logsitics are available here](details.html). Topics covered each day are as follows:d
+ The workshop will held in-person at Caltech and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. A [detailed schedule and local Caltech logsitics are available here](details.html). Topics covered each day are as follows:
+
 | Tuesday 6/21   | Wednesday 6/22  | Thursday 6/23  | Friday 6/24  | Saturday 6/25   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 | Programming Paradigms      | Git & GitHub            | Releasing Code          | Software Testing              | Industry Panel Discussion     |
