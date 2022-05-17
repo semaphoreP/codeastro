@@ -1,4 +1,4 @@
-# Workout Details
+# Workshop Details
 
 ## Agenda
 
@@ -79,3 +79,5 @@ tests, so you do not need to purchase them yourself.
  * We recommend limiting the amount you eat indoors. Southern California weather is typically very nice in the summer, 
 and outdoor dining options are available throughout Pasadena. 
 
+## Recording Policy
+We are going to record to workshop to enable broader access to the materials from Code/Astro. We plan on sharing the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
