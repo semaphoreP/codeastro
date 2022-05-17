@@ -31,7 +31,7 @@ Pandemic allowing, we will offer a hybrid in-person/virtual workshop at Caltech,
 
 # ​Schedule
 
- The workshop will held in-person (TBA on Caltech campus) and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. Due to some date conflicts, we are scheduling the last day of the workshop to be on a Saturday, which will only consist of two morning activities. Please consdier attending the workshop even if you cannot make it to the Saturday session. Topics covered each day are as follows:
+ The workshop will held in-person at Caltech and virtually over Zoom. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured and participants can work on their packages at their own pace. A [detailed schedule and local Caltech logsitics are available here](details.html). Topics covered each day are as follows:
 
 | Tuesday 6/21   | Wednesday 6/22  | Thursday 6/23  | Friday 6/24  | Saturday 6/25   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
@@ -49,6 +49,6 @@ The Industry Panel Discussion on Saturday will start at 9am and consist of three
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. Attendence to the workshop can either be in-person or virtual. For those that require financial assistance in any way to participate (the workshop itself is free), let us know on the form, as we have funding support available for in-person and remote attendence. Anyone related to astronomy is eligible. If you have questions about the application, contact Jason Wang (jwang4@caltech.edu). 
 
-**Apply for our 2022 workshop at [this link](https://forms.gle/8Us7Hn67HQAxmC9r7)!**  Applications are due April 8th, 2022 at 11:59 PT. We aim to notify all applicants before the end of April. 
+**Applications are closed for 2022. Keep an eye out for Code/Astro in future years!** 
 
 In addition to some basic questions, the application form has some questions about your programming background and goals for taking this workshop. In the event we receive too many applications, we will use these responses to help us make decisions on admission to the workshop. Part of the application also consists of taking a diagnostic assignment. There is no need to know everything on this assignment. We are using it to get a sense of the Python expertise of the participants and to help get everyone on the same page in programming jargon. Feel free to use other resources to help complete this assignment! The demographic questions at the end are optional and are used by us to identify biases in our advertising or admissions strategy for the workshop.
