@@ -68,7 +68,7 @@ in [Linde Hall](https://www.caltech.edu/map/campus/ronald-and-maxine-linde-hall-
 groups projects in the afternoon in. The instructors and TAs will be available there in the afternoon in those rooms to help answer any
 questions, or discuss your project with you.
 
-We will also host a workshop dinner on Thursday June 23rd at 6pm. The dinner is free to all participants. To sign up to attend, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfz57n01MVj6JlTQ_KOjmaboJs9BoRGxmy12Gdtmc6dXEaP7g/viewform?usp=sf_link).
+We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). The dinner is free to all participants. To sign up to attend, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfz57n01MVj6JlTQ_KOjmaboJs9BoRGxmy12Gdtmc6dXEaP7g/viewform?usp=sf_link).
 
 ## COVID Policy
 We are adding a few measures the limit the spread of COVID at our workshop. 
