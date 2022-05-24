@@ -36,9 +36,9 @@ miniconda [here](https://docs.conda.io/en/latest/miniconda.html) (https://docs.c
 
 ---
 
-For all Python users, we strongly recommend that you use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other projects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.
+For all Python users, we strongly recommend that you use conda environments to manage multiple Python versions for multiple projects, especially if you already have python installed for other projects. This prevents projects having conflicting dependencies as each project can have its own Python. Let's create an environment for Code/Astro that uses Python 3.10, which is the most up-to-date version of Python.
 
-    conda create -n codeastro python=3
+    conda create -n codeastro python=3.10
 
 Then, any time you want to use this version of Python from the command line, run the following line of code to set Python to point to this version:
 
