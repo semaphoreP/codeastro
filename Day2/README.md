@@ -1,11 +1,11 @@
 # Day 2
 
-## Project Goals
+## Project Goal:
 
-  * Set up a Github repository for your project. Start creating modules and classes that you need. 
-  * Write at least 1 or 2 functions for tomorrow (we'll need it for an activity).
-  * The next two days will have a lot of scaffolding work for your code packages. Today is a good time to make progress on code functionality!
+Get comfortable using GitHub to collaborate on your package.
 
+Example: today we’ll put our code on GitHub and begin using branches to make further changes. We’ll continue working on the core functionality we sketched out yesterday (perhaps today we’ll add code to query the Gaia database using our list).
+ 
 ## Learning Objectives
 
   * Be able to use git and follow the git flow process to contribute version-controlled code

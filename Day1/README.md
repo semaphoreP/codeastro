@@ -1,9 +1,10 @@
 # Day 1
 
-## Project Goals for Today
+## Project Goal for Today:
 
- * Come up with an idea for a small Python package to work on for the week. The function can be simple (for example: a package to blur images). The goal for the package is to learn the steps to develope and publish this package. 
- * Start working on writing/designing the code. Think about how to structure your code: what should be a function and what should be a class?
+Decide on the purpose of the package. Write one central function or class. 
+
+Example: we’re working on a package that plots the most likely galactic orbits for a user-specified subset of the Gaia catalog. Today, me and partner 1 will write a function that uses `galpy` to compute and plot orbits for a list of stars, and partners 2 and 3 will write a class for constructing the list of stars using user input.
 
 ## Learning Objectives
 
@@ -18,4 +19,3 @@
  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colaboratory link for mpl_astropy.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/mpl_astropy.ipynb)
  * [Closing Slides](https://docs.google.com/presentation/d/1EFRaBLhQjwf_AFZ3gOSG_61Z8gCNg7aZxwGvNQumd8I/edit?usp=sharing)
-

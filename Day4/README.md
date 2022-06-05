@@ -2,11 +2,11 @@
 
 # Day 4
 
-## Project Goals
+## Project Goal:
 
-  * Add tests to your repo and try to debug your code so the tests pass
-  * Have an example/demo of your package (preferably in your docs or in your repo)
-  * Another group should be able to install and run your package tomorrow!
+Add tests, and get ready to present tomorrow!
+
+Example: We’ll write unit tests that evaluate the performance of individual functions (e.g. if a user sets a degree range keyword, does the Gaia query work appropriately?), and end-to-end tests that make sure the whole package is working. We’ll also add a tutorial.
 
 ## Learning Objectives
 
