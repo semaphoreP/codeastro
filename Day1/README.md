@@ -18,4 +18,4 @@ Example: we’re working on a package that plots the most likely galactic orbits
  * [Colaboratory link for code_developing.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/code_developing.ipynb)
  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colaboratory link for mpl_astropy.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/mpl_astropy.ipynb)
- * [Closing Slides](https://docs.google.com/presentation/d/1EFRaBLhQjwf_AFZ3gOSG_61Z8gCNg7aZxwGvNQumd8I/edit?usp=sharing)
+ * [Closing Slides](https://docs.google.com/presentation/d/17hjcGZCWItcQB0e8bfAjf3u5i2ONLkPD5I2z_lVpd_4/edit?usp=sharing)
