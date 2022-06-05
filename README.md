@@ -3,6 +3,8 @@ Course materials for the 2021 Code/Astro workshop.
 
 Workshop website: https://semaphorep.github.io/codeastro/
 
+Workshop "cheatsheet" of links & information: https://github.com/semaphoreP/codeastro/blob/main/workshop_info.md
+
 ## Getting Started
 
 Before the workshop, please complete the following:
