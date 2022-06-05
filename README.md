@@ -75,7 +75,7 @@ Many of you came to this workshop with ideas for open-source projects that are r
 
 Many of you don’t have research experience, and/or did not come to this workshop with an idea. That’s completely fine too! If you’re struggling to think of an idea for a project, here’s a list of ideas to give you some inspiration:
 
-- write an educational visualization of a physical process (e.g. check out Show Me the Orbit)
+- write an educational visualization of a physical process (e.g. check out [Show Me the Orbit](https://github.com/sblunt/orbitize/blob/main/docs/tutorials/show-me-the-orbit.ipynb))
 - write something that randomly generates a joke or song lyrics given the name of a user 
 - write a quadratic equation solver that prints out the steps for solving by hand
 - write a image processing tool that does one main task (e.g., make color images from astronomical data taken at different wavelengths, a tool that automatically looks for stars in an image). 
