@@ -15,6 +15,6 @@ Example: we’ll write docstrings for each of our classes and functions, and put
 
 ## Useful Links
 
-  * [Day 3 Slides](https://docs.google.com/presentation/d/1IqDk-x3thJv3O6Dpw-V40VfKPZji0f6x6E_NtWK6teo/edit?usp=sharing)
-  * [Slides on Releasing Code](https://docs.google.com/presentation/d/1oZ1w3B9ECrgYfndYIZ6TS0VHH4d49J6z4ciCDan-0M4/edit?usp=sharing)
+  * [Day 3 Slides](https://docs.google.com/presentation/d/1MXeZZMRHcmewBnWR1my4-JEDK9Mj4EkYs-hDiDZgtw4/edit?usp=sharing)
+  * [Slides on Releasing Code](https://docs.google.com/presentation/d/13hsrEckVlQrVZZ-NCrm8hoG4Uun4M3yIwQQRBfO3ee0/edit?usp=sharing)
   * [Colaboratory Link for analyze_profiler.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day3/analyze_profiler.ipynb)
