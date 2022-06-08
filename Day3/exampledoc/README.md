@@ -31,7 +31,7 @@ Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 
 5. Open `conf.py` in VScode or other editor. We'll need to uncomment
 the following lines in the "Path setup" section. This path tells
-sphinx where to find your python code files.
+sphinx where to find your python files.
 ```
 # import os
 # import sys
