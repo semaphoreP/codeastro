@@ -51,7 +51,7 @@ sys.path.insert(0, os.path.abspath('..'))
    list in `conf.py`.
 
 <p align="center">
-  <img width="500" height="410" src="./conf_edits.png">
+  <img width="574" height="700" src="./conf_edits.png">
 </p>
 
 8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
