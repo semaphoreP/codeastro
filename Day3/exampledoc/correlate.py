@@ -109,3 +109,4 @@ if __name__ == '__main__':
 
     print("Shift array b by {:.0f} pixels to line up with array a." \
           .format(shift))
+

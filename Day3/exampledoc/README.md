@@ -75,7 +75,14 @@ Correlate
 .. automodule:: correlate
    :members:
 ```
-This will automatically parse `correlate.py` and look for your docstrings in order to turn them into a nicely-formatted web page.
+This will automatically parse `correlate.py` and look for your
+   docstrings in order to turn them into a nicely-formatted web
+   page. Here are more details regarding the different parts of
+   this file:
+
+<p align="center">
+  <img width="1000" height="198" src="./figs/correlate_edits.png">
+</p>
 
 10. Run `make html` again to update the docs.
 
