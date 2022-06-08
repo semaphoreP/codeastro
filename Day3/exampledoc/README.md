@@ -14,7 +14,8 @@ $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 
 3. Copy the `exampledoc` directory somewhere into your repo and `cd` into it.
 
-4. Now we are ready to initialize the documentation. Start by making a `docs` directory in your repo. Then run `sphinx-quickstart`
+4. Now we are ready to initialize the documentation. Start by making a
+`docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
 ```
 $ mkdir docs
 $ cd docs
