@@ -51,7 +51,7 @@ sys.path.insert(0, os.path.abspath('..'))
    list in `conf.py`.
 
 <p align="center">
-  <img width="574" height="700" src="./conf_edits.png">
+  <img width="574" height="700" src="./figs/conf_edits.png">
 </p>
 
 8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
@@ -62,7 +62,10 @@ $ make html
 This will create a basic set of documentation pages in `_build/html`. Open up the `index.html` with your favorite browser.
 
 
-9. This page doesn't have any of the documentation from your docstrings yet, so lets add that. The content of these pages are controlled by the `.rst` (reStructured text) files. Create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
+9. This page doesn't have any of the documentation from your
+docstrings yet, so lets add that. The content of these pages are
+controlled by the `.rst` (reStructured text) files. In the `docs`
+directory, create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
 ```
 .. _correlate:
 
