@@ -134,8 +134,7 @@ indents, skipped lines, type of punctuation used, etc.
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
   tables" sections of the index page). Now that the `correlate.rst` file has been added
-  under the toctree, we can refer to it by the label at the top of the
-  file:
+  under the toctree, we can refer to its label:
 ```
 Indices and tables
 ==================
