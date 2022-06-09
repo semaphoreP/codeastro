@@ -105,7 +105,7 @@ This will automatically parse `correlate.py` and look for your
    this file:
 
 <p align="center">
-  <img width="800" height="142" src="./figs/correlate_f.png">
+  <img width="800" height="447" src="./figs/correlate_f2.png">
 </p>
 
 10. Link the correlate doc page to the index page by adding ``correlate.rst``
@@ -121,11 +121,14 @@ to ``index.rst``:
 12. View your documentation by opening the file at `_build/html/index.html`.
 
 # Tips and Tricks
-* .rst files have many more text formatting options then what is shown in
+* .rst files offer many more text formatting options than what is shown in
   this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
   with more options.
 
+* Docstrings and .rst files can be very finicky regarding
+syntax! How sphinx compiles your documentation can be sensitive to
+indents, skipped lines, types of punctuation used, etc. 
 
 # Activity
 1. Document at least one function in your package with a docstring. 

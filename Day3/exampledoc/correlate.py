@@ -1,4 +1,3 @@
-"""Functions to perform correlations"""
 import numpy as np
 from scipy.stats import norm
 
@@ -67,8 +66,7 @@ def find_shift(a, b):
         b (array): Target vector
 
     Returns:
-        float: the shift needed to be applied to vector b to
-            best match vector a
+        float: the shift needed to be applied to vector b to best match vector a
     """
     npt = len(a)
     c_corr = cross_corr(a, b)
