@@ -1,6 +1,22 @@
 ![Astronomy Documentation](https://pbs.twimg.com/media/EUJmsaXUcAEfmTT?format=jpg&name=medium)
 
 # Python Docstrings
+A docstring is a string that appears in the first line of a function
+or class that provides an overview of its purpose, a description of
+the input variables it expects, and an explanation of the outputs
+produced. In addition, docstrings provide a standardized way to
+document code that can be easily parsed by users or automated
+documetation tools. There are several common styles of python
+docstrings (see examples
+[here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
+but today we will focus on the Google Docstring. 
+
+Take a look at `correlate.py` in the `exampledoc` directory. These
+functions have Google-style docstrings. Let's take a closer look at
+the different components of the docstring for the `cross_corr` function:
+
+
+
 
 # Sphinx quickstart guide
 
