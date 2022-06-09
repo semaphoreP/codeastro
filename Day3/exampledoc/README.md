@@ -91,10 +91,10 @@ docstrings yet, so lets add that. The content of these pages are
 controlled by the `.rst` (reStructured text) files. In the `docs`
 directory, create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
 ```
-.. _correlate:
+.. _correlation:
 
-Correlate
-=========
+Correlation Functions
+=====================
 
 .. automodule:: correlate
    :members:
@@ -122,7 +122,8 @@ to ``index.rst``:
 
 
 # Activity
-1. Set up sphinx documentation for your project repo.
-2. Document at least one function in your package and make sure it builds in the sphinx documentation.
+1. Document at least one function in your package with a docstring.
+2. Set up sphinx documentation for your project repo and build the doc
+   page for your function(s). Make sure it builds correctly!
 3. (BONUS) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
 
