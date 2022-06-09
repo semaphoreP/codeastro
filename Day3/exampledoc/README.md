@@ -139,7 +139,8 @@ indents, skipped lines, type of punctuation used, etc.
 ```
 Indices and tables
 ==================
-We can make a link to the correlation page by doing :ref:`correlation`.
+We can make a link to the correlation page by referring to its label
+  like this :ref:`correlation`.
   
 * :ref:`genindex`
 * :ref:`modindex`
