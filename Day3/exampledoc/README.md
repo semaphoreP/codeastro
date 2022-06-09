@@ -15,7 +15,7 @@ the different components of the docstring for the `cross_corr` function:
 
 
 <p align="center">
-  <img width="700" height="185" src="./figs/docstring_f.png">
+  <img width="800" height="211" src="./figs/docstring_f.png">
 </p>
 
 In addition to providing crucial information, docstrings provide a standardized way to
@@ -108,7 +108,7 @@ This will automatically parse `correlate.py` and look for your
   <img width="800" height="142" src="./figs/correlate_f.png">
 </p>
 
-10. Link the correlate doc page to the index page by adding ``correlate``
+10. Link the correlate doc page to the index page by adding ``correlate.rst``
 to ``index.rst``:
 
 <p align="center">
@@ -120,9 +120,15 @@ to ``index.rst``:
 
 12. View your documentation by opening the file at `_build/html/index.html`.
 
+# Tips and Tricks
+* .rst files have many more text formatting options then what is shown in
+  this example. Here is a nice
+  [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
+  with more options.
+
 
 # Activity
-1. Document at least one function in your package with a docstring.
+1. Document at least one function in your package with a docstring. 
 2. Set up sphinx documentation for your project repo and build the doc
    page for your function(s). Make sure it builds correctly!
 3. (BONUS) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.

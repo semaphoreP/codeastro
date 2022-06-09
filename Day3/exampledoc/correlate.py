@@ -69,7 +69,6 @@ def find_shift(a, b):
     Returns:
         float: the shift needed to be applied to vector b to
             best match vector a
-
     """
     npt = len(a)
     c_corr = cross_corr(a, b)
