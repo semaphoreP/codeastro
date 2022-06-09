@@ -161,7 +161,7 @@ public,
 and has sphinx documentation set up as above,
 then you can host your documentation via
 [ReadTheDocs](https://readthedocs.org/). One very nice aspect of
-ReadTheDocs is that you can choose to have it automatically recompile
+ReadTheDocs is that you can have it automatically recompile
 the documentation each time a change is pushed to your code
 repository. Just like that, you have documentation that updates
 itself!
