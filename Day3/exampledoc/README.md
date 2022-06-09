@@ -31,7 +31,7 @@ sphinx to build documentation for `correlate.py`!
 $ pip install sphinx
 ```
 
-2. Since we will be using the Napoleon style of docstrings we need to install the `sphinx-napoleon` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
+2. Since we will be using the Google style of docstrings we need to install the `sphinx-napoleon` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
 ```
 $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
@@ -109,7 +109,8 @@ This will automatically parse `correlate.py` and look for your
 </p>
 
 10. Link the correlate doc page to the index page by adding ``correlate.rst``
-to ``index.rst``:
+to ``index.rst`` under the "toctree" command. This puts
+``correlate.rst`` in the table-of-contents for the sphinx page.
 
 <p align="center">
   <img width="800" height="356" src="./figs/index_f.png">
@@ -128,7 +129,7 @@ to ``index.rst``:
 
 * Docstrings and .rst files can be very finicky regarding
 syntax! How sphinx compiles your documentation can be sensitive to
-indents, skipped lines, types of punctuation used, etc. 
+indents, skipped lines, type of punctuation used, etc. 
 
 # Activity
 1. Document at least one function in your package with a docstring. 
