@@ -129,7 +129,23 @@ to ``index.rst`` under the "toctree" command. This puts
 
 * Docstrings and .rst files can be very finicky regarding
 syntax! How sphinx compiles your documentation can be sensitive to
-indents, skipped lines, type of punctuation used, etc. 
+indents, skipped lines, type of punctuation used, etc.
+
+* In the example above, let's say we wanted to insert a link to the
+  correlation function page somwhere (say, under the "Indicies and
+  tables" sections of the index page). Now that the `correlate.rst` file has been added
+  under the toctree, we can refer to it by the label at the top of the
+  file, like this:
+  ```
+Indices and tables
+==================
+We can make a link to the correlation page by doing :ref:`correlation`.
+  
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+  ```
 
 # Activity
 1. Document at least one function in your package with a docstring. 
