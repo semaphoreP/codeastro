@@ -1,5 +1,7 @@
 ![Astronomy Documentation](https://pbs.twimg.com/media/EUJmsaXUcAEfmTT?format=jpg&name=medium)
 
+# Python Docstrings
+
 # Sphinx quickstart guide
 
 1. Make sure that sphinx is installed.
@@ -97,12 +99,7 @@ to ``index.rst``:
 12. View your documentation by opening the file at `_build/html/index.html`.
 
 
-## Expected Syntax of Python DocStrings
-
-
-
-
-## Activity
+# Activity
 1. Set up sphinx documentation for your project repo.
 2. Document at least one function in your package and make sure it builds in the sphinx documentation.
 3. (BONUS) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
