@@ -105,7 +105,7 @@ This will automatically parse `correlate.py` and look for your
    this file:
 
 <p align="center">
-  <img width="800" height="447" src="./figs/correlate_f2.png">
+  <img width="800" height="156" src="./figs/correlate_f2.png">
 </p>
 
 10. Link the correlate doc page to the index page by adding ``correlate.rst``
