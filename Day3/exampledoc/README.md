@@ -88,13 +88,18 @@ This will automatically parse `correlate.py` and look for your
 to ``index.rst``:
 
 <p align="center">
-  <img width="1000" height="548" src="./figs/index_edits.png">
+  <img width="800" height="438" src="./figs/index_edits.png">
 </p>
 
 
 11. Run `make html` again to update the docs.
 
 12. View your documentation by opening the file at `_build/html/index.html`.
+
+
+## Expected Syntax of Python DocStrings
+
+
 
 
 ## Activity
