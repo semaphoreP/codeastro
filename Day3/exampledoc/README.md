@@ -136,7 +136,7 @@ indents, skipped lines, type of punctuation used, etc.
   tables" sections of the index page). Now that the `correlate.rst` file has been added
   under the toctree, we can refer to it by the label at the top of the
   file, like this:
-  ```
+```
 Indices and tables
 ==================
 We can make a link to the correlation page by doing :ref:`correlation`.
@@ -145,7 +145,7 @@ We can make a link to the correlation page by doing :ref:`correlation`.
 * :ref:`modindex`
 * :ref:`search`
 
-  ```
+ ```
 
 # Activity
 1. Document at least one function in your package with a docstring. 
