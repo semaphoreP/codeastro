@@ -96,6 +96,8 @@ directory, create a new `.rst` file called `correlate.rst`. The contents of this
 Correlation Functions
 =====================
 
+Function to perform correlations.
+
 .. automodule:: correlate
    :members:
 ```
