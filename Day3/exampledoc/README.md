@@ -17,12 +17,6 @@ the different components of the docstring for the `cross_corr` function:
 <p align="center">
   <img width="700" height="185" src="./figs/docstring_all.png">
 </p>
-<p align="center">
-  <img width="700" height="185" src="./figs/docstring2.png">
-  </p>
-  <p align="center">
-  <img width="700" height="185" src="./figs/docstring3.png">
-</p>
 
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
