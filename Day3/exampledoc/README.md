@@ -151,5 +151,40 @@ We can make a link to the correlation page by referring to its label
 1. Document at least one function in your package with a docstring. 
 2. Set up sphinx documentation for your project repo and build the doc
    page for your function(s). Make sure it builds correctly!
-3. (BONUS) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
+3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
+
+
+# Bonus Activity: Linking your Sphinx Documentation with ReadTheDocs
+In most cases, we want to host our sphinx documentation online so that
+other users can access it easily. If your code is in a GitHub repo, is
+public, 
+and has sphinx documentation set up as above,
+then you can host your documentation via
+[ReadTheDocs](https://readthedocs.org/). One very nice aspect of
+ReadTheDocs is that you can choose to have it automatically recompile
+the documentation each time a change is pushed to your code
+repository. Just like that, you have documentation that updates
+itself!
+
+ReadtheDocs provides a nice
+[tutorial](https://docs.readthedocs.io/en/stable/tutorial/) on how to
+set it up. You will need to:
+
+1. Make a free ReadTheDocs account and authorize it to access your
+GitHub account ("Sign Up for Read the Docs")
+
+2. Import your repository as a new ReadTheDocs project ("Import the
+   Project for Read the Docs")
+
+3. Build your documentation; make sure it runs to completion and that
+the output webpage looks the way you expect it to ("Checking the First Build")
+
+4. Set it up so that the docs are automatically recompiled if a push
+is made to the github repo. In the ReadtheDocs project page,
+click on the `Advanced Settings` link on the left under the `Admin`
+menu, check the “Build pull requests for this project” checkbox,
+and click the Save button at the bottom of the page. (From "Trigger a
+Build from a pull request"). 
+
+
 
