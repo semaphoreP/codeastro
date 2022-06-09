@@ -135,7 +135,7 @@ indents, skipped lines, type of punctuation used, etc.
   correlation function page somwhere (say, under the "Indicies and
   tables" sections of the index page). Now that the `correlate.rst` file has been added
   under the toctree, we can refer to it by the label at the top of the
-  file, like this:
+  file:
 ```
 Indices and tables
 ==================
