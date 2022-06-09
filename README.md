@@ -16,7 +16,7 @@ Before the workshop, please complete the following:
 
 ## Project Information
 
-Throughout this week, you’ll be working with a small group of collaborators (1-4 others) on a final project, a real open-source Python package for astronomy. This is an opportunity to put the knowledge you’ve learned from Code/Astro intro practice. On the final day of the workshop (Saturday June 25th), you’ll (optionally) have a chance to present your package to the other Code/Astro participants. 
+Throughout this week, you’ll be working with a small group of collaborators (1-4 others) on a final project, a real open-source Python package for astronomy. If you already have group partners in mind, please email us! If not, we will assign you to a group based on timezone, career level, and any personal preferences you've communicated to us. This is an opportunity to put the knowledge you’ve learned from Code/Astro intro practice. On the final day of the workshop (Saturday June 25th), you’ll (optionally) have a chance to present your package to the other Code/Astro participants. 
 
 ### Project Goal: 
 
