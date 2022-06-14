@@ -81,3 +81,6 @@ and outdoor dining options are available throughout Pasadena.
 
 ## Recording Policy
 We are going to record to workshop to enable broader access to the materials from Code/Astro. We plan on sharing the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
+
+## Parking Information
+Parking info for visitors to Caltech is [here](https://parking.caltech.edu/parking-info/visitor-parking). If you are receiving travel support, please save your parking receipts, and we will be able to reimburse you after the workshop.
