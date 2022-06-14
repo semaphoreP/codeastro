@@ -68,16 +68,16 @@ in [Linde Hall](https://www.caltech.edu/map/campus/ronald-and-maxine-linde-hall-
 groups projects in the afternoon in. The instructors and TAs will be available there in the afternoon in those rooms to help answer any
 questions, or discuss your project with you.
 
-We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). The dinner is free to all participants. To sign up to attend, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfz57n01MVj6JlTQ_KOjmaboJs9BoRGxmy12Gdtmc6dXEaP7g/viewform?usp=sf_link).
+We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). It will be hosted on the patio to mitigate COVID spread. The dinner is free to all participants. To sign up to attend, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfz57n01MVj6JlTQ_KOjmaboJs9BoRGxmy12Gdtmc6dXEaP7g/viewform?usp=sf_link).
 
 ## COVID Policy
 We are adding a few measures the limit the spread of COVID at our workshop. 
 
  * We require all participants to wear masks during all indoor sessions.
  * We will ask each in-person participant to take a COVID test each morning before the workshop begins. We will provide the
-tests, so you do not need to purchase them yourself. 
+tests, so you do not need to purchase them yourself.
  * We recommend limiting the amount you eat indoors. Southern California weather is typically very nice in the summer, 
-and outdoor dining options are available throughout Pasadena. 
+and outdoor dining options are available throughout Pasadena. Breakfast will be served outside. 
 
 ## Recording Policy
 We are going to record to workshop to enable broader access to the materials from Code/Astro. We plan on sharing the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
