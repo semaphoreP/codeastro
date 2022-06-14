@@ -36,7 +36,7 @@ All dates and times are PDT (California Time)
 
 1:00pm - 5:00pm: Work on Project (Linde 187, 255, 387)
 
-6:00pm - 9:00pm: Workshop Dinner (Location TBD)
+6:00pm - 9:00pm: Workshop Dinner ([El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9))
 
 
 **Friday 6/24**
@@ -60,7 +60,7 @@ All dates and times are PDT (California Time)
 
 ## In-Person Logistics
 
-The mornings of each day of the workshop will be heald at [Keith Spalding 410](https://www.caltech.edu/map/campus/keith-spalding-building-of-business-services). We encourage everyone to arrive before 9am, as wee will have breakfast 
+The mornings of each day of the workshop will be heald at [Keith Spalding 410](https://www.caltech.edu/map/campus/keith-spalding-building-of-business-services). We encourage everyone to arrive before 9am, as we will have breakfast 
 an hour before the workshop, in addition to COVID tests for everyone to take each day (we ask you test before the start of each
 day's in-person session).
 Lunch is on-your-own, but we suggest one of the on-campus cafes. We have three rooms reserved
