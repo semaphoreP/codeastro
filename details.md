@@ -6,13 +6,13 @@ All dates and times are PDT (California Time)
 
 **Tuesday 6/21**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests (Keith Spalding 410)
+8:00am - 9:00am: Registration, Breakfast, COVID Tests ([Keith Spalding](https://www.google.com/maps/place/Keith+Spalding+Building/@34.1356389,-118.129734,17z/data=!3m2!4b1!5s0x80c2c4a706cd978f:0x31c7a0ec6853027b!4m5!3m4!1s0x80c2c56f008b7233:0xd84296b64bcb09f5!8m2!3d34.1356389!4d-118.1275453) 410)
 
-9:00am - 12:00pm: Day1 Synchronous Activities (Keith Spalding 410/Zoom)
+9:00am - 12:00pm: Day1 Synchronous Activities ([Keith Spalding](https://www.google.com/maps/place/Keith+Spalding+Building/@34.1356389,-118.129734,17z/data=!3m2!4b1!5s0x80c2c4a706cd978f:0x31c7a0ec6853027b!4m5!3m4!1s0x80c2c56f008b7233:0xd84296b64bcb09f5!8m2!3d34.1356389!4d-118.1275453) 410/Zoom)
 
-12:00pm - 1:00pm: Lunch (Browne/Red Door)
+12:00pm - 1:00pm: Lunch ([Browne/Red Door](https://www.google.com/maps/place/Red+Door+Cafe/@34.1373591,-118.1260035,17z/data=!3m2!4b1!5s0x80c2c4a8713508c3:0x5dfe01b2a79c3dda!4m5!3m4!1s0x80c2c4a874d174cf:0x3031dda8a0d9a7ab!8m2!3d34.1373591!4d-118.1238148))
 
-1:00pm - 5:00pm: Work on Project (Linde 187, 255, 387)
+1:00pm - 5:00pm: Work on Project ([Linde](https://www.google.com/maps/place/Ronald+and+Maxine+Linde+Hall+of+Mathematics+and+Physics/@34.1364635,-118.1275602,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c551b0cfdff9:0xf1c3bf661cca3f23!8m2!3d34.1362121!4d-118.125379) 187, 255, 387)
 
 
 **Wednesday 6/22**
