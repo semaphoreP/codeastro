@@ -101,8 +101,7 @@ $ make html
 This will create a basic set of documentation pages in `_build/html`. Open up the `index.html` with your favorite browser.
 
 
-9. This page doesn't have any of the documentation from your
-docstrings yet, so lets add that. The content of these pages are
+9. This page doesn't have any of the documentation for `correlate.py` yet, so lets add that. The content of these pages are
 controlled by the `.rst` (reStructured text) files. In the `docs`
 directory, create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
 ```
@@ -116,10 +115,9 @@ Function to perform correlations.
 .. automodule:: correlate
    :members:
 ```
-This will automatically parse `correlate.py` and look for your
-   docstrings in order to turn them into a nicely-formatted web
-   page. Here are more details regarding the different parts of
-   this file:
+This will tell Sphinx automatically parse `correlate.py` and look for
+your docstrings in order to turn them into a nicely-formatted web
+page. Here are more details regarding the different parts of this file:
 
 <p align="center">
   <img width="800" height="156" src="./figs/correlate_f2.png">
