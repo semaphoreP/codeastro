@@ -115,9 +115,10 @@ Function to perform correlations.
 .. automodule:: correlate
    :members:
 ```
-This will tell Sphinx automatically parse `correlate.py` and look for
+This will tell Sphinx automatically parse `correlate.py` and read
 your docstrings in order to turn them into a nicely-formatted web
-page. Here are more details regarding the different parts of this file:
+page. Here are more details regarding what the different parts of this
+   file mean:
 
 <p align="center">
   <img width="800" height="156" src="./figs/correlate_f2.png">
