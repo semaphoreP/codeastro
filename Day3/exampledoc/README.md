@@ -135,7 +135,9 @@ to ``index.rst`` under the "toctree" command. This puts
 
 11. Run `make html` again to update the docs.
 
-12. View your documentation by opening the file at `_build/html/index.html`.
+12. View your documentation by opening the file at
+`_build/html/index.html`. You should now see a link to the Correlation
+Functions page, which has the documentation for `correlate.py`.
 
 # Tips and Tricks
 
