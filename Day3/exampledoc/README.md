@@ -56,15 +56,20 @@ $ sphinx-quickstart
 ```
 Answer the questions when prompted on the terminal. You can answer `n` to the question: `Separate source and build directories?`.
 
-This should create several files and directories in your current working directory, including `conf.py`.
+This should create several files and directories in your `docs`
+directory, as shown below.
 ```
 $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-5. Open `conf.py` in VScode or other editor. We'll need to uncomment
-the following lines in the "Path setup" section. This path tells
-sphinx where to find your python files.
+5. Open `conf.py` in VScode or other editor. This is the configuration
+file for the Sphinx documentation builder, which controls how Sphinx
+processes your code.
+
+First, we'll need to uncomment
+the following lines in the "Path setup" section. This path tells Sphinx
+where your python files are located.
 ```
 # import os
 # import sys
