@@ -26,7 +26,7 @@ sphinx to build documentation for `correlate.py`!
 
 # Sphinx quickstart guide
 
-1. Make sure that sphinx is installed.
+1. First, make sure that sphinx is installed.
 ```
 $ pip install sphinx
 ```
@@ -36,7 +36,10 @@ $ pip install sphinx
 $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
-3. Copy the `exampledoc` directory somewhere into your repo and `cd` into it.
+3. In this example, we will create documentation for the function
+`correlate.py`, which is located in `Day3/exampledoc/` directory in
+the codeastro repository. Start by using `cd` to move into the
+`exampledoc` directory.
 
 4. Now we are ready to initialize the documentation. Start by making a
 `docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
