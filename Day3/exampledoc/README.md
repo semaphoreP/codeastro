@@ -133,6 +133,12 @@ to ``index.rst`` under the "toctree" command. This puts
 12. View your documentation by opening the file at `_build/html/index.html`.
 
 # Tips and Tricks
+
+* Remember to check out these (additional docstring
+examples)[https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html],
+which also how to handle specific cases such as optional input
+variables, classes, exceptions, etc.
+
 * .rst files offer many more text formatting options than what is shown in
   this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
