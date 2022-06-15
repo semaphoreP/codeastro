@@ -3,12 +3,13 @@ Warning: This code is broken. Don't treat it as model code for your work.
 
 This code generates random pixel art. The values are all integers drawn from a
 random uniform distribution. The range of the random distribution increases as 
-we go up in the image. We also will log how many times each integer is hit.  
+we go up in the image. 
 
 # Topics we'll cover:
 # - pdb
 # - setting up debugging configuration in VSCode
 # - post mortem debugging
+# - inspecting variables
 # - breakpoints/conditional breakpoints
 # - stepping through lines
 # - debug console
@@ -21,40 +22,36 @@ import matplotlib.pylab as plt
 # make a random image
 np.random.seed(99999)
 
+
+def generate_rgb_pixel(x, y):
+    """
+    Function to generate a RGB color at any given pixel
+    """
+    red = np.random.uniform(0, y/dim)
+    green = np.sqrt(0.4 * np.sin(x/dim2 * np.pi + np.random.uniform(0, y/10)))
+    blue = np.random.poisson(lam=100)/255
+    return (red, green, blue)
+
+# size of canvas
+dim = 105
+dim2 = 35
+
 # for each row, we will draw numbers from increasingly large pools of random numbers
-new_image = []
+new_image = np.zeros([dim, dim2])
 
-dim1 = 25
-dim2 = 7
-
-for i in range(dim1):
+for i in range(dim):
     # draw random integers between 0 and 10*(i+1), no repeats!
-    this_row = []
     for j in range(dim2):
-        new_number = np.random.randint(0, 10*(i+1))
-        if new_number not in this_row:
-            this_row.append(new_number)
+        # generate new RGB pixel
+        pixel_rgb = generate_rgb_pixel(j, i)
+        new_image[j, i] = pixel_rgb
 
-    # add this row to the image we are creating
-    new_image.append(this_row)
 
 new_image = np.array(new_image)
 
-# now let's check how many of each number we generated
-counts = {} # dictionary of counts per value
-for i in range(dim1):
-    for j in range(dim2):
-        value = new_image[i, j]
-        if value in counts:
-            counts[value] += 1
-        else:
-            counts[value] = 0
-
-print(counts)
-
 # plot the resulting image. 
 plt.figure()
-plt.imshow(new_image, cmap="RdBu")
+plt.imshow(new_image)
 plt.gca().invert_yaxis()
 plt.title("Art")
 plt.show()

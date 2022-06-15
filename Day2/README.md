@@ -63,12 +63,12 @@ If you aren't able to step into `calc_orbit()`, you may need to add the followin
   * (Optional) Modify the code to prevent this from happening in the future
 
 ### End Product
-  * Report on Piazza which of the nine inputs is/are cuasing the function to return NaN, and report on any modifications you made
+Report on Piazza the follow two items:
+  * In what line of `orbitize!` do NaNs first start appearing?
+  * Which of the nine inputs is/are cuasing the function to return NaN, and report on any modifications you made
 
 ### Roles
   * Driver: in charge of sharing their screen and typing the code for this activity
-  * Recorder: in charge of writing down all the results and reporting back when we poll everyone 
-  * Time-keeper: in charge of keeping the team on track to finish the activity 
   * Navigator: in charge of directing the driver what to code (everyone else; can be more than one person)
 
 ## Debugging Principles
