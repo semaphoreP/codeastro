@@ -76,7 +76,8 @@ where your python files are located.
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 
-6. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
+6. Change the `os.path.abspath('.')` part to point to the top level of
+the `exampledocs` directory (where `correlate.py` lives). In this example that would be `..`.
 ```
 import os
 import sys
