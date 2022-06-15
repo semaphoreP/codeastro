@@ -121,7 +121,7 @@ page. Here are more details regarding what the different parts of this
    file mean:
 
 <p align="center">
-  <img width="800" height="156" src="./figs/correlate_f2.png">
+  <img width="800" height="156" src="./figs/correlate_f3.png">
 </p>
 
 10. Link the correlate doc page to the index page by adding ``correlate.rst``
