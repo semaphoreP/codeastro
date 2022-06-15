@@ -19,9 +19,10 @@ the different components of the docstring for the `cross_corr` function:
 </p>
 
 
-For additional examples of docstrings for more specialized cases
-(e.g., functions with optional inputs, classes, exceptions, etc), see
-the examples [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+This example shows what a typical docstring looks like. Docstrings for
+specific cases (e.g., functions with optional inputs, classes,
+exceptions, etc) have some slight modifications to this general structure.
+Example docstrings for these cases (and more) can be found [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
 
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
