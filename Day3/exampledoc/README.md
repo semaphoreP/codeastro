@@ -18,6 +18,12 @@ the different components of the docstring for the `cross_corr` function:
   <img width="800" height="211" src="./figs/docstring_f.png">
 </p>
 
+
+This example shows a docstring for a typical function. Docstrings for
+specific cases (e.g., optional input variables, classes,
+exceptions, etc) have some slight modifications to this general structure.
+Example docstrings for these cases (and more!) can be found [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
 documetation tools, like
@@ -26,7 +32,7 @@ sphinx to build documentation for `correlate.py`!
 
 # Sphinx quickstart guide
 
-1. Make sure that sphinx is installed.
+1. First, make sure that sphinx is installed.
 ```
 $ pip install sphinx
 ```
@@ -36,7 +42,10 @@ $ pip install sphinx
 $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
-3. Copy the `exampledoc` directory somewhere into your repo and `cd` into it.
+3. In this example, we will create documentation for the function
+`correlate.py`, which is located under the `Day3/exampledoc/` directory in
+the codeastro repository. Start by using `cd` to move into the
+`exampledoc` directory.
 
 4. Now we are ready to initialize the documentation. Start by making a
 `docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
@@ -47,22 +56,28 @@ $ sphinx-quickstart
 ```
 Answer the questions when prompted on the terminal. You can answer `n` to the question: `Separate source and build directories?`.
 
-This should create several files and directories in your current working directory, including `conf.py`.
+This should create several files and directories in your `docs`
+directory, as shown below.
 ```
 $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-5. Open `conf.py` in VScode or other editor. We'll need to uncomment
-the following lines in the "Path setup" section. This path tells
-sphinx where to find your python files.
+5. Open `conf.py` in VScode or other editor. This is the configuration
+file for the Sphinx documentation builder, which controls how Sphinx
+processes your code.
+
+First, we'll need to uncomment
+the following lines in the "Path setup" section. This path tells Sphinx
+where your python files are located.
 ```
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 
-6. Change the `os.path.abspath('.')` part to point to the top level of your repo. In this example that would be `..`.
+6. Change the `os.path.abspath('.')` part to point to the top level of
+the `exampledocs` directory (where `correlate.py` lives). In this example that would be `..`.
 ```
 import os
 import sys
@@ -86,8 +101,7 @@ $ make html
 This will create a basic set of documentation pages in `_build/html`. Open up the `index.html` with your favorite browser.
 
 
-9. This page doesn't have any of the documentation from your
-docstrings yet, so lets add that. The content of these pages are
+9. This page doesn't have any of the documentation for `correlate.py` yet, so lets add that. The content of these pages are
 controlled by the `.rst` (reStructured text) files. In the `docs`
 directory, create a new `.rst` file called `correlate.rst`. The contents of this file should look like this:
 ```
@@ -101,18 +115,18 @@ Function to perform correlations.
 .. automodule:: correlate
    :members:
 ```
-This will automatically parse `correlate.py` and look for your
-   docstrings in order to turn them into a nicely-formatted web
-   page. Here are more details regarding the different parts of
-   this file:
+This will tell Sphinx automatically parse `correlate.py` and read
+your docstrings in order to turn them into a nicely-formatted web
+page. Here is a breakdown of what the different parts of this
+   file mean:
 
 <p align="center">
-  <img width="800" height="156" src="./figs/correlate_f2.png">
+  <img width="800" height="156" src="./figs/correlate_f3.png">
 </p>
 
-10. Link the correlate doc page to the index page by adding ``correlate.rst``
+10. Link the correlate page to the index page by adding ``correlate.rst``
 to ``index.rst`` under the "toctree" command. This puts
-``correlate.rst`` in the table-of-contents for the sphinx page.
+``correlate.rst`` in sphinx's table-of-contents.
 
 <p align="center">
   <img width="800" height="356" src="./figs/index_f.png">
@@ -121,9 +135,17 @@ to ``index.rst`` under the "toctree" command. This puts
 
 11. Run `make html` again to update the docs.
 
-12. View your documentation by opening the file at `_build/html/index.html`.
+12. View your documentation by opening the file at
+`_build/html/index.html`. You should now see a link to the Correlation
+Functions page, which has the documentation for `correlate.py`.
 
 # Tips and Tricks
+
+* Remember to check out these [additional docstring
+examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
+which also how to handle specific cases such as optional input
+variables, classes, exceptions, etc.
+
 * .rst files offer many more text formatting options than what is shown in
   this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
@@ -149,14 +171,16 @@ We can make a link to the correlation page by referring to its label
 
  ```
 
-# Activity
+# Activity: Building Sphinx Documentation For Your Repository
 1. Document at least one function in your package with a docstring. 
 2. Set up sphinx documentation for your project repo and build the doc
-   page for your function(s). Make sure it builds correctly!
+page for your function(s). Make sure it builds correctly!
+    * Hint: to begin, make a `docs` directory in your repo, just like
+      step 4 in the example above. 
 3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
 
 
-## Bonus Activity: Linking your Sphinx Documentation with ReadTheDocs
+## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
 other users can access it easily. If your code is in a GitHub repo, is
 public, 
