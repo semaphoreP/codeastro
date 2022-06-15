@@ -18,6 +18,11 @@ the different components of the docstring for the `cross_corr` function:
   <img width="800" height="211" src="./figs/docstring_f.png">
 </p>
 
+
+For additional examples of docstrings for more specialized cases
+(e.g., functions with optional inputs, classes, exceptions, etc), see
+the examples [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
 documetation tools, like
@@ -37,7 +42,7 @@ $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
 3. In this example, we will create documentation for the function
-`correlate.py`, which is located in `Day3/exampledoc/` directory in
+`correlate.py`, which is located under the `Day3/exampledoc/` directory in
 the codeastro repository. Start by using `cd` to move into the
 `exampledoc` directory.
 
