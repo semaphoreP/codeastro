@@ -124,9 +124,9 @@ page. Here is a breakdown of what the different parts of this
   <img width="800" height="156" src="./figs/correlate_f3.png">
 </p>
 
-10. Link the correlate doc page to the index page by adding ``correlate.rst``
+10. Link the correlate page to the index page by adding ``correlate.rst``
 to ``index.rst`` under the "toctree" command. This puts
-``correlate.rst`` in the table-of-contents for the sphinx page.
+``correlate.rst`` in sphinx's table-of-contents.
 
 <p align="center">
   <img width="800" height="356" src="./figs/index_f.png">
