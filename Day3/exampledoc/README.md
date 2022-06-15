@@ -180,7 +180,7 @@ page for your function(s). Make sure it builds correctly!
 3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
 
 
-## Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
+## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
 other users can access it easily. If your code is in a GitHub repo, is
 public, 
