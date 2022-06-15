@@ -117,7 +117,7 @@ Function to perform correlations.
 ```
 This will tell Sphinx automatically parse `correlate.py` and read
 your docstrings in order to turn them into a nicely-formatted web
-page. Here are more details regarding what the different parts of this
+page. Here is a breakdown of what the different parts of this
    file mean:
 
 <p align="center">
