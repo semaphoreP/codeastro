@@ -19,10 +19,10 @@ the different components of the docstring for the `cross_corr` function:
 </p>
 
 
-This example shows what a typical docstring looks like. Docstrings for
-specific cases (e.g., functions with optional inputs, classes,
+This example shows a docstring for a typical function. Docstrings for
+specific cases (e.g., optional input variables, classes,
 exceptions, etc) have some slight modifications to this general structure.
-Example docstrings for these cases (and more) can be found [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+Example docstrings for these cases (and more!) can be found [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
 
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
@@ -164,10 +164,12 @@ We can make a link to the correlation page by referring to its label
 
  ```
 
-# Activity
+# Activity: Building Sphinx Documentation For Your Repository
 1. Document at least one function in your package with a docstring. 
 2. Set up sphinx documentation for your project repo and build the doc
-   page for your function(s). Make sure it builds correctly!
+page for your function(s). Make sure it builds correctly!
+    * Hint: to begin, make a `docs` directory in your repo, just like
+      step 4 in the example above. 
 3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
 
 
