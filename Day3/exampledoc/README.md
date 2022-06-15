@@ -134,8 +134,8 @@ to ``index.rst`` under the "toctree" command. This puts
 
 # Tips and Tricks
 
-* Remember to check out these (additional docstring
-examples)[https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html],
+* Remember to check out these [additional docstring
+examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
 which also how to handle specific cases such as optional input
 variables, classes, exceptions, etc.
 
