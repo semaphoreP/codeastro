@@ -84,10 +84,20 @@ import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
 
-7. Also change the `html_theme` variable to "sphinx_rtd_theme", add
-   the line `master_doc='index'` below your author name. Also add
-   “sphinx.ext.autodoc” and "sphinx.ext.napoleon" to the `extensions`
-   list in `conf.py`.
+7. Make several additional changes to the conf.py file:
+* Add the line `root_doc = 'index'` below your author name. This
+  defines the main page of your documentation, which will contain the
+  table of contents for your package (more on that later)
+* Also add “sphinx.ext.autodoc” and "sphinx.ext.napoleon" to the `extensions`
+   list in `conf.py`. "spinx.ext.autodoc" gives sphinx the power to
+   read your python files and automatically extract the
+   docstrings. "sphinx.ext.napoleon" allows sphinx to understand
+   google-style docstrings.
+* Finally, change the `html_theme` variable to
+  "sphinx_rtd_theme". This defines the style of the documentation
+  webpages. Here, we use the ReadtheDocs format. But, many others are
+  availabe (more examples [here](https://www.sphinx-doc.org/en/master/usage/theming.html))
+
 
 <p align="center">
   <img width="574" height="700" src="./figs/conf_edits.png">
