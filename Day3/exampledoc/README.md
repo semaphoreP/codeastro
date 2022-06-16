@@ -96,11 +96,11 @@ sys.path.insert(0, os.path.abspath('..'))
 * Finally, change the `html_theme` variable to
   "sphinx_rtd_theme". This defines the style of the documentation
   webpages. Here, we use the ReadtheDocs format. But, many others are
-  availabe (more examples [here](https://www.sphinx-doc.org/en/master/usage/theming.html))
+  availabe (see other examples [here](https://www.sphinx-doc.org/en/master/usage/theming.html))
 
 
 <p align="center">
-  <img width="574" height="700" src="./figs/conf_edits.png">
+  <img width="800" height="884" src="./figs/conf_edits2.png">
 </p>
 
 8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
