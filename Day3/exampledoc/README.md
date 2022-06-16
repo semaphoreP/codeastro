@@ -69,7 +69,9 @@ processes your code.
 
 First, we'll need to uncomment
 the following lines in the "Path setup" section. This path tells Sphinx
-where your python files are located.
+where it can find your python files. You can think of this as being
+similar to the PYTHONPATH environment variable that python uses to run your own
+python codes.
 ```
 # import os
 # import sys
@@ -83,6 +85,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
+Specifically, this code places the code directory you wish to
+document at the front of your existing path, to ensure that sphinx
+searches for the python files there first.
 
 7. Make several additional changes to the conf.py file:
 * Add the line `root_doc = 'index'` below your author name. This
@@ -166,6 +171,17 @@ variables, classes, exceptions, etc.
 * Docstrings and .rst files can be very finicky regarding
 syntax! How sphinx compiles your documentation can be sensitive to
 indents, skipped lines, type of punctuation used, etc.
+
+* Under the `toctree` command in `index.rst`, you'll notice the
+  command ":maxdepth:". This defines the number of nested headings to
+  include as links in your table-of-contents on the front page of your
+  documentation. For example, maxdepth = 1 means
+  that only the titles of each .rst file will be included (those with
+  '===' underlined). maxdepth = 2 will include the titles as well as
+  the first level of subsections (those with '---' underlined). In
+ the above example, we only had one title in `correlate.rst`
+  ("Correlation Functions"), and so that is all that appeared. But,
+  try adding a sub-section to `correlate.rst` and see what happens!
 
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
