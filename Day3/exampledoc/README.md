@@ -143,7 +143,8 @@ page. Here is a breakdown of what the different parts of this
 
 10. Link the correlate page to the index page by adding ``correlate.rst``
 to ``index.rst`` under the "toctree" command. This puts
-``correlate.rst`` in sphinx's table-of-contents.
+``correlate.rst`` in the table-of-contents that appears in the main
+page of your documentation. Remember to match indentation levels!
 
 <p align="center">
   <img width="800" height="356" src="./figs/index_f.png">
