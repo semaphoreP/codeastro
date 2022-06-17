@@ -19,5 +19,5 @@ Example: We’ll write unit tests that evaluate the performance of individual fu
   * [Day 4 Slides](https://docs.google.com/presentation/d/14FENM35RB9L6Yt5PLy7BVDxIlJNL6n_kQLHZMXPS4V4/edit?usp=sharing)
   * [Testing Slides](https://docs.google.com/presentation/d/1mObfDklqtAzIg42HmkfG_DvEYoZ5qH4L32o9BYBbWs0/edit?usp=sharing)
   * [Testing Think-pair Activity](https://colab.research.google.com/drive/1y_Zq81xzOJu3Zz7Kvv_S_4mUScX_yg7w?usp=sharing)
-  * [Discrimination in Software Slides](https://docs.google.com/presentation/d/11VKqfz-Zuv--H2602auwrSy3JaNfwqpvh7iiljHO-AA/edit?usp=sharing)
+  * [Discrimination in Software Slides](https://docs.google.com/presentation/d/13XPCUQga8WzHKTw9BIxPa4DBMFk-QbSDpr9MXjmztuc/edit?usp=sharing)
   * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day4/parallelism.ipynb)
