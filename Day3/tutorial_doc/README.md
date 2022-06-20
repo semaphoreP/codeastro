@@ -205,6 +205,13 @@ Functions page, which has the documentation for `correlate.py`.
   [autodoc documentation](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)
   for ways to can control these commands.
 
+  * `Indices and tables` section: In `index.rst`, sphinx automatically
+    created an `Indices and tables` sections with references to
+    `genindex`, `modindex`, and `search`. This created the Index,
+    Module Index, and Search page in for our documentation,
+    respectively. These are optional, and so you can remove them if
+    you'd like.
+
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
   tables" sections of the index page). Now that the `correlate.rst` file has been added
