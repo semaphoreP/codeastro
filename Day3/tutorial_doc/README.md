@@ -250,7 +250,7 @@ well, such as:
 
 * Installation instructions 
 * Quick-start guides, tutorials, and code examples
-* How users might cite/give credit to your code in their work, as
+* How users might cite/give credit to your code, as
 well as a list of folks who have contributed to your code
 * A change-log: how your code has evolved with different versions/releases
 * How users might contribute to your code and/or report issues
