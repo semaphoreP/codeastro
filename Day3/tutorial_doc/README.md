@@ -234,8 +234,36 @@ We can make a link to the correlation page by referring to its label
 page for your function(s). Make sure it builds correctly!
     * Hint: to begin, make a `docs` directory in your repo, just like
       step 4 in the example above. 
-3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
+3. (If time) Trade with another group and try to use one of their
+   functions/classes/methods that they have documented using their
+   sphinx documentation.
 
+
+# Activity Wrap-Up: Moving Forward with Code Documentation
+We've focused on the basics of how to document your code using
+docstrings and how to automatically compile those docstrings into
+documentation webpages via Sphinx. This is crucial to help other users
+(and yourself!) use your code in the future. As you continue to work
+on your python packages, keep in mind that it is
+useful to include additional information in your documentation as
+well, such as:
+
+* Installation instructions 
+* Quick-start guides, tutorials, and code examples
+* How users might cite/give credit to your code in their work, as
+well as a list of folks who have contributed to your code
+* A change-log: how your code has evolved with different versions/releases
+* How users might contribute to your code and/or report issues
+
+If there is a software package that you use in your own work, take a
+look at the online documentation. What info is included, and what do
+you find most useful? Is the documentation easy to understand and
+navigate? By looking at other documentation, you can get a
+sense of what works and doesn't work for you as you document your own
+package. For additional examples of code documentation, check out the
+pages for [orbitize](https://orbitize.readthedocs.io/en/latest/index.html),
+[RadVel](https://radvel.readthedocs.io/en/latest/), and
+[SPISEA](https://spisea.readthedocs.io/en/latest/). 
 
 ## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
