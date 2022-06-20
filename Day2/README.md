@@ -18,6 +18,7 @@ Example: today we’ll put our code on GitHub and begin using branches to make f
   * Mechanics of Git: [.PDF](https://drive.google.com/file/d/1BJ7A4sMwzXcusxkn-av8tlwDmGla-lOv/view?usp=sharing), [.PPTX](https://docs.google.com/presentation/d/1gUhhCUs46kROxtyEA4dCusGg0LM35-fc/edit?usp=sharing&ouid=108304133850943478559&rtpof=true&sd=true)
     * 1 person should be the facilitator: keep track of time, stay on track, and keep track of progress
     * 1 person should be the recorder: writes down the solution (suggestion: use powerpoint, keynote, or google slides to draw out the git commit tree)
+  * [Gitflow slides](https://docs.google.com/presentation/d/1e4nOhLEQSMi0S_FGLHhOXUTEDbHbDWKT/edit?usp=sharing&ouid=108007517358444486795&rtpof=true&sd=true)
   * Fix this orbitize! bug: https://github.com/sblunt/orbitize/issues/230
 
 ## Debug orbitize!
