@@ -164,17 +164,18 @@ Functions page, which has the documentation for `correlate.py`.
   [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
   which also how to handle specific cases such as optional input variables, classes, exceptions, etc.
 
-	* .rst files offer many more text formatting options than what is
+  * .rst files offer many more text formatting options than what is
   shown in this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
   with more options.
 
-	* Docstrings and .rst files can be very finicky regarding syntax!
+  * Docstrings and .rst files can be very finicky regarding syntax!
       How sphinx compiles your documentation can be sensitive to indents, skipped lines, type of punctuation used, etc.
 
 * More details regarding Sphinx commands we used:
-  *`:maxdepth:`: Under the `toctree` command in `index.rst`, you'll notice the
-  command `:maxdepth:`. This defines the number of nested headings to
+
+  *`:maxdepth:`: Under the `toctree` command in `index.rst`, you'll
+  notice the command `:maxdepth:`. This defines the number of nested headings to
   include as links in your table-of-contents on the front page of your
   documentation. For example, `:maxdepth: = 1` means
   that only the titles of each .rst file will be included (those
