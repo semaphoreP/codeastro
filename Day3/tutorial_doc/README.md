@@ -198,7 +198,7 @@ Functions page, which has the documentation for `correlate.py`.
   module that have defined docstrings. However,
   you can tweak this command in many ways: for example, you can
   document a specific class, rather than an entire module
-  (`.. autoclass..`), you can document
+  (`.. autoclass::`), you can document
   only specific members within a given module (`:members: func1,
   func2`), include entries for
   functions that don't have docstrings (`:undoc-members:`), and more. Check out the
