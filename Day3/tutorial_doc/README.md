@@ -159,30 +159,49 @@ Functions page, which has the documentation for `correlate.py`.
 
 # Tips and Tricks
 
-* Docstring / rst file formatting
+* Docstring / rst file formatting:
   * Remember to check out these
   [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
   which also how to handle specific cases such as optional input variables, classes, exceptions, etc.
 
-* .rst files offer many more text formatting options than what is shown in
-  this example. Here is a nice
+	* .rst files offer many more text formatting options than what is
+  shown in this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
   with more options.
 
-* Docstrings and .rst files can be very finicky regarding
-syntax! How sphinx compiles your documentation can be sensitive to
-indents, skipped lines, type of punctuation used, etc.
+	* Docstrings and .rst files can be very finicky regarding syntax!
+      How sphinx compiles your documentation can be sensitive to indents, skipped lines, type of punctuation used, etc.
 
-* Under the `toctree` command in `index.rst`, you'll notice the
-  command ":maxdepth:". This defines the number of nested headings to
+* More details regarding Sphinx commands we used:
+  *`:maxdepth:`: Under the `toctree` command in `index.rst`, you'll notice the
+  command `:maxdepth:`. This defines the number of nested headings to
   include as links in your table-of-contents on the front page of your
-  documentation. For example, maxdepth = 1 means
-  that only the titles of each .rst file will be included (those with
-  '===' underlined). maxdepth = 2 will include the titles as well as
-  the first level of subsections (those with '---' underlined). In
+  documentation. For example, `:maxdepth: = 1` means
+  that only the titles of each .rst file will be included (those
+  underlinded with '==='). `:maxdepth: = 2` will include these titles as well as
+  the first level of subsections (those underlined with '---'). In
  the above example, we only had one title in `correlate.rst`
   ("Correlation Functions"), and so that is all that appeared. But,
   try adding a sub-section to `correlate.rst` and see what happens!
+
+  * `:caption:`: Under the `toctree` command in `index.rst`, you'll
+  also notice the command `:caption: Contents:`. The `:caption:`
+  command is a way you can set the title for that particular section
+  in that compiled documentation. In the example above,
+  this assigns the title `Contents:` `.. toctree::` section. This
+  command is optional and does not need to be used.
+
+  * `.. automodule::`: In `correlate.rst`, we use the command
+  `.. automodule::` followed by `:members:`to tell sphinx to document
+  all functions, classes, etc (i.e. the "members") of our python
+  module that chave defined docstrings. However,
+  you can tweak this command in many ways: for example, you can
+  document a specific class, rather than an entire module
+  (`.. autoclass..`), you can document
+  only specific members within a given module (`:members: <func1>, func2>`), include entries for
+  functions that don't have docstrings (`:undoc-members:`), and more. Check out the
+  [autodoc documentation](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)
+  for ways to can control these commands.
 
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
