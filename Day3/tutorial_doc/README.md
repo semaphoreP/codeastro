@@ -242,10 +242,10 @@ page for your function(s). Make sure it builds correctly!
 # Activity Wrap-Up: Moving Forward with Code Documentation
 We've focused on the basics of how to document your code using
 docstrings and how to automatically compile those docstrings into
-documentation webpages via Sphinx. This is crucial to help other users
+webpages via Sphinx. This is crucial to help other users
 (and yourself!) use your code in the future. As you continue to work
 on your python packages, keep in mind that it is
-useful to include additional information in your documentation as
+useful to include other information in your documentation as
 well, such as:
 
 * Installation instructions 
