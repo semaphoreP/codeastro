@@ -1,5 +1,7 @@
 # Debugging
 
+![Top panel: That was the worst bug I've ever written. Bottom panel: That was the worst bug you've ever written so far.](imgs/debug_meme.png)
+
 ## Debugging Demo
 The `debug_matrix.py` code is supposed to generate some pixel art but it currently crashes. We will use it to demonstrate the VS Code deubgger and fix the code. We have already set up our VS Code for python debugging, but you may need to follow the instructions in the activity below before you can run the VS Code debugger on this code. 
 
