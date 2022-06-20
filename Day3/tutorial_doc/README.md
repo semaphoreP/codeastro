@@ -189,7 +189,7 @@ Functions page, which has the documentation for `correlate.py`.
   also notice the command `:caption: Contents:`. The `:caption:`
   command is a way you can set the title for that particular section
   in that compiled documentation. In the example above,
-  this assigns the title `Contents:` `.. toctree::` section. This
+  we assign the title `Contents:` `.. toctree::` section. This
   command is optional and does not need to be used.
 
   * `.. automodule::`: In `correlate.rst`, we use the command
