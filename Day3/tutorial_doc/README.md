@@ -256,7 +256,7 @@ well as a list of folks who have contributed to your code
 * How users might contribute to your code and/or report issues
 
 If there is a software package that you often use in your own work,
-take a its documentation. What info is included, and what do
+take a look at its documentation. What info is included, and what do
 you find most useful? Is the documentation easy to understand and
 navigate? By looking at other documentation, you can get a
 sense of what works and doesn't work for you as you document your own
