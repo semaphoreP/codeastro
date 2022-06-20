@@ -208,7 +208,7 @@ Functions page, which has the documentation for `correlate.py`.
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
   tables" sections of the index page). Now that the `correlate.rst` file has been added
-  under the toctree, we can refer to its label:
+  under the toctree, we can refer to its label using `:ref:` command:
 ```
 Indices and tables
 ==================
