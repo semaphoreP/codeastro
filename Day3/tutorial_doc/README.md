@@ -199,7 +199,8 @@ Functions page, which has the documentation for `correlate.py`.
   you can tweak this command in many ways: for example, you can
   document a specific class, rather than an entire module
   (`.. autoclass..`), you can document
-  only specific members within a given module (`:members: <func1>, func2>`), include entries for
+  only specific members within a given module (`:members: func1,
+  func2`), include entries for
   functions that don't have docstrings (`:undoc-members:`), and more. Check out the
   [autodoc documentation](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)
   for ways to can control these commands.
