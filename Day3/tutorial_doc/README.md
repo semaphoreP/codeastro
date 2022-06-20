@@ -195,7 +195,7 @@ Functions page, which has the documentation for `correlate.py`.
   * `.. automodule::`: In `correlate.rst`, we use the command
   `.. automodule::` followed by `:members:`to tell sphinx to document
   all functions, classes, etc (i.e. the "members") of our python
-  module that chave defined docstrings. However,
+  module that have defined docstrings. However,
   you can tweak this command in many ways: for example, you can
   document a specific class, rather than an entire module
   (`.. autoclass..`), you can document
