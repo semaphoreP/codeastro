@@ -161,8 +161,8 @@ Functions page, which has the documentation for `correlate.py`.
 
 * Docstring / rst file formatting:
   * Remember to check out these
-  [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
-  which also how to handle specific cases such as optional input variables, classes, exceptions, etc.
+  [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+  to see how to handle specific cases such as optional input variables, classes, exceptions, etc.
 
   * .rst files offer many more text formatting options than what is
   shown in this example. Here is a nice
