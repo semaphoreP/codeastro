@@ -19,9 +19,8 @@ we go up in the image.
 import numpy as np
 import matplotlib.pylab as plt
 
-# make a random image
+# set the numpy random number generator to be deterministic ;)
 np.random.seed(99999)
-
 
 def generate_rgb_pixel(x, y):
     """
@@ -32,26 +31,24 @@ def generate_rgb_pixel(x, y):
     blue = np.random.poisson(lam=100)/255
     return (red, green, blue)
 
+# Create a new image
 # size of canvas
 dim = 105
 dim2 = 35
-
 # for each row, we will draw numbers from increasingly large pools of random numbers
 new_image = np.zeros([dim, dim2])
 
+# loop through all pixels to generate random values for each pixel
 for i in range(dim):
-    # draw random integers between 0 and 10*(i+1), no repeats!
     for j in range(dim2):
         # generate new RGB pixel
         pixel_rgb = generate_rgb_pixel(j, i)
         new_image[j, i] = pixel_rgb
 
 
-new_image = np.array(new_image)
-
 # plot the resulting image. 
 plt.figure()
 plt.imshow(new_image)
-plt.gca().invert_yaxis()
+plt.gca().invert_yaxis() # make pixel (0,0) at the bottom left of display
 plt.title("Art")
 plt.show()
