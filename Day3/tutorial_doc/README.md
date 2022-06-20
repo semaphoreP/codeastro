@@ -174,7 +174,7 @@ Functions page, which has the documentation for `correlate.py`.
 
 * More details regarding some of the Sphinx commands we used:
 
-  * `:maxdepth:`: Under the `toctree` command in `index.rst`, you'll
+  * `:maxdepth:`: Under the `.. toctree::` command in `index.rst`, you'll
   notice the command `:maxdepth:`. This defines the number of nested headings to
   include as links in your table-of-contents on the front page of your
   documentation. For example, `:maxdepth: = 1` means
@@ -185,7 +185,7 @@ Functions page, which has the documentation for `correlate.py`.
   ("Correlation Functions"), and so that is all that appeared. But,
   try adding a sub-section to `correlate.rst` and see what happens!
 
-  * `:caption:`: Under the `toctree` command in `index.rst`, you'll
+  * `:caption:`: Under the `.. toctree::` command in `index.rst`, you'll
   also notice the command `:caption: Contents:`. The `:caption:`
   command is a way you can set the title for that particular section
   in that compiled documentation. In the example above,
