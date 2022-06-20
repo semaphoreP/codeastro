@@ -243,7 +243,7 @@ page for your function(s). Make sure it builds correctly!
 We've focused on the basics of how to document your code using
 docstrings and how to automatically compile those docstrings into
 webpages via Sphinx. This is crucial to help other users
-(and yourself!) use your code in the future. As you continue to work
+(and yourself!) use your code in the future. As you work
 on your python packages, keep in mind that it is
 useful to include other information in your documentation as
 well, such as:
@@ -255,8 +255,8 @@ well as a list of folks who have contributed to your code
 * A change-log: how your code has evolved with different versions/releases
 * How users might contribute to your code and/or report issues
 
-If there is a software package that you use in your own work, take a
-look at the online documentation. What info is included, and what do
+If there is a software package that you often use in your own work,
+take a its documentation. What info is included, and what do
 you find most useful? Is the documentation easy to understand and
 navigate? By looking at other documentation, you can get a
 sense of what works and doesn't work for you as you document your own
