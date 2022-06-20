@@ -9,7 +9,7 @@ docstrings (see examples
 [here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
 but today we will focus on the Google Docstring. 
 
-In the `exampledoc` directory, open `correlate.py` in your favorite
+In the `tutorial_doc` directory, open `correlate.py` in your favorite
 text editor. These functions have Google-style docstrings. Let's look at
 the different components of the docstring for the `cross_corr` function:
 
@@ -43,9 +43,9 @@ $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
 3. In this example, we will create documentation for the function
-`correlate.py`, which is located under the `Day3/exampledoc/` directory in
+`correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
 the codeastro repository. Start by using `cd` to move into the
-`exampledoc` directory.
+`tutorial_doc` directory.
 
 4. Now we are ready to initialize the documentation. Start by making a
 `docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
@@ -79,7 +79,7 @@ python codes.
 ```
 
 6. Change the `os.path.abspath('.')` part to point to the top level of
-the `exampledocs` directory (where `correlate.py` lives). In this example that would be `..`.
+the `tutorial_doc` directory (where `correlate.py` lives). In this example that would be `..`.
 ```
 import os
 import sys
