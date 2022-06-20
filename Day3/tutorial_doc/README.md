@@ -9,7 +9,7 @@ docstrings (see examples
 [here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
 but today we will focus on the Google Docstring. 
 
-In the `exampledoc` directory, open `correlate.py` in your favorite
+In the `tutorial_doc` directory, open `correlate.py` in your favorite
 text editor. These functions have Google-style docstrings. Let's look at
 the different components of the docstring for the `cross_corr` function:
 
@@ -43,9 +43,9 @@ $ pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
 3. In this example, we will create documentation for the function
-`correlate.py`, which is located under the `Day3/exampledoc/` directory in
+`correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
 the codeastro repository. Start by using `cd` to move into the
-`exampledoc` directory.
+`tutorial_doc` directory.
 
 4. Now we are ready to initialize the documentation. Start by making a
 `docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
@@ -79,7 +79,7 @@ python codes.
 ```
 
 6. Change the `os.path.abspath('.')` part to point to the top level of
-the `exampledocs` directory (where `correlate.py` lives). In this example that would be `..`.
+the `tutorial_doc` directory (where `correlate.py` lives). In this example that would be `..`.
 ```
 import os
 import sys
@@ -159,35 +159,63 @@ Functions page, which has the documentation for `correlate.py`.
 
 # Tips and Tricks
 
-* Remember to check out these [additional docstring
-examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html),
-which also how to handle specific cases such as optional input
-variables, classes, exceptions, etc.
+* Docstring / rst file formatting:
+  * Remember to check out these
+  [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+  to see how to handle specific cases such as optional input variables, classes, exceptions, etc.
 
-* .rst files offer many more text formatting options than what is shown in
-  this example. Here is a nice
+  * .rst files offer many more text formatting options than what is
+  shown in this example. Here is a nice
   [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
   with more options.
 
-* Docstrings and .rst files can be very finicky regarding
-syntax! How sphinx compiles your documentation can be sensitive to
-indents, skipped lines, type of punctuation used, etc.
+  * Docstrings and .rst files can be very finicky regarding syntax!
+      How sphinx compiles your documentation can be sensitive to indents, skipped lines, type of punctuation used, etc.
 
-* Under the `toctree` command in `index.rst`, you'll notice the
-  command ":maxdepth:". This defines the number of nested headings to
+* More details regarding some of the Sphinx commands we used:
+
+  * `:maxdepth:`: Under the `.. toctree::` command in `index.rst`, you'll
+  notice the command `:maxdepth:`. This defines the number of nested headings to
   include as links in your table-of-contents on the front page of your
-  documentation. For example, maxdepth = 1 means
-  that only the titles of each .rst file will be included (those with
-  '===' underlined). maxdepth = 2 will include the titles as well as
-  the first level of subsections (those with '---' underlined). In
+  documentation. For example, `:maxdepth: = 1` means
+  that only the titles of each .rst file will be included (those
+  underlinded with '==='). `:maxdepth: = 2` will include these titles as well as
+  the first level of subsections (those underlined with '---'). In
  the above example, we only had one title in `correlate.rst`
   ("Correlation Functions"), and so that is all that appeared. But,
   try adding a sub-section to `correlate.rst` and see what happens!
 
+  * `:caption:`: Under the `.. toctree::` command in `index.rst`, you'll
+  also notice the command `:caption: Contents:`. The `:caption:`
+  command is a way you can set the title for that particular section
+  in that compiled documentation. In the example above,
+  we assign the title `Contents:` `.. toctree::` section. This
+  command is optional and does not need to be used.
+
+  * `.. automodule::`: In `correlate.rst`, we use the command
+  `.. automodule::` followed by `:members:`to tell sphinx to document
+  all functions, classes, etc (i.e. the "members") of our python
+  module that have defined docstrings. However,
+  you can tweak this command in many ways: for example, you can
+  document a specific class, rather than an entire module
+  (`.. autoclass::`), you can document
+  only specific members within a given module (`:members: func1,
+  func2`), include entries for
+  functions that don't have docstrings (`:undoc-members:`), and more. Check out the
+  [autodoc documentation](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)
+  for ways to can control these commands.
+
+  * `Indices and tables` section: In `index.rst`, sphinx automatically
+    created an `Indices and tables` sections with references to
+    `genindex`, `modindex`, and `search`. This created the Index,
+    Module Index, and Search page in for our documentation,
+    respectively. These are optional, and so you can remove them if
+    you'd like.
+
 * In the example above, let's say we wanted to insert a link to the
   correlation function page somwhere (say, under the "Indicies and
   tables" sections of the index page). Now that the `correlate.rst` file has been added
-  under the toctree, we can refer to its label:
+  under the toctree, we can refer to its label using `:ref:` command:
 ```
 Indices and tables
 ==================
@@ -206,8 +234,36 @@ We can make a link to the correlation page by referring to its label
 page for your function(s). Make sure it builds correctly!
     * Hint: to begin, make a `docs` directory in your repo, just like
       step 4 in the example above. 
-3. (If time) Trade with another group and try to use one of their functions/classes/methods that they have documented using their sphinx documentation.
+3. (If time) Trade with another group and try to use one of their
+   functions/classes/methods that they have documented using their
+   sphinx documentation.
 
+
+# Activity Wrap-Up: Moving Forward with Code Documentation
+We've focused on the basics of how to document your code using
+docstrings and how to automatically compile those docstrings into
+webpages via Sphinx. This is crucial to help other users
+(and yourself!) use your code in the future. As you work
+on your python packages, keep in mind that it is
+useful to include other information in your documentation as
+well, such as:
+
+* Installation instructions 
+* Quick-start guides, tutorials, and code examples
+* How users might cite/give credit to your code, as
+well as a list of folks who have contributed to your code
+* A change-log: how your code has evolved with different versions/releases
+* How users might contribute to your code and/or report issues
+
+If there is a software package that you often use in your own work,
+take a look at its documentation. What info is included, and what do
+you find most useful? Is the documentation easy to understand and
+navigate? By looking at other documentation, you can get a
+sense of what works and doesn't work for you as you document your own
+package. For additional examples of code documentation, check out the
+pages for [orbitize](https://orbitize.readthedocs.io/en/latest/index.html),
+[RadVel](https://radvel.readthedocs.io/en/latest/), and
+[SPISEA](https://spisea.readthedocs.io/en/latest/). 
 
 ## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
