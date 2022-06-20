@@ -172,9 +172,9 @@ Functions page, which has the documentation for `correlate.py`.
   * Docstrings and .rst files can be very finicky regarding syntax!
       How sphinx compiles your documentation can be sensitive to indents, skipped lines, type of punctuation used, etc.
 
-* More details regarding Sphinx commands we used:
+* More details regarding some of the Sphinx commands we used:
 
-  *`:maxdepth:`: Under the `toctree` command in `index.rst`, you'll
+  * `:maxdepth:`: Under the `toctree` command in `index.rst`, you'll
   notice the command `:maxdepth:`. This defines the number of nested headings to
   include as links in your table-of-contents on the front page of your
   documentation. For example, `:maxdepth: = 1` means
