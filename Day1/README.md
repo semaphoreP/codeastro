@@ -14,7 +14,7 @@ Example: we’re working on a package that plots the most likely galactic orbits
 
 ## Useful Links
 
- * [Welcome Slides](https://docs.google.com/presentation/d/1bBVqvVJ2nviNxotuXn8Khhl3ny-HPMmAPoIw7JGrt-U/edit?usp=sharing)
+ * [Welcome Slides](https://docs.google.com/presentation/d/1sp7KDj7hJYAO8HbqRTTLEEa2DIiFknIayVy1iD_h0G4/edit?usp=sharing)
  * [Colaboratory link for code_developing.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/code_developing.ipynb)
  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colaboratory link for mpl_astropy.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/mpl_astropy.ipynb)
