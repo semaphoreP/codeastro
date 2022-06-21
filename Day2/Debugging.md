@@ -21,7 +21,7 @@ Next, get the VS Code debugger set up to run the `broken_orbitize.py` script tha
 
 ![What you should see when you open up the debug tab](imgs/debug_new.png "You should see something like this.")
 
-When you click it, a dropdown link should appear to ask you what kind of debugging you would like to do, and select "Python File":
+When you click it, a new .json file should be created. There should be a buttom in the bottom right of the text editor window that says "Add configuration...". When you click it, a dropdown link should appear to ask you what kind of debugging you would like to do, and select "Python File":
 
 ![Selecting debug mode](imgs/debug_selection.png "Select Python File")
 
