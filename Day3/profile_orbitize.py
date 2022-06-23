@@ -5,7 +5,8 @@ To profile this code, run the following command from the command line:
 
 python -m cProfile -o profiler_output.txt profile_orbitize.py
 
-This will attach the cProfile profiler to this script and save its output to profiler_output.txt. 
+The `-m cProfile` will attach the cProfile profiler to this script when it runs
+The `-o profiler_output.txt` will save its output to "profiler_output.txt". 
 
 If you have any issues running the above command, your python configuration might be different than what
 we are assuing here. Ask a TA to help you figure out what needs to be changed if needed!
