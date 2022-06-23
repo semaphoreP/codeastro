@@ -1,4 +1,7 @@
 # Code/Astro
+
+[![codeastro](https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg)](https://semaphorep.github.io/codeastro/)
+
 Course materials for the 2021 Code/Astro workshop. 
 
 Workshop website: https://semaphorep.github.io/codeastro/
