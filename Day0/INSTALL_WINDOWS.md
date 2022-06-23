@@ -61,10 +61,18 @@ For WSL2, after you download and install xming, run xlaunch. Xlaunch is xming bu
 
     export DISPLAY=`grep -oP "(?<=nameserver ).+" /etc/resolv.conf`:0.0
     
-###
+### Add wslview to .bashrc
 Later versions of ubuntu on WSL come with wslu (wsl utilities) pre installed. This is useful as it means that you can send html files to your browser in windows. To set this up you must add the following line to your .bashrc file in WSL so that it knows where to foward browser calls to when using WSLVIEW. 
 
     echo export BROWSER=wslview >> ~/.bashrc
+
+## Notes for use
+In order to use wslview to open a file in your browser once it has been added to .bashrc you will use the following: 
+    wslview <path to file>
+as an example
+    wslview aWebPage.html
+
+This will then open in your default browser in windows.
         
 ### Install git
 
