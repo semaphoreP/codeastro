@@ -61,7 +61,11 @@ For WSL2, after you download and install xming, run xlaunch. Xlaunch is xming bu
 
     export DISPLAY=`grep -oP "(?<=nameserver ).+" /etc/resolv.conf`:0.0
     
-    
+###
+Later versions of ubuntu on WSL come with wslu (wsl utilities) pre installed. This is useful as it means that you can send html files to your browser in windows. To set this up you must add the following line to your .bashrc file in WSL so that it knows where to foward browser calls to when using WSLVIEW. 
+
+    echo export BROWSER=wslview >> ~/.bashrc
+        
 ### Install git
 
 Git can be installed inside of Linux or in Windows. We recommend both, as it does not take up much space and is very convenient. For this workshop, we will work only with the git in Linux, but here we will describe how to install both. If you are using WSL with Ubuntu, you can install it in Ubuntu using its package manager (the most common way to install applications in Ubuntu):
