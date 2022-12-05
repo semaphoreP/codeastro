@@ -20,7 +20,7 @@ July 10, 2023 - July 14, 2023.
 # ​Schedule
  The workshop will held in-person at Northwestern and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. A detailed schedule and local Northwestern logsitics will be made available closer to the workshop. Topics covered each day are as follows:
 
-| Monday July 10   | Tuesday July 11  | Wednesday July 12  | Thursday July 13  | Friday July 14   |
+| Mon. July 10   | Tue. July 11  | Wed. July 12  | Thu. July 13  | Fri. July 14   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 | Programming Paradigms      | Git & GitHub            | Releasing Code          | Software Testing              | Industry Panel Discussion     |
 | Python Package Tutorials   | Debugging               | Code Documentation      | Parallel Programming          | Project Presentations |
