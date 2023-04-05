@@ -6,7 +6,7 @@ All dates and times are CDT (Chicago Time)
 
 **Monday July 10**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests (TBA)
+8:00am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day1 Synchronous Activities
 
@@ -17,7 +17,7 @@ All dates and times are CDT (Chicago Time)
 
 **Tuesday July 11**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests 
+8:00am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day2 Synchronous Activities
 
@@ -28,7 +28,7 @@ All dates and times are CDT (Chicago Time)
 
 **Wednesday July 12**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests 
+8:00am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day3 Synchronous Activities 
 
@@ -41,7 +41,7 @@ All dates and times are CDT (Chicago Time)
 
 **Thursday July 13**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests 
+8:00am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day4 Synchronous Activities
 
@@ -51,7 +51,7 @@ All dates and times are CDT (Chicago Time)
 
 **Friday July 14**
 
-8:00am - 9:00am: Registration, Breakfast, COVID Tests 
+8:00am - 9:00am: Registration, Breakfast
 
 9:00am - 10:00am: Industry Panel
 
@@ -68,16 +68,10 @@ in [Linde Hall](https://www.caltech.edu/map/campus/ronald-and-maxine-linde-hall-
 groups projects in the afternoon in. The instructors and TAs will be available there in the afternoon in those rooms to help answer any
 questions, or discuss your project with you.
 
-We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). It will be hosted on the patio to mitigate COVID spread. The dinner is free to all participants. To sign up to attend, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfz57n01MVj6JlTQ_KOjmaboJs9BoRGxmy12Gdtmc6dXEaP7g/viewform?usp=sf_link).
+We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). 
 
-## COVID Policy (to be updated for 2023)
-We are adding a few measures the limit the spread of COVID at our workshop. 
-
- * We require all participants to wear masks during all indoor sessions.
- * We will ask each in-person participant to take a COVID test each morning before the workshop begins. We will provide the
-tests, so you do not need to purchase them yourself.
- * We recommend limiting the amount you eat indoors. Southern California weather is typically very nice in the summer, 
-and outdoor dining options are available throughout Pasadena. Breakfast will be served outside. 
+## COVID Policy
+We encourage the wearing of masks during indoor activities. If you do test positive for COVID, please let us know and attend the workshop remotely. We can help arrange for you to properly quarantine until you recover. 
 
 ## Recording Policy
 We are going to record to workshop to enable broader access to the materials from Code/Astro. We plan on sharing the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
