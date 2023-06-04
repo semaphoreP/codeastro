@@ -34,12 +34,12 @@ sphinx to build documentation for `correlate.py`!
 
 1. First, make sure that sphinx is installed.
 ```
-$ pip install sphinx
+pip install sphinx
 ```
 
 2. Since we will be using the Google style of docstrings we need to install the `sphinx-napoleon` package as well (https://sphinxcontrib-napoleon.readthedocs.io/en/latest/). Lets also install the ReadTheDocs theme so that our documentation page looks nice when created.
 ```
-$ pip install sphinxcontrib-napoleon sphinx-rtd-theme
+pip install sphinxcontrib-napoleon sphinx-rtd-theme
 ```
 
 3. In this example, we will create documentation for the function
@@ -50,11 +50,11 @@ the codeastro repository. Start by using `cd` to move into the
 4. Now we are ready to initialize the documentation. Start by making a
 `docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
 ```
-$ mkdir docs
-$ cd docs
-$ sphinx-quickstart
+mkdir docs
+cd docs
+sphinx-quickstart
 ```
-Answer the questions when prompted on the terminal. You can answer `n` to the question: `Separate source and build directories?`.
+Answer the questions when prompted on the terminal. Answer `n` to the question: `Separate source and build directories?`.
 
 This should create several files and directories in your `docs`
 directory, as shown below.
@@ -112,7 +112,7 @@ searches for the python files there first.
 
 8. Now we are ready to build the documentation pages! Do this from the `docs` directory.
 ```
-$ make html
+make html
 ```
 
 This will create a basic set of documentation pages in `_build/html`. Open up the `index.html` with your favorite browser.
