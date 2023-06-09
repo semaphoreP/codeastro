@@ -6,7 +6,7 @@ All dates and times are CDT (Chicago Time)
 
 **Monday July 10**
 
-8:00am - 9:00am: Registration, Breakfast
+8:30am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day1 Synchronous Activities
 
@@ -17,7 +17,7 @@ All dates and times are CDT (Chicago Time)
 
 **Tuesday July 11**
 
-8:00am - 9:00am: Registration, Breakfast
+8:30am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day2 Synchronous Activities
 
@@ -28,20 +28,18 @@ All dates and times are CDT (Chicago Time)
 
 **Wednesday July 12**
 
-8:00am - 9:00am: Registration, Breakfast
+8:30am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day3 Synchronous Activities 
 
-12:00pm - 1:00pm: Lunch
+12:00pm - 6:30pm: Free-time on your own. 
 
-1:00pm - 5:00pm: Work on Project 
-
-6:00pm - 9:00pm: Workshop Dinner
+6:30pm - 9:00pm: Workshop Dinner
 
 
 **Thursday July 13**
 
-8:00am - 9:00am: Registration, Breakfast
+8:30am - 9:00am: Registration, Breakfast
 
 9:00am - 12:00pm: Day4 Synchronous Activities
 
@@ -51,12 +49,19 @@ All dates and times are CDT (Chicago Time)
 
 **Friday July 14**
 
-8:00am - 9:00am: Registration, Breakfast
+8:30am - 9:00am: Registration, Breakfast
 
 9:00am - 10:00am: Industry Panel
 
-10:00am - 12:00pm: Group Project Show & Tell
+10:00am - 11:45am: Group Project Show & Tell
 
+11:45am - 12:00pm: Closing Thoughts
+
+12:00pm: End of Workshop
+
+
+## Recording Policy
+We are going to record to workshop to enable broader access to the materials from Code/Astro. We may share the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
 
 ## In-Person Logistics (to be updated for 2023)
 
@@ -70,11 +75,11 @@ questions, or discuss your project with you.
 
 We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). 
 
-## COVID Policy
-We encourage the wearing of masks during indoor activities. If you do test positive for COVID, please let us know and attend the workshop remotely. We can help arrange for you to properly quarantine until you recover. 
+### COVID Policy
+Masking is optional. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
 
-## Recording Policy
-We are going to record to workshop to enable broader access to the materials from Code/Astro. We plan on sharing the recordings publicly on Youtube. By attending Code/Astro either in-person or remotely, you consent to being recorded. Please contact us if you wish to be removed from recordings.
+### Getting to Evanston from O'Hare International Airport
+Add info here. 
 
-## Parking Information (to be updated for 2023)
+### Parking Information (to be updated for 2023)
 Parking info for visitors to Caltech is [here](https://parking.caltech.edu/parking-info/visitor-parking). If you are receiving travel support, please save your parking receipts, and we will be able to reimburse you after the workshop.
