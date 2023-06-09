@@ -15,10 +15,21 @@ July 10, 2023 - July 14, 2023.
  
 ### Teaching Assistants
  
- * TBA
+ * Simon Ko (Roblox)
+ * Chester Li (UW)
+ * Rae Holcomb (UCI)
+ * Yash Mehta (IISC)
+ * Fulya Kiroglu (Northwestern)
+ * Paulina Palma-Bifani (OCA)
+ * Nabeel Rehemtulla (Northwestern)
+ * Chetan Chawla (ZS Associates)
+ * Pratik Barve (SETU)
+ * Eden McEwan (Arizona)
+ * Sophie Frankel (Newcastle)
+ * Briley Lewis (UCLA)
 
 # ​Schedule
- The workshop will held in-person at Northwestern and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. A detailed schedule and local Northwestern logsitics will be made available closer to the workshop. Topics covered each day are as follows:
+ The workshop will held in-person at Northwestern and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
 
 | Mon. July 10   | Tue. July 11  | Wed. July 12  | Thu. July 13  | Fri. July 14   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
@@ -26,11 +37,12 @@ July 10, 2023 - July 14, 2023.
 | Python Package Tutorials   | Debugging               | Code Documentation      | Parallel Programming          | Project Presentations |
 | Development Environments   |                         | Code Profiling          | Anti-Discriminatory Practices |        |
 
+### Logisitcal Details
+[A more detailed agenda and in-person logistical details are avilable here.](https://semaphorep.github.io/codeastro/details.html). Note that this year, some topics will be offered as optional sessions in the afternoons (CDT). 
+
 Before the workshop starts, we ask all participants to setup their development environment based on these [installation instructions](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md) and provide us the secret code at the end (there will be a form to submit the code to).
 
-[This link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) will be updated with a detailed schedule of classes and office hours. Local Northwestern logistics will also be released closer to the workshop. 
-
-The Industry Panel Discussion on Friday will start at 9am and consist of three panelists who have done software development in both academia and industry. Bring any questions you want to ask them!
+[This link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) will be updated with a detailed schedule of classes and office hours. 
 
 ### Industry Panelists (still finalizing)
  - TBA
@@ -39,6 +51,6 @@ The Industry Panel Discussion on Friday will start at 9am and consist of three p
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. Attendence to the workshop can either be in-person or virtual, but participants are expected to particpate synchronously. For those that are interested in the materials but cannot particpate in real time, the code is already on [Github](https://github.com/semaphoreP/codeastro) with corresponding lectures from previous years posted on [Youtube](https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH). For those that require financial assistance in any way to participate (the workshop itself is free), let us know on the form, as we have funding support available for in-person and remote attendence. Anyone related to astronomy is eligible. If you have questions about the application, contact Jason Wang (jason.wang@northwestern.edu). 
 
-**Apply for the 2023 workshop at [this link](https://forms.gle/f79hTQcVQZaeJxru9)! Applications are due on January 25th, 2023.** We aim to notify all applicants in early February. 
+**Applications for the 2023 workshop are closed. There will be more Code/Astro workshops in future years so stay tuned!**
 
 In addition to some basic questions, the application form has some questions about your programming background and goals for taking this workshop. In the event we receive too many applications, we will use these responses to help us make decisions on admission to the workshop. Part of the application also consists of taking a diagnostic assignment. There is no need to know everything on this assignment. We are using it to get a sense of the Python expertise of the participants and to help get everyone on the same page in programming jargon. Feel free to use other resources to help complete this assignment! The demographic questions at the end are optional and are used by us to identify biases in our advertising or admissions strategy for the workshop.
