@@ -2,11 +2,13 @@
 
 [![A rectangular badge, half black half purple containing the text made at Code Astro](https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg)](https://semaphorep.github.io/codeastro/)
 
-Course materials for the 2021 Code/Astro workshop. 
+Course materials for the 2023 Code/Astro workshop. 
 
 Workshop website: https://semaphorep.github.io/codeastro/
 
 Workshop "cheatsheet" of links & information: https://github.com/semaphoreP/codeastro/blob/main/workshop_info.md
+
+Recording of the 2022 Code/Astro workshop: https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH. 
 
 ## Getting Started
 
@@ -19,7 +21,7 @@ Before the workshop, please complete the following:
 
 ## Project Information
 
-Throughout this week, you’ll be working with a small group of collaborators (1-4 others) on a final project, a real open-source Python package for astronomy. If you already have group partners in mind, please email us! If not, we will assign you to a group based on timezone, career level, and any personal preferences you've communicated to us. This is an opportunity to put the knowledge you’ve learned from Code/Astro intro practice. On the final day of the workshop (Saturday June 25th), you’ll (optionally) have a chance to present your package to the other Code/Astro participants. 
+Throughout this week, you’ll be working with a small group of collaborators (1-4 others) on a final project, a real open-source Python package for astronomy. If you already have group partners in mind, please email us! If not, we will assign you to a group based on timezone, career level, and any personal preferences you've communicated to us. This is an opportunity to put the knowledge you’ve learned from Code/Astro intro practice. On the final day of the workshop, you’ll (optionally) have a chance to present your package to the other Code/Astro participants. 
 
 ### Project Goal: 
 
@@ -61,7 +63,7 @@ https://github.com/Bhavesh012/TCalc
 https://github.com/laldoroty/snlcpy
 
 ### Final Presentation:
-During the final presentation, you will be paired with another project group, and will “swap” projects. You’ll attempt to pip install and run their code, and they’ll attempt to pip install and run yours! This is a great opportunity to see how users will interact with your code “in the real world.”
+During the final presentation, you will have the opportunity to give a short (5 minute) demonstration of the package your developed. Remember to talk about the motivation behind the package, any challenges or difficulties you encountered, and show off what the package does!
 
 ### Advice for Pair Programming:
 To do this project, you’ll be working with others to program. This is likely a new experience for most of you. We suggest you use “pair programming” to collaborate, especially towards the beginning of the week:
