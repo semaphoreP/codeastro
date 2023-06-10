@@ -75,7 +75,9 @@ Otherwise, copy and paste these lines to the top of `conf.py` and
 uncomment them.
 
 4. Change the `os.path.abspath('.')` part to point to the top level of
-the `tutorial_doc` directory (where `correlate.py` lives). In this example that would be `..`.
+the `tutorial_doc` directory (where `correlate.py` lives). In this
+example that would be 
+one level up in the directory struture, denoted `..`.
 ```
 import os
 import sys
