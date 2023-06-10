@@ -58,9 +58,9 @@ file for the Sphinx documentation builder, which controls how Sphinx
 processes your code.
 
 First, we'll need to tell Sphinx where to find your python files by
-defining the path at the top of the file. You can think of this as being
-similar to the PYTHONPATH environment variable that python uses to run your own
-python codes.
+defining the path. You can think of this as being
+similar to the PYTHONPATH environment variable that python uses to run the
+python files you create.
 
 If your `conf.py` file has a ``Path setup'' section, then uncomment
 the following lines:
@@ -71,7 +71,7 @@ the following lines:
 # sys.path.insert(0, os.path.abspath('.'))
 ```
 
-Otherwise, copy and paste these lines to the top of the file and
+Otherwise, copy and paste these lines to the top of `conf.py` and
 uncomment them.
 
 4. Change the `os.path.abspath('.')` part to point to the top level of
