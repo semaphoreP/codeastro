@@ -224,9 +224,6 @@ We can make a link to the correlation page by referring to its label
 page for your function(s). Make sure it builds correctly!
     * Hint: to begin, make a `docs` directory in your repo, just like
       step 4 in the example above. 
-3. (If time) Trade with another group and try to use one of their
-   functions/classes/methods that they have documented using their
-   sphinx documentation.
 
 
 # Activity Wrap-Up: Moving Forward with Code Documentation
