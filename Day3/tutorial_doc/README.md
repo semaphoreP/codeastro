@@ -53,20 +53,26 @@ $ ls
 Makefile   _build     _static    _templates conf.py    index.rst  make.bat
 ```
 
-3. Open `conf.py` in VScode or other editor. This is the configuration
+3. Open `conf.py` in VScode or another editor. This is the configuration
 file for the Sphinx documentation builder, which controls how Sphinx
 processes your code.
 
-First, we'll need to uncomment
-the following lines in the "Path setup" section. This path tells Sphinx
-where it can find your python files. You can think of this as being
+First, we'll need to tell Sphinx where to find your python files by
+defining the path at the top of the file. You can think of this as being
 similar to the PYTHONPATH environment variable that python uses to run your own
 python codes.
+
+If your `conf.py` file has a ``Path setup'' section, then uncomment
+the following lines:
+
 ```
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 ```
+
+Otherwise, copy and paste these lines to the top of the file and
+uncomment them.
 
 4. Change the `os.path.abspath('.')` part to point to the top level of
 the `tutorial_doc` directory (where `correlate.py` lives). In this example that would be `..`.
