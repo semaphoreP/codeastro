@@ -84,7 +84,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 ```
-Specifically, this code places the code directory you wish to
+This command places the code directory you wish to
 document at the front of your existing path, to ensure that sphinx
 searches for the python files there first.
 
