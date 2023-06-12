@@ -28,14 +28,18 @@ July 10, 2023 - July 14, 2023.
  * Sophie Frankel (Newcastle)
  * Briley Lewis (UCLA)
 
+### Local Organizing Committee
+
+Local logistics are being organized by the [CIERA staff](https://ciera.northwestern.edu/directory/?filter_keyword=&filter_tax_ciera_person_type=staff&filter_tax_ciera_research_topic=all&filter_tax_ciera_research_method=all) led by Madeline Wilson and also including William Vercellone and Janet Lyons. 
+
 # ​Schedule
- The workshop will held in-person at Northwestern and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
+ The workshop will held [in-person at Northwestern](https://semaphorep.github.io/codeastro/details.html) and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
 
 | Mon. July 10   | Tue. July 11  | Wed. July 12  | Thu. July 13  | Fri. July 14   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
-| Programming Paradigms      | Git & GitHub            | Releasing Code          | Software Testing              | Industry Panel Discussion     |
-| Python Package Tutorials   | Debugging               | Code Documentation      | Parallel Programming          | Project Presentations |
-| Development Environments   |                         | Code Profiling          | Anti-Discriminatory Practices |        |
+|  Development Environments | Git Mechanics             | Releasing Code          | Software Testing              | Industry Panel Discussion     |
+|  Programming Paradigms    | Debugging                 | Code Documentation      | Parallel Programming          | Project Presentations |
+|  Git/Github Basics        | Python Package Tutorials  | Code Profiling          | Anti-Discriminatory Practices |        |
 
 ### Logisitcal Details
 [A more detailed agenda and in-person logistical details are avilable here.](https://semaphorep.github.io/codeastro/details.html). Note that this year, some topics will be offered as optional sessions in the afternoons (CDT). 
@@ -43,9 +47,6 @@ July 10, 2023 - July 14, 2023.
 Before the workshop starts, we ask all participants to setup their development environment based on these [installation instructions](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md) and provide us the secret code at the end (there will be a form to submit the code to).
 
 [This link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) will be updated with a detailed schedule of classes and office hours. 
-
-### Industry Panelists (still finalizing)
- - TBA
 
 # How to Apply
 
