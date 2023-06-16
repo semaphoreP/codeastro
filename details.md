@@ -2,7 +2,7 @@
 
 ## Agenda
 
-All dates and times are CDT (Chicago Time)
+All dates and times are CDT (Chicago Time). Room information will be added shortly. 
 
 **Monday July 10**
 
@@ -65,15 +65,15 @@ We are going to record to workshop to enable broader access to the materials fro
 
 ## In-Person Logistics (to be updated for 2023)
 
-The mornings of each day of the workshop will be heald at [Keith Spalding 410](https://www.caltech.edu/map/campus/keith-spalding-building-of-business-services). We encourage everyone to arrive before 9am, as we will have breakfast 
-an hour before the workshop, in addition to COVID tests for everyone to take each day (we ask you test before the start of each
-day's in-person session).
-Lunch is on-your-own, but we suggest one of the on-campus cafes. We have three rooms reserved
-in [Linde Hall](https://www.caltech.edu/map/campus/ronald-and-maxine-linde-hall-of-mathematics-and-physics) for you to work on your 
+Code/Astro will be held in 1800 Sherman. We encourage everyone to arrive before 9am, as we will have a light breakfast 
+starting at 8:30am.
+Lunch is on-your-own, but you are located right across the street from downtown Evanston, so you should have plenty of options. We have several rooms reserved
+in 1800 Sherman for you to work on your 
 groups projects in the afternoon in. The instructors and TAs will be available there in the afternoon in those rooms to help answer any
 questions, or discuss your project with you.
 
-We will also host a workshop dinner on Thursday June 23rd at 6pm at [El Cholo Pasadena](https://goo.gl/maps/wrSY6irmCEWvSxUr9). 
+There will be nothing planned on Wednesday afternoon (although the rooms are available if you want to work on your project), as this gives you an opportunity to have some time to explore Evanston and Chicago.
+We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and Dime, which is located in downtown Evanston. 
 
 ### COVID Policy
 Masking is optional. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
@@ -82,4 +82,4 @@ Masking is optional. If you do test positive for COVID, please let us know and a
 Add info here. 
 
 ### Parking Information (to be updated for 2023)
-Parking info for visitors to Caltech is [here](https://parking.caltech.edu/parking-info/visitor-parking). If you are receiving travel support, please save your parking receipts, and we will be able to reimburse you after the workshop.
+Parking info for visitors will be added here. If you are receiving travel support, please save your parking receipts, and we will be able to reimburse you after the workshop.
