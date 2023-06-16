@@ -65,11 +65,12 @@ We are going to record to workshop to enable broader access to the materials fro
 
 ## In-Person Logistics (to be updated for 2023)
 
-Code/Astro will be held in 1800 Sherman. We encourage everyone to arrive before 9am, as we will have a light breakfast 
-starting at 8:30am.
-Lunch is on-your-own, but you are located right across the street from downtown Evanston, so you should have plenty of options. We have several rooms reserved
-in 1800 Sherman for you to work on your 
-groups projects in the afternoon in. The instructors and TAs will be available there in the afternoon in those rooms to help answer any
+Code/Astro will be held in [1800 Sherman Ave, Evanston, IL 60201](https://www.google.com/maps/place/1800+Sherman+Ave,+Evanston,+IL+60201/@42.050331,-87.6846099,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd00bfa3632f3:0x8d6a9629f47228ab!8m2!3d42.050331!4d-87.682035!16s%2Fg%2F1thtdqy6?entry=ttu).
+Breakfast and the morning sessions will be held in Room 7-600, a big conference room on the 7th floor of 1800 Sherman. 
+Lunch is on-your-own, but you are located right across the street from downtown Evanston, so you should have plenty of options (see below for more information).
+We have several rooms reserved in 1800 Sherman for you to work on your 
+groups projects in the afternoon in (see below for more information). 
+The instructors and TAs will be available there in the afternoon in those rooms to help answer any
 questions, or discuss your project with you.
 
 There will be nothing planned on Wednesday afternoon (although the rooms are available if you want to work on your project), as this gives you an opportunity to have some time to explore Evanston and Chicago.
@@ -83,3 +84,5 @@ Add info here.
 
 ### Parking Information (to be updated for 2023)
 Parking info for visitors will be added here. If you are receiving travel support, please save your parking receipts, and we will be able to reimburse you after the workshop.
+
+
