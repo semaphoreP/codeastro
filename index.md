@@ -33,7 +33,7 @@ July 10, 2023 - July 14, 2023.
 Local logistics are being organized by the [CIERA staff](https://ciera.northwestern.edu/directory/?filter_keyword=&filter_tax_ciera_person_type=staff&filter_tax_ciera_research_topic=all&filter_tax_ciera_research_method=all) led by Madeline Wilson and also including William Vercellone and Janet Lyons. 
 
 # ​Schedule
- The workshop will held [in-person at Northwestern](https://semaphorep.github.io/codeastro/details.html) and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
+ See [this page](https://semaphorep.github.io/codeastro/details.html) for detailed information. The workshop will held at [CIERA, Northwestern University’s Center for Interdisciplinary Exploration and Research in Astrophysics](https://ciera.northwestern.edu/), and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
 
 | Mon. July 10   | Tue. July 11  | Wed. July 12  | Thu. July 13  | Fri. July 14   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
@@ -42,9 +42,9 @@ Local logistics are being organized by the [CIERA staff](https://ciera.northwest
 |  Git/Github Basics        | Python Package Tutorials  | Code Profiling          | Anti-Discriminatory Practices |        |
 
 ### Logisitcal Details
-[A more detailed agenda and in-person logistical details are avilable here.](https://semaphorep.github.io/codeastro/details.html). Note that this year, some topics will be offered as optional sessions in the afternoons (CDT). 
+[A more detailed agenda and in-person logistical details are avilable here](https://semaphorep.github.io/codeastro/details.html). Note that this year, some topics will be offered as optional sessions in the afternoons (CDT). 
 
-Before the workshop starts, we ask all participants to setup their development environment based on these [installation instructions](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md) and provide us the secret code at the end (there will be a form to submit the code to).
+Before the workshop starts, we ask all participants to setup their development environment based on these [installation instructions](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md) and provide us the secret code at the end.
 
 [This link](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;title=Code%2FAstro) will be updated with a detailed schedule of classes and office hours. 
 
