@@ -120,9 +120,9 @@ Those staying at the Hilton Orrington will be a short 4 min walk to CIERA.
 
 Blaze Pizza, Jimmy John’s, Koko Table Korean, Soulwich, Edzo’s, Elephant and Vine, Sweetgreen, Colectivo Coffee, Habibi Mediterranean Grill, 10Q Chicken, Dozika, Chipotle, Potbelly’s, Noodles & Co.
 
-**Sit Down/Dinner (many also offer takeout options) (*=more costly)**
+**Sit Down/Dinner (many also offer takeout options) (^=more costly)**
 
-Bat17, Mumbai Indian Grill, Chili’s, Stacked and Folded, Tapas Barcelona, Kansaku, TOMO, Koi, Trattoria Demi, Peppercorn’s Kitchen, Taco Diablo, Compagnola*, Oceanique*, Mt. Everest, Lou Malnati’s, The Barn Steakhouse*, LeTour*, Fonda, NaKorn Urban Thai
+Bat17, Mumbai Indian Grill, Chili’s, Stacked and Folded, Tapas Barcelona, Kansaku, TOMO, Koi, Trattoria Demi, Peppercorn’s Kitchen, Taco Diablo, Compagnola^, Oceanique^, Mt. Everest, Lou Malnati’s, The Barn Steakhouse^, LeTour^, Fonda, NaKorn Urban Thai
 
 **Activities**
 
@@ -135,8 +135,11 @@ Downtown Chicago is roughly a 45 min -1 hour train ride from CIERA. Take the Pur
 See the Bean, the Sears (Willis) Tower, a Chicago Cubs or White Sox game, the Art Institute, Lake Michigan, an architectural boat tour from the Chicago River, and much, much more. Naturally not easy to make an exhaustive list of this, so check out these recommendations here:
 
 [Tripadvisor](https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html)
+
 [July Events Calendar](https://www.timeout.com/chicago/events-calendar/july-events-calendar)
+
 [Travel and Leisure](https://www.travelandleisure.com/trip-ideas/city-vacations/best-things-to-do-in-chicago)
+
 [US News and World Report](https://travel.usnews.com/Chicago_IL/Things_To_Do/)
 
 ### Parking Information (to be updated for 2023)
