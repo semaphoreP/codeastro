@@ -166,8 +166,8 @@ git pull origin main
 git pull origin main
 ```
 	
-    Git will then find the lines of the file that are in conflict and
-    mark them on our local version like this:
+Git will then find the lines of the file that are in conflict and
+mark them on our local version like this:
 
 
   We can now edit the file by deciding which of the lines of the
@@ -183,9 +183,42 @@ git push origin master
 	
 And now everything is back to normal.
 	
-## Uh Oh, I Don't Want To Keep My Local Changes. Undo!!
+## Uh Oh, I Don't Want To Keep My Changes. Undo!!
+One of the key advantages of git is that it allows us to keep track of
+and undo changes that we decide we don't actually want to keep. Here
+are three situations with commands you can use to undo these changes:
 
+#### Deleting Uncommitted Local Changed
+If you want to remove all local changes made to a file, and you
+haven't commited any of those changes yet, then you can easily revert
+back to the previous commited version of the file by using:
 
+```
+git checkout <file_name>
+```
+
+#### Preserving Local Changes but also Updating From Remote
+This comes up if there are changes to the remote repo that you want to
+pull down to your local repo, but you have local changes that aren't
+ready to be committed yet (remember that git won't let you `git pull`
+if detects local changes). In this case, we can use:
+
+```
+git stash
+git pull origin main
+git stash apply
+```
+
+`git stash` tells git to store your local changes elsewhere for the
+time being. Then, it will allow you to pull down changes in the remote
+repo. Then, you can "bring back" your local changes by using `git
+stash apply`.
+
+NOTE: using `git stash apply` can cause a merge conflict! In that
+case, the conflict is marked in the file and you will need to resolve
+it as we showed earlier.
+
+#### Reverting to An Earlier Commit
 
 
 ## Summary of Git Commands
