@@ -17,14 +17,15 @@ a terminal window, and then your favorite text editor.
    README file`. When complete, click the green `Create Repository`
    button to the bottom right of the page.
    
-   This process creates the repo on github and assigns it a web address.
+   This process creates the repo on github and assigns it a web
+   address. This is referred to as the `remote repository` or `origin`.
    
 3. Now that the github repo is created, we need to copy a version of
    it to our local machine. This process is called "cloning". To clone
    the repo, click the green `Code` button, and copy the HTTPS address
    for the repo. 
    
-   Then, in your terminal window, navigate to whereever
+   Then, in your terminal window, navigate to wherever
    you'd like the repo to live on your local machine and type:
    
 ```
@@ -42,8 +43,8 @@ git status
 ```
    
 This should tell us that (1) we are in a git repository on the `main`
-branch and (2) our branch is up-to-date with `main` (more on that
-later):
+branch and (2) our branch is up-to-date with `main` on the origin
+repository. 
 
 
 ## Adding and Editing Files in Your Repo 
@@ -73,13 +74,47 @@ git commit hello.txt -m 'First commit of file'
 git push origin main
 ```
 
-In this command, `origin` is shorthand for the URL for the remote
-repository (the one on Github), while `main` is the name of the branch
-we want to push the changes to. In the future, there may be cases
+In this command, remember that `origin` means the remote
+repository (the one we made on Github), while `main` is the name of
+the branch on the remote repository that we want to push the changes
+to. In the future, there may be cases
 where you want to push the changes to a different branch other than
-`main`, in which case we would change this command, but we'll talk
-about that in a future demo.
+`main`, but we'll talk about that in a future demo.
 
 Now, go to your refresh the github webpage for your repo. You should
 see that `hello.txt` now appears. 
 
+6. Let's make a change to `hello.txt` on our local machine by adding
+   some text. 
+   
+   Git will notice that `hello.txt` is now different between your local
+   machine and the origin. If you type `git status`, it will tell you
+   that the file has been modified but these changes haven't been
+   committed yet:
+   
+   
+   
+   Further, Git can tell us exactly what the difference is between our
+   local copy of `hello.txt` and the version on the repo. By typing:
+   
+```
+git diff hello.txt
+```
+
+It will return the lines of the file that have been changed. This is
+very helpful if you've lost track of what changes you've done that
+haven't been committed yet.
+
+
+7. Just like in steps 4 and 5, we can commit these changes and then
+   push them to the remote repository:
+   
+```
+git commit hello.txt -m 'Adding new word'
+git push origin main
+```
+   
+   And now `hello.txt` will be changed on the remote repo, as you can
+   see if you reload the Github page.
+
+## Resolving Conflicts
