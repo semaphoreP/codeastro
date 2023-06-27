@@ -1,36 +1,8 @@
-![Astronomy Documentation](https://pbs.twimg.com/media/EUJmsaXUcAEfmTT?format=jpg&name=medium)
+# Introduction to Git: Demo
+This demo will walk through how to make a git repository on github,
+including how to add and edit files to the repo and resolve conflicts.
 
-# Python Docstrings
-A docstring is a string that appears in the first line of a function
-or class that provides an overview of its purpose, a description of
-the input variables it expects, and an explanation of the outputs
-produced. There are several common styles of python
-docstrings (see examples
-[here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
-but today we will focus on the Google Docstring. 
-
-In the `tutorial_doc` directory, open `correlate.py` in your favorite
-text editor. These functions have Google-style docstrings. Let's look at
-the different components of the docstring for the `cross_corr` function:
-
-
-<p align="center">
-  <img width="800" height="211" src="./figs/docstring_f.png">
-</p>
-
-
-This example shows a docstring for a typical function. Docstrings for
-specific cases (e.g., optional input variables, classes,
-exceptions, etc) have some slight modifications to this general structure.
-Example docstrings for these cases (and more!) can be found [here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
-
-In addition to providing crucial information, docstrings provide a standardized way to
-document code that can be easily parsed by automated
-documetation tools, like
-[sphinx](https://www.sphinx-doc.org/en/master/). Let's try using
-sphinx to build documentation for `correlate.py`!
-
-# Sphinx quickstart guide
+# Make a Git Repo on Github
 
 1. In this example, we will create documentation for the function
 `correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
