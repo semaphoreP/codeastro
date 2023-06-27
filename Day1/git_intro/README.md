@@ -47,7 +47,7 @@ branch and (2) our local repo is up-to-date with `main` on the remote
 repo:
 
 <p align="center">
-  <img width="2200" height="211" src="./figs/git_status_first.png">
+  <img width="1045" height="100" src="./figs/git_status_first.png">
 </p>
 
 
