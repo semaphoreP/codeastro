@@ -92,14 +92,15 @@ see that `hello.txt` now appears.
    some text. 
    
 Git will notice that `hello.txt` is now different between your local
-   machine and the origin. If you type `git status`, it will tell you
-   that the file has been modified but these changes haven't been
-   committed yet:
+machine and the origin. If you type `git status`, it will tell you
+that the file has been modified but these changes haven't been committed yet:
+   
+<p align="center">
+  <img width="951" height="150" src="./figs/git_status_change.png">
+</p>
    
    
-   
-Further, Git can tell us exactly what the difference is between our
-   local copy of `hello.txt` and the version on the repo. By typing:
+Further, Git can tell us exactly what the difference is between our local copy of `hello.txt` and the version on the repo. By typing:
    
 ```
 git diff hello.txt
