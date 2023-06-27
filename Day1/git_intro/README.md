@@ -219,6 +219,25 @@ case, the conflict is marked in the file and you will need to resolve
 it as we showed earlier.
 
 #### Reverting to An Earlier Commit
+Let's say we want to revert a file to a version from an earlier
+commit. Under the hood, git stores each commit that can be referred to
+by a special ID. We can see the ID of each commit by using:
+
+```
+git log
+```
+
+This will list the commits (from most recent to oldest), along with
+the ID for each.
+
+Once we've chosen an earlier commit we want to go to, we can revert
+to it via:
+
+```
+git revert <ID>
+```
+
+We'll talk more about `git revert` later in the workshop.
 
 
 ## Summary of Git Commands
