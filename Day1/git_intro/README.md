@@ -87,14 +87,14 @@ see that `hello.txt` now appears.
 7. Let's make a change to `hello.txt` on our local machine by adding
    some text. 
    
-   Git will notice that `hello.txt` is now different between your local
+Git will notice that `hello.txt` is now different between your local
    machine and the origin. If you type `git status`, it will tell you
    that the file has been modified but these changes haven't been
    committed yet:
    
    
    
-   Further, Git can tell us exactly what the difference is between our
+Further, Git can tell us exactly what the difference is between our
    local copy of `hello.txt` and the version on the repo. By typing:
    
 ```
