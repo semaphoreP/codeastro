@@ -44,7 +44,11 @@ git status
    
 This should tell us that (1) we are in a git repository on the `main`
 branch and (2) our local repo is up-to-date with `main` on the remote
-repo. 
+repo:
+
+<p align="center">
+  <img width="800" height="211" src="./figs/git_status_first.png">
+</p>
 
 
 ## Adding and Editing Files in Your Repo 
