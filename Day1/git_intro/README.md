@@ -159,15 +159,15 @@ git pull origin main
 	
 	
 	
-  If this happens, then the first thing we need to do is pull down the
-  remote repo in order to see the conflict:
+    If this happens, then the first thing we need to do is pull down the
+    remote repo in order to see the conflict:
   
 ```
 git pull origin main
 ```
 	
-  Git will then find the lines of the file that are in conflict and
-  mark them on our local version like this:
+   Git will then find the lines of the file that are in conflict and
+   mark them on our local version like this:
 
 
   We can now edit the file by deciding which of the lines of the
