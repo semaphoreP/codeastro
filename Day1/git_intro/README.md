@@ -1,31 +1,40 @@
 # Introduction to Git: Demo
-This demo will walk through how to make a git repository on github,
+This demo will go through how to make a git repository via github,
 including how to add and edit files to the repo and resolve conflicts.
 
-# Make a Git Repo on Github
+For this demo, you will need 3 applications running: a web-browser
+with the Github webpage (where you have logged into your account), 
+a terminal window, and then your favorite text editor. 
 
-1. In this example, we will create documentation for the function
-`correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
-the codeastro repository. Start by using `cd` to move into the
-`tutorial_doc` directory.
+## Make a Git Repo via Github and Clone it to Your Machine
 
-2. Now we are ready to initialize the documentation. Start by making a
-`docs` directory in your repo. Then run `sphinx-quickstart` within `docs`:
-```
-mkdir docs
-cd docs
-sphinx-quickstart
-```
-Answer the questions when prompted on the terminal. Answer `n` to the question: `Separate source and build directories?`.
+1. After logging into github, click the `Repositories` tab at the top
+   of the page and then click the `New` green button to the upper right.
 
-This should create several files and directories in your `docs`
-directory, as shown below.
+2. Assign your new repo anything you wish, and then configure
+   some of the basic settings. For this demo, we'll set the code to be
+   public (the default selection) and then click the box to `Add a
+   README file`. When complete, click the green `Create Repository`
+   button to the bottom right of the page.
+   
+   This process creates the repo on github and assigns it a web address.
+   
+3. Now that the github repo is created, we need to copy a version of
+   it to our local machine. This process is called "cloning". To clone
+   the repo, click the green `Code` button, and copy the HTTPS address
+   for the repo. Then, in your terminal window, navigate to whereever
+   you'd like the repo to live on your local machine and enter:
+   
 ```
-$ ls
-Makefile   _build     _static    _templates conf.py    index.rst  make.bat
+git clone <HTTPS_address_for_repo>
 ```
 
-3. Open `conf.py` in VScode or another editor. This is the configuration
+This will create a new directory on your local machine with the same
+name as the repo. 
+
+## Add and Edit Files in Your Repo 
+
+4. Open `conf.py` in VScode or another editor. This is the configuration
 file for the Sphinx documentation builder, which controls how Sphinx
 processes your code.
 
@@ -127,143 +136,3 @@ page of your documentation. Remember to match indentation levels!
 10. View your documentation by opening the file at
 `_build/html/index.html`. You should now see a link to the Correlation
 Functions page, which has the documentation for `correlate.py`.
-
-# Tips and Tricks
-
-* Docstring / rst file formatting:
-  * Remember to check out these
-  [additional docstring examples](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
-  to see how to handle specific cases such as optional input variables, classes, exceptions, etc.
-
-  * .rst files offer many more text formatting options than what is
-  shown in this example. Here is a nice
-  [cheatsheet](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
-  with more options.
-
-  * Docstrings and .rst files can be very finicky regarding syntax!
-      How sphinx compiles your documentation can be sensitive to indents, skipped lines, type of punctuation used, etc.
-
-* More details regarding some of the Sphinx commands we used:
-
-  * `:maxdepth:`: Under the `.. toctree::` command in `index.rst`, you'll
-  notice the command `:maxdepth:`. This defines the number of nested headings to
-  include as links in your table-of-contents on the front page of your
-  documentation. For example, `:maxdepth: = 1` means
-  that only the titles of each .rst file will be included (those
-  underlinded with '==='). `:maxdepth: = 2` will include these titles as well as
-  the first level of subsections (those underlined with '---'). In
- the above example, we only had one title in `correlate.rst`
-  ("Correlation Functions"), and so that is all that appeared. But,
-  try adding a sub-section to `correlate.rst` and see what happens!
-
-  * `:caption:`: Under the `.. toctree::` command in `index.rst`, you'll
-  also notice the command `:caption: Contents:`. The `:caption:`
-  command is a way you can set the title for that particular section
-  in that compiled documentation. In the example above,
-  we assign the title `Contents:` `.. toctree::` section. This
-  command is optional and does not need to be used.
-
-  * `.. automodule::`: In `correlate.rst`, we use the command
-  `.. automodule::` followed by `:members:`to tell sphinx to document
-  all functions, classes, etc (i.e. the "members") of our python
-  module that have defined docstrings. However,
-  you can tweak this command in many ways: for example, you can
-  document a specific class, rather than an entire module
-  (`.. autoclass::`), you can document
-  only specific members within a given module (`:members: func1,
-  func2`), include entries for
-  functions that don't have docstrings (`:undoc-members:`), and more. Check out the
-  [autodoc documentation](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)
-  for ways to can control these commands.
-
-  * `Indices and tables` section: In `index.rst`, sphinx automatically
-    created an `Indices and tables` sections with references to
-    `genindex`, `modindex`, and `search`. This created the Index,
-    Module Index, and Search page in for our documentation,
-    respectively. These are optional, and so you can remove them if
-    you'd like.
-
-* In the example above, let's say we wanted to insert a link to the
-  correlation function page somwhere (say, under the "Indicies and
-  tables" sections of the index page). Now that the `correlate.rst` file has been added
-  under the toctree, we can refer to its label using `:ref:` command:
-```
-Indices and tables
-==================
-We can make a link to the correlation page by referring to its label
-  like this :ref:`correlation`.
-  
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
- ```
-
-# Activity: Building Sphinx Documentation For Your Repository
-1. Document at least one function in your package with a docstring. 
-2. Set up sphinx documentation for your project repo and build the doc
-page for your function(s). Make sure it builds correctly!
-    * Hint: to begin, make a `docs` directory in your repo, just like
-      step 4 in the example above. 
-
-
-# Activity Wrap-Up: Moving Forward with Code Documentation
-We've focused on the basics of how to document your code using
-docstrings and how to automatically compile those docstrings into
-webpages via Sphinx. This is crucial to help other users
-(and yourself!) use your code in the future. As you work
-on your python packages, keep in mind that it is
-useful to include other information in your documentation as
-well, such as:
-
-* Installation instructions 
-* Quick-start guides, tutorials, and code examples
-* How users might cite/give credit to your code, as
-well as a list of folks who have contributed to your code
-* A change-log: how your code has evolved with different versions/releases
-* How users might contribute to your code and/or report issues
-
-If there is a software package that you often use in your own work,
-take a look at its documentation. What info is included, and what do
-you find most useful? Is the documentation easy to understand and
-navigate? By looking at other documentation, you can get a
-sense of what works and doesn't work for you as you document your own
-package. For additional examples of code documentation, check out the
-pages for [orbitize](https://orbitize.readthedocs.io/en/latest/index.html),
-[RadVel](https://radvel.readthedocs.io/en/latest/), and
-[SPISEA](https://spisea.readthedocs.io/en/latest/). 
-
-## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
-In most cases, we want to host our sphinx documentation online so that
-other users can access it easily. If your code is in a GitHub repo, is
-public, 
-and has sphinx documentation set up as above,
-then you can host your documentation via
-[ReadTheDocs](https://readthedocs.org/). One very nice aspect of
-ReadTheDocs is that you can have it automatically recompile
-the documentation each time a change is pushed to your code
-repository. Just like that, you have documentation that updates
-itself!
-
-ReadtheDocs provides a nice
-[tutorial](https://docs.readthedocs.io/en/stable/tutorial/) on how to
-set it up. You will need to:
-
-1. Make a free ReadTheDocs account and authorize it to access your
-GitHub account ("Sign Up for Read the Docs")
-
-2. Import your repository as a new ReadTheDocs project ("Import the
-   Project for Read the Docs")
-
-3. Build your documentation; make sure it runs to completion and that
-the output webpage looks the way you expect it to ("Checking the First Build")
-
-4. Set it up so that the docs are automatically recompiled if a push
-is made to the github repo. In the ReadtheDocs project page,
-click on the `Advanced Settings` link on the left under the `Admin`
-menu, check the “Build pull requests for this project” checkbox,
-and click the Save button at the bottom of the page. (From "Trigger a
-Build from a pull request"). 
-
-
-
