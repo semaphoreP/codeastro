@@ -34,7 +34,7 @@ a terminal window, and then your favorite text editor.
 git clone <HTTPS_address_for_repo>
 ```
 
-   This will create a new directory on your local machine with the same name as the repo. 
+> This will create a new directory on your local machine with the same name as the repo. 
 
 4. To make sure everything worked properly, `cd` into the newly
    created directory on your machine and type:
