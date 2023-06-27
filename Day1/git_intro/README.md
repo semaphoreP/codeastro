@@ -166,15 +166,14 @@ git pull origin main
 git pull origin main
 ```
 	
-Git will then find the lines of the file that are in conflict and mark
-them on our local version like this:
+  Git will then find the lines of the file that are in conflict and
+  mark them on our local version like this:
 
 
-We can now edit the file by deciding which of the lines of the
-conflict we want to keep. Then, be sure to delete the extra lines
-added by Git (e.g., the `HEAD`, `>>>`, `<<<<`, and `====` markers).
+  We can now edit the file by deciding which of the lines of the
+  conflict we want to keep. Then, be sure to delete the extra lines added by Git (e.g., the `HEAD`, `>>>`, `<<<<`, and `====` markers).
 
-To push the fixed file back to the remote repo, we do the following:
+  To push the fixed file back to the remote repo, we do the following:
 
 ```
 git add hello.txt
@@ -184,7 +183,8 @@ git push origin master
 	
 And now everything is back to normal.
 	
-## Dealing with Local Changes You Don't Want to Keep
+## Uh Oh, I Don't Want To Keep My Local Changes. Undo!!
+
 
 
 
