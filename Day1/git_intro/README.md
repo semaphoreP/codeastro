@@ -240,11 +240,5 @@ git revert <ID>
 We'll talk more about `git revert` later in the workshop.
 
 
-## Summary of Git Commands
-
-There are many more git commands then the few we've shown here, but
-these are the ones that I find I use the most. Here is a quick summary
-of the commands we used, for convinience.
-
 
 
