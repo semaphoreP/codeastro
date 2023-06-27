@@ -43,8 +43,8 @@ git status
 ```
    
 This should tell us that (1) we are in a git repository on the `main`
-branch and (2) our branch is up-to-date with `main` on the remote
-repository. 
+branch and (2) our local repo is up-to-date with `main` on the remote
+repo. 
 
 
 ## Adding and Editing Files in Your Repo 
@@ -101,9 +101,9 @@ see that `hello.txt` now appears.
 git diff hello.txt
 ```
 
-It will return the lines of the file that have been changed. This is
-very helpful if you've lost track of what changes you've done that
-haven't been committed yet.
+   It will return the lines of the file that have been changed. This
+   is very helpful if you've lost track of what changes you've done
+   that haven't been committed yet.
 
 
 8. Just like in steps 4 and 5, we can commit these changes and then
