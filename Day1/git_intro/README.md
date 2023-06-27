@@ -1,7 +1,8 @@
-# Introduction to Git: Demo
-This demo will go through how to make a git repository via Github,
-clone it to your local machine, and then how to add and edit files in
-the repo. 
+# Demo: Introduction to Git
+In this demo, we will go over how to (1) make a git repository via
+Github and clone it to your local machine; (2) Add and edit files to
+the repo; (3) Resolve conflicts between the remote and local versions
+of files in the repo; and (4) Remove changes you don't want to keep.
 
 For this demo, you will need 3 applications running: a web-browser
 with the Github webpage (where you have logged into your account), 
