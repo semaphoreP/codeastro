@@ -28,13 +28,12 @@ a terminal window, and then your favorite text editor.
    for the repo. 
    
    Then, in your terminal window, navigate to wherever
-   you'd like the repo to live on your local machine and type:
+   you'd like the repo to live on your local machine and type the
+   following. This will create a new directory on your local machine with the same name as the repo. 
    
 ```
 git clone <HTTPS_address_for_repo>
 ```
-
-&nbsp;&nbsp;&nbsp;This will create a new directory on your local machine with the same name as the repo. 
 
 4. To make sure everything worked properly, `cd` into the newly
    created directory on your machine and type:
