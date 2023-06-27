@@ -125,7 +125,7 @@ git push origin main
 
 9. Sometimes a file on the remote repo is updated, and you want to
    add those upates to the file on your local machine. To simulate
-   this, let's make a change to `hello.txt` via the Github interface. 
+   this, let's make a change to `hello.txt` via the Github interface.
 
 To get these change on our local repo, we can use:
 	
@@ -133,15 +133,14 @@ To get these change on our local repo, we can use:
 git pull origin main
 ```
 
-Now, the local copy of `hello.txt` on your machine should reflect
-  those changes. 
+Now, the local copy of `hello.txt` on your machine should reflect those changes. 
   
-NOTE: You will not be able to use `git pull` if git detects that
-  there are changes to your local version of the repo that hasn't been
-  committed! This is safety measure to make sure any local changes you
-  have don't get accidently overwritten when we pull down from the
-  remote repo. So, it is a good idea to run a quick `git status` to
-  see if you have any uncommitted local changes before using git pull.
+NOTE: You will not be able to use `git pull` if git detects that there
+are changes to your local version of the repo that hasn't been
+committed! This is safety measure to make sure any local changes you
+have don't get accidently overwritten when we pull down from the 
+remote repo. So, it is a good idea to run a quick `git status` to
+see if you have any uncommitted local changes before using git pull.
   
   
 10. Sometimes, there will be a conflict between an update to a file on
@@ -152,14 +151,9 @@ NOTE: You will not be able to use `git pull` if git detects that
     interface, and then edit the file locally on our machine. Remember
     to `git commit` the local changes.
 	
-Now, if you try to `git push` the local changes, there is a
-    conflict warning:
+Now, if you try to `git push` the local changes, there is a conflict warning:
 	
-	
-	
-	
-If this happens, then the first thing we need to do is pull down the
-    remote repo in order to see the conflict:
+If this happens, then the first thing we need to do is pull down the remote repo in order to see the conflict:
   
 ```
 git pull origin main
