@@ -166,8 +166,8 @@ git pull origin main
 git pull origin main
 ```
 	
-   Git will then find the lines of the file that are in conflict and
-   mark them on our local version like this:
+    Git will then find the lines of the file that are in conflict and
+    mark them on our local version like this:
 
 
   We can now edit the file by deciding which of the lines of the
