@@ -158,7 +158,12 @@ see if you have any uncommitted local changes before using git pull.
     interface, and then edit the file locally on our machine. Remember
     to `git commit` the local changes.
 	
-Now, if you try to `git push` the local changes, there is a conflict warning:
+Now, if you try to `git push` the local changes, there is a conflict
+warning:
+
+<p align="center">
+  <img width="951" height="150" src="./figs/conflict.png">
+</p>
 	
 If this happens, then the first thing we need to do is pull down the remote repo in order to see the conflict:
   
