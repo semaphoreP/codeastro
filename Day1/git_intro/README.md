@@ -106,10 +106,12 @@ Further, Git can tell us exactly what the difference is between our local copy o
 git diff hello.txt
 ```
 
-   It will return the lines of the file that have been changed. This
-   is very helpful if you've lost track of what changes you've done
-   that haven't been committed yet.
+It will return the lines of the file that have been changed. This is
+very helpful if you've lost track of what changes you've done that haven't been committed yet.
 
+<p align="center">
+  <img width="951" height="150" src="./figs/git_diff.png">
+</p>
 
 8. Just like in steps 4 and 5, we can commit these changes and then
    push them to the remote repository:
