@@ -146,8 +146,8 @@ see if you have any uncommitted local changes before using git pull.
 10. Sometimes, there will be a conflict between an update to a file on
     the remote repo and an update to a file on your local machine. In
     that case, git isn't sure which change to keep, and a conflict is
-    raised. For example, let's manufacture a conflict in `hello.txt`:
-    let's edit the file on the remote repo directly via the Github
+    raised. For example, let's manufacture a conflict in `hello.txt`.
+    We'll edit the file on the remote repo directly via the Github
     interface, and then edit the file locally on our machine. Remember
     to `git commit` the local changes.
 	
