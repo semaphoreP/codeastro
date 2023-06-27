@@ -127,16 +127,16 @@ git push origin main
    add those upates to the file on your local machine. To simulate
    this, let's make a change to `hello.txt` via the Github interface. 
 
-	To get these change on our local repo, we can use:
+To get these change on our local repo, we can use:
 	
 ```
 git pull origin main
 ```
 
-  Now, the local copy of `hello.txt` on your machine should reflect
+Now, the local copy of `hello.txt` on your machine should reflect
   those changes. 
   
-  NOTE: You will not be able to use `git pull` if git detects that
+NOTE: You will not be able to use `git pull` if git detects that
   there are changes to your local version of the repo that hasn't been
   committed! This is safety measure to make sure any local changes you
   have don't get accidently overwritten when we pull down from the
@@ -152,13 +152,13 @@ git pull origin main
     interface, and then edit the file locally on our machine. Remember
     to `git commit` the local changes.
 	
-	Now, if you try to `git push` the local changes, there is a
+Now, if you try to `git push` the local changes, there is a
     conflict warning:
 	
 	
 	
 	
-    If this happens, then the first thing we need to do is pull down the
+If this happens, then the first thing we need to do is pull down the
     remote repo in order to see the conflict:
   
 ```
@@ -169,10 +169,10 @@ Git will then find the lines of the file that are in conflict and
 mark them on our local version like this:
 
 
-  We can now edit the file by deciding which of the lines of the
+We can now edit the file by deciding which of the lines of the
   conflict we want to keep. Then, be sure to delete the extra lines added by Git (e.g., the `HEAD`, `>>>`, `<<<<`, and `====` markers).
 
-  To push the fixed file back to the remote repo, we do the following:
+To push the fixed file back to the remote repo, we do the following:
 
 ```
 git add hello.txt
