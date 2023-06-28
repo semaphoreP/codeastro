@@ -11,6 +11,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm      | Optional Parallelism Lesson | TBD |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Tuesday July 11**
@@ -20,6 +21,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm      | Optional Astropy/Matplotlib Lesson | TBD |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Wednesday July 12**
@@ -39,6 +41,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm      | Optional Code Profiling Lesson | TBD |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Friday July 14**
