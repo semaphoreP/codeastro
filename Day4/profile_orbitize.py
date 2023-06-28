@@ -26,12 +26,12 @@ from orbitize import driver
 
 
 myDriver = driver.Driver(
-    '{}/GJ504.csv'.format(orbitize.DATADIR), # data file
-    'OFTI',        # choose from: ['OFTI', 'MCMC']
-    1,             # number of planets in system
-    1.22,          # total system mass [M_sun]
-    56.95,         # system parallax [mas]
-    mass_err=0.08, # mass error [M_sun]
-    plx_err=0.26   # parallax error [mas]
+    "{}/GJ504.csv".format(orbitize.DATADIR),  # data file
+    "OFTI",  # choose from: ['OFTI', 'MCMC']
+    1,  # number of planets in system
+    1.22,  # total system mass [M_sun]
+    56.95,  # system parallax [mas]
+    mass_err=0.08,  # mass error [M_sun]
+    plx_err=0.26,  # parallax error [mas]
 )
-orbits = myDriver.sampler.run_sampler(1000,  num_cores=1)
+orbits = myDriver.sampler.run_sampler(1000, num_cores=1)
