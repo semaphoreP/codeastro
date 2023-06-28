@@ -21,3 +21,4 @@ Example: We’ll write unit tests that evaluate the performance of individual fu
   * [Testing Think-pair Activity](https://colab.research.google.com/drive/1y_Zq81xzOJu3Zz7Kvv_S_4mUScX_yg7w?usp=sharing)
   * [Discrimination in Software Slides](https://docs.google.com/presentation/d/13XPCUQga8WzHKTw9BIxPa4DBMFk-QbSDpr9MXjmztuc/edit?usp=sharing)
   * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day4/parallelism.ipynb)
+  * [Colaboratory Link for analyze_profiler.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day4/analyze_profiler.ipynb)
