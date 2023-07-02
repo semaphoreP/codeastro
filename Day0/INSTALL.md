@@ -80,9 +80,9 @@ In this workshop, we are recommending you use Visual Studio Code (VS Code) to de
 As part of the workshop, we will cover skills such as debugging and demonstrate how to do them using VS Code, so it will be easiest to also use it and follow along.
 You can download VS Code for free from its official webpage: https://code.visualstudio.com/.
 
-This video (27 mins; last 5 are optional) will take you through setting up your VS Code installation and learning about some of its features:
+This video (25 mins; last 5 are optional) will take you through setting up your VS Code installation and learning about some of its features:
 
-[![VS Code Video](http://img.youtube.com/vi/pNNI0owoMHM/0.jpg)](https://youtu.be/pNNI0owoMHM "VS Code Video")
+[![VS Code Video](http://img.youtube.com/vi/gS-wKrlwDrA/0.jpg)](https://youtu.be/gS-wKrlwDrA "VS Code Video")
 
 The instructions in the video are adapted from the official [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) guide, which you should feel free to use as a reference. That guide is long, and not everything will be needed, so feel free to peruse the documentation, but do not worry if you do not understand certain parts of it (it can get quite advanced!). 
 
