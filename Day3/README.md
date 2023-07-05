@@ -3,9 +3,7 @@
 
 ## Project Goal:
 
-Document your code and put it on pypi to make it pip installable.
-
-Example: we’ll write docstrings for each of our classes and functions, and put the code on pypi. We’ll try pip installing it on each of our machines to work through installation problems.
+Nothing is scheduled for today! Feel free to take time off today. 
 
 ## Learning Objectives
 
