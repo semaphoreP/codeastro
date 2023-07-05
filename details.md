@@ -11,6 +11,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm | (Optional) Parallelism |  4430 (4th Floor) |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Tuesday July 11**
@@ -20,6 +21,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm | (Optional) astropy + matplotlib |  4430 (4th Floor) |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Wednesday July 12**
@@ -39,6 +41,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
+|  1:00pm - 2:00pm | (Optional) Profiling |  4430 (4th Floor) |
 |  1:00pm - 5:00pm      | Work on Project  | Assorted Meeting Rooms (see below for room info)        | 
 
 **Friday July 14**
@@ -49,7 +52,7 @@ All dates and times are CDT (Chicago Time). Room information will be added short
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 10:00am    | Industry Panel               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  10:00am - 11:45am    | Group Project Show & Tell              | 7-600 (7th Floor, 1800 Sherman)    | 
-|  11:45am - 12:00pm       | Closing Thoughts |7-600 (7th Floor, 1800 Sherman)         | 
+|  11:45am - 12:00pm       | Closing Remarks |7-600 (7th Floor, 1800 Sherman)         | 
 
 
 ## Recording Policy
@@ -69,7 +72,7 @@ There will be nothing planned on Wednesday afternoon (although the rooms are ava
 We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and Dime, which is located in downtown Evanston. 
 
 ### Afternoon Workspaces
-We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), Boardroom (8072), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 10 people), 5510-B (5th floor, 20 people).
+We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), Boardroom (8072), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 14 people), 5510-B (5th floor, 18 people). Note that 4430 will be used for the optional afternoon session. Groups assigned to that room can move elsewhere for that hour (e.g., the 8th floor Sky Lounge).
 
 ![map of rooms on the 8th floor](imgs/ciera-meetingrooms-8thfloor.png)
 

@@ -38,8 +38,9 @@ Local logistics are being organized by the [CIERA staff](https://ciera.northwest
 | Mon. July 10   | Tue. July 11  | Wed. July 12  | Thu. July 13  | Fri. July 14   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 |  Development Environments | Git Mechanics             | Releasing Code          | Software Testing              | Industry Panel Discussion     |
-|  Programming Paradigms    | Debugging                 | Code Documentation      | Parallel Programming          | Project Presentations |
-|  Git/Github Basics        | Python Package Tutorials  | Code Profiling          | Anti-Discriminatory Practices |        |
+|  Programming Paradigms    | Debugging                 | Code Documentation      | Anti-Discriminatory Practices   | Project Presentations |
+|  Git/Github Basics        | Python Package Tutorials  |         | Code Profiling   |        |
+|  Parallel Programming     |                           |         |                  |
 
 ### Logisitcal Details
 [A more detailed agenda and in-person logistical details are avilable here](https://semaphorep.github.io/codeastro/details.html). Note that this year, some topics will be offered as optional sessions in the afternoons (CDT). 
