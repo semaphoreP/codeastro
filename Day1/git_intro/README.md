@@ -8,7 +8,7 @@ For this demo, you will need 3 applications running: a web-browser
 with the Github webpage (where you have logged into your account), 
 a terminal window, and then your favorite text editor. 
 
-## Make a Remote Repository via Github and Clone it to Your Machine
+## Make a Remote Repository via Github
 
 1. After logging into github, click the `Repositories` tab at the top
    of the page and then click the `New` green button to the upper right.
@@ -22,11 +22,12 @@ a terminal window, and then your favorite text editor.
    This process creates the repo on github and assigns it a web
    address. This is referred to as the `remote repository` or `origin`.
    
+## Clone a Local Copy of the Repository to Your Machine
 3. Now that the github repo is created, we need to copy a version of
    it to our local machine. This process is called "cloning". To clone
    the repo, click the green `Code` button, and copy the HTTPS address
-   for the repo. 
-   
+   for the repo.
+
    Then, in your terminal window, navigate to wherever
    you'd like the repo to live on your local machine and type the
    following. This will create a new directory on your local machine with the same name as the repo. 
@@ -41,7 +42,7 @@ git clone <HTTPS_address_for_repo>
 ```
 git status
 ```
-   
+
 This should tell us that (1) we are in a git repository on the `main`
 branch and (2) our local repo is up-to-date with `main` on the remote
 repo:
@@ -51,7 +52,7 @@ repo:
 </p>
 
 
-## Adding and Editing Files in Your Repo 
+## Adding a File to Your Repo 
 
 5. Now, let's make a new text file to add to the repo directory on
    your machine. For this demo, we'll make a file called `hello.txt`
@@ -88,10 +89,12 @@ where you want to push the changes to a different branch other than
 Now, go to your refresh the github webpage for your repo. You should
 see that `hello.txt` now appears. 
 
+## Editing a File in Your Repo
+
 7. Let's make a change to `hello.txt` on our local machine by adding
    some text. 
    
-Git will notice that `hello.txt` is now different between your local
+    Git will notice that `hello.txt` is now different between your local
 machine and the origin. If you type `git status`, it will tell you
 that the file has been modified but these changes haven't been committed yet:
    
@@ -128,13 +131,13 @@ git push origin main
    upper right.
 
 
-## Pulling Changes From the Remote Repo and Resolving Conflicts
+## Pulling Changes From the Remote Repo
 
 9. Sometimes a file on the remote repo is updated, and you want to
    add those upates to the file on your local machine. To simulate
    this, let's make a change to `hello.txt` via the Github interface.
 
-To get these change on our local repo, we can use:
+    To get these change on our local repo, we can use:
 	
 ```
 git pull origin main
@@ -149,6 +152,7 @@ have don't get accidently overwritten when we pull down from the
 remote repo. So, it is a good idea to run a quick `git status` to
 see if you have any uncommitted local changes before using git pull.
   
+## Resolving Conflicts
   
 10. Sometimes, there will be a conflict between an update to a file on
     the remote repo and an update to a file on your local machine. In
@@ -158,7 +162,7 @@ see if you have any uncommitted local changes before using git pull.
     interface, and then edit the file locally on our machine. Remember
     to `git commit` the local changes.
 	
-Now, if you try to `git push` the local changes, there is a conflict
+    Now, if you try to `git push` the local changes, there is a conflict
 warning:
 
 <p align="center">
@@ -196,7 +200,7 @@ One of the key advantages of git is that it allows us to keep track of
 and undo changes that we decide we don't actually want to keep. Here
 are three situations with commands you can use to undo these changes:
 
-#### Deleting Uncommitted Local Changed
+### Deleting Uncommitted Local Changed
 If you want to remove all local changes made to a file, and you
 haven't commited any of those changes yet, then you can easily revert
 back to the previous commited version of the file by using:
@@ -205,7 +209,7 @@ back to the previous commited version of the file by using:
 git checkout <file_name>
 ```
 
-#### Preserving Local Changes but also Updating From Remote
+### Preserving Local Changes but also Updating From Remote
 This comes up if there are changes to the remote repo that you want to
 pull down to your local repo, but you have local changes that aren't
 ready to be committed yet (remember that git won't let you `git pull`
@@ -226,7 +230,7 @@ NOTE: using `git stash apply` can cause a merge conflict! In that
 case, the conflict is marked in the file and you will need to resolve
 it as we showed earlier.
 
-#### Reverting to An Earlier Commit
+### Reverting to An Earlier Commit
 Let's say we want to revert a file to a version from an earlier
 commit. Under the hood, git stores each commit that can be referred to
 by a special ID. We can see the ID of each commit by using:
