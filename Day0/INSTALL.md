@@ -82,7 +82,7 @@ You can download VS Code for free from its official webpage: https://code.visual
 
 This video (25 mins; last 5 are optional) will take you through setting up your VS Code installation and learning about some of its features:
 
-[![VS Code Video](http://img.youtube.com/vi/gS-wKrlwDrA/0.jpg)](https://youtu.be/gS-wKrlwDrA "VS Code Video")
+[![VS Code Video](http://img.youtube.com/vi/yl60qAmmOMM/0.jpg)](https://youtu.be/yl60qAmmOMM "VS Code Video")
 
 The instructions in the video are adapted from the official [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) guide, which you should feel free to use as a reference. That guide is long, and not everything will be needed, so feel free to peruse the documentation, but do not worry if you do not understand certain parts of it (it can get quite advanced!). 
 
