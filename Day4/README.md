@@ -4,15 +4,15 @@
 
 ## Project Goal:
 
-Add tests, and get ready to present tomorrow!
+The final stretch! Document your code, add tests, release it, and get ready to present tomorrow!
 
-Example: We’ll write unit tests that evaluate the performance of individual functions (e.g. if a user sets a degree range keyword, does the Gaia query work appropriately?), and end-to-end tests that make sure the whole package is working. We’ll also add a tutorial.
+Example: We’ll write docstrings for a couple core classes and functions (all we have time for) and add a tutorial to our README. We’ll write unit tests that evaluate the performance of key functions (e.g. if a user sets a degree range keyword, does the Gaia query work appropriately?), and end-to-end tests that make sure the whole package is working. We'll put our code on PyPI and try pip installing it on each of our machines to work through installation problems.
 
 ## Learning Objectives
 
-  * Decide and implement parallelized Python code for “embarrassingly parallel” problems
   * Write tests for your code
   * Actively avoid discrminatory behavior when coding
+  * (Optional) Identify what parts of your code take the longest to execute. 
 
 ## Useful Links:
 
@@ -20,4 +20,4 @@ Example: We’ll write unit tests that evaluate the performance of individual fu
   * [Testing Slides](https://docs.google.com/presentation/d/1mObfDklqtAzIg42HmkfG_DvEYoZ5qH4L32o9BYBbWs0/edit?usp=sharing)
   * [Testing Think-pair Activity](https://colab.research.google.com/drive/1y_Zq81xzOJu3Zz7Kvv_S_4mUScX_yg7w?usp=sharing)
   * [Discrimination in Software Slides](https://docs.google.com/presentation/d/13XPCUQga8WzHKTw9BIxPa4DBMFk-QbSDpr9MXjmztuc/edit?usp=sharing)
-  * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day4/parallelism.ipynb)
+  * [Colaboratory Link for analyze_profiler.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day4/analyze_profiler.ipynb)

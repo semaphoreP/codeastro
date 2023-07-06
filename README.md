@@ -36,21 +36,20 @@ Each of these goals will be covered on a different day of the workshop, so it’
 
 ### Timeline & Time Expectations:
 
-You should aim to spend 10 hours (2.5 hours per day) working on the project. Days 1 and 2 are the main time to develop the core functionality of your package. Writing docs/tests/packaging will keep you busy on Days 3 and 4.
+You should aim to spend 10 hours (~3.3 hours per day) working on the project. Days 1 and 2 are the main time to develop the core functionality of your package. Writing docs/tests/packaging will keep you busy on Day 4 (we don't nomianlly have anything planned on Day 3).
 
 Here’s a more detailed suggested timeline:
 
-**Day 1**: decide on the purpose of the package. Write one central function or class. 
-Example: we’re working on a package that plots the most likely galactic orbits for a user-specified subset of the Gaia catalog. Today, me and partner 1 will write a function that uses galpy to compute and plot orbits for a list of stars, and partners 2 and 3 will write a class for constructing the list of stars using user input.
+**Day 1**: decide on the purpose of the package. Write one central function or class and put it on Github.
+Example: we’re working on a package that plots the most likely galactic orbits for a user-specified subset of the Gaia catalog. Today, me and partner 1 will write a function that uses galpy to compute and plot orbits for a list of stars, and partners 2 and 3 will write a class for constructing the list of stars using user input. We'll use two separate branches to do this. 
 
-**Day 2**: get comfortable using GitHub to collaborate on your package.
- Example: today we’ll put our code on GitHub and begin using branches to make further changes. We’ll continue working on the core functionality we sketched out yesterday (perhaps today we’ll add code to query the Gaia database using our list).
+**Day 2**: get a feature working and committed to Github. You'll be busy later this week doing documentation and other scaffolding, so try to finish something you can demo today.
+Example: We’ll continue working on the core functionality we sketched out yesterday so that we can produce a plot of likely galactic orbits given a Gaia star ID.
  
-**Day 3**: document your code and put it on pypi to make it pip installable.
-Example: we’ll write docstrings for each of our classes and functions, and put the code on pypi. We’ll try pip installing it on each of our machines to work through installation problems.
+**Day 3**: Nothing is scheduled for today! 
 
-**Day 4**: add tests, and get ready to present tomorrow!
-Example: We’ll write unit tests that evaluate the performance of individual functions (e.g. if a user sets a degree range keyword, does the Gaia query work appropriately?), and end-to-end tests that make sure the whole package is working. We’ll also add a tutorial.
+**Day 4**: The final stretch! Document your code, add tests, release it, and get ready to present tomorrow!
+Example: we’ll write docstrings for a couple core classes and functions (all we have time for) and add a tutorial to our README. We’ll write unit tests that evaluate the performance of key functions (e.g. if a user sets a degree range keyword, does the Gaia query work appropriately?), and end-to-end tests that make sure the whole package is working. We'll put our code on PyPI and try pip installing it on each of our machines to work through installation problems.
 
 ### Examples from Past Years:
 
@@ -63,7 +62,7 @@ https://github.com/Bhavesh012/TCalc
 https://github.com/laldoroty/snlcpy
 
 ### Final Presentation:
-During the final presentation, you will have the opportunity to give a short (5 minute) demonstration of the package your developed. Remember to talk about the motivation behind the package, any challenges or difficulties you encountered, and show off what the package does!
+During the final presentation, you will have the opportunity to give a short (5 minute) demonstration of the package your developed. Remember to talk about the motivation behind the package, any challenges or difficulties you encountered, and show off what the package does! We'll send around a sign-up sheet on Day 4, so please sign up for a slot!
 
 ### Advice for Pair Programming:
 To do this project, you’ll be working with others to program. This is likely a new experience for most of you. We suggest you use “pair programming” to collaborate, especially towards the beginning of the week:
