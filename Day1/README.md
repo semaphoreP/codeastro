@@ -4,6 +4,8 @@
 
 Decide on the purpose of the package. Write one central function or class and put it on Github.
 
+Example: we’re working on a package that plots the most likely galactic orbits for a user-specified subset of the Gaia catalog. Today, me and partner 1 will write a function that uses `galpy` to compute and plot orbits for a list of stars, and partners 2 and 3 will write a class for constructing the list of stars using user input. We'll use two separate git branches to do this. 
+
 ## Learning Objectives
 
   * Identify which development environment is most appropriate for their programming task.
