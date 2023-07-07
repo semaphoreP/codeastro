@@ -71,13 +71,21 @@ questions, or discuss your project with you.
 There will be nothing planned on Wednesday afternoon (although the rooms are available if you want to work on your project), as this gives you an opportunity to have some time to explore Evanston and Chicago.
 We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and Dime, which is located in downtown Evanston. 
 
-### Afternoon Workspaces
-We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), Boardroom (8072), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 14 people), 5510-B (5th floor, 18 people). Note that 4430 will be used for the optional afternoon session. Groups assigned to that room can move elsewhere for that hour (e.g., the 8th floor Sky Lounge).
-
-![map of rooms on the 8th floor](imgs/ciera-meetingrooms-8thfloor.png)
-
 ### COVID Policy
-Masking is optional. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
+Masking is optional but recommended (especially if you are not the presenter). We will have 2 COVID tests per person, and we ask everyone to test once Monday and Wednesday. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
+
+### Afternoon Workspaces
+We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), Boardroom (8072), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 14 people), 5510-B (5th floor, 18 people). Note that 4430 will be used for the optional afternoon session. Groups assigned to that room can move elsewhere for that hour if they prefer working on the project instead (e.g., the 8th floor Sky Lounge). 
+
+Below is a map of the rooms in each floor. Please let us know if there are insufficient plugs, and we can bring more. Please keep the areas clean as these are shared areas!
+
+| Floor | Map|
+|-------|----|
+| [8th Floor](imgs/ciera-meetingrooms-8thfloor.png) | ![map of rooms on the 8th floor](imgs/ciera-meetingrooms-8thfloor.png) |
+| [7th Floor](imgs/ciera-meetingrooms-7thfloor.png) | ![map of rooms on the 7th floor](imgs/ciera-meetingrooms-7thfloor.png) |
+| [5th Floor](imgs/ciera-meetingrooms-5thfloor.png) | ![map of rooms on the 5th floor](imgs/ciera-meetingrooms-5thfloor.png) |
+| [4th Floor](imgs/ciera-meetingrooms-4thfloor.png) | ![map of rooms on the 4th floor](imgs/ciera-meetingrooms-4thfloor.png) |
+| [3rd Floor](imgs/ciera-meetingrooms-3rdfloor.png) | ![map of rooms on the 3rd floor](imgs/ciera-meetingrooms-3rdfloor.png) |
 
 ### Workshop Dinner
 The workshop dinner will be taking place at [Five and Dime at 1026 Davis Street (9 min walk from CIERA)](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu). Walking instructions from CIERA are below:
