@@ -15,4 +15,3 @@ Nothing is scheduled for today! Feel free to take time off today.
 
   * [Day 3 Slides](https://docs.google.com/presentation/d/1MXeZZMRHcmewBnWR1my4-JEDK9Mj4EkYs-hDiDZgtw4/edit?usp=sharing)
   * [Slides on Releasing Code](https://docs.google.com/presentation/d/13hsrEckVlQrVZZ-NCrm8hoG4Uun4M3yIwQQRBfO3ee0/edit?usp=sharing)
-  * [Colaboratory Link for analyze_profiler.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day3/analyze_profiler.ipynb)
