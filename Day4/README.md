@@ -10,7 +10,7 @@ Example: We’ll write docstrings for a couple core classes and functions (all w
 
 ## Learning Objectives
 
-  * Write tests for your code
+  * Write tests based on anticipated use cases of your code
   * Actively avoid discrminatory behavior when coding
   * (Optional) Identify what parts of your code take the longest to execute. 
 
