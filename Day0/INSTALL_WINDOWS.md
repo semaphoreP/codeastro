@@ -9,9 +9,9 @@ If you just want a simple working windows environment there is a "no frills" win
 
 ## Windows or WSL?
 
-One important decision to make at the start is to decide whether or not to make Windows your development environment. Generally, python works fine on Windows, so it is perfectly viable for python alone. However, there are a number of python packages for astronomy that are not compatible with Windows. For Code/Astro, all of the packages we will work with work with Windows, but this may not be true for other packages you might encounter for your research.
+One important decision to make at the start is to decide whether or not to make Windows your development environment. Generally, python works fine on Windows, so it is perfectly viable for python alone. However, there are a number of python packages for astronomy that are not compatible with Windows. For Code/Astro, not all of the packages we will use will work with Windows directly out of the box (there are workarounds, but they are time consuming), so **we suggest you install Windows Subsystem for Linux (WSL) for Code/Astro.**
 
-The suggested alternative is to use Windows Subsystem for Linux (WSL), which is a full Linux operating system running inside of Windows. This is supported by default now on Windows 10 and it is fairly simple to setup. The additional complexity introduced by WSL is that there usually is 1-2 more steps that need to be done to hook up your programming setup to use the python installed under WSL for your development. This is generally not a large barrier, but it involves doing a few extra steps. 
+WSL is a full Linux operating system running inside of Windows. This is supported by default starting with Windows 10 and it is fairly simple to setup. The additional complexity introduced by WSL is that there usually is 1-2 more steps that need to be done to hook up your programming setup to use the python installed under WSL for your development. This is generally not a large barrier, but it involves doing a few extra steps. 
 
 For Code/Astro, we will present instructions on how to set things up for WSL and native Windows. Generally, we will recommend you using WSL for the purpose of software programming for astronomy.
 
@@ -20,11 +20,9 @@ For Code/Astro, we will present instructions on how to set things up for WSL and
 WSL allows you to run a virtual Linux operating system in Windows. This is officially supported by Microsoft and lets you do anything a Linux user would do. 
 
 ### Install WSL
-There are currently two versions of WSL: WSL 1 and WSL 2. WSL2 is the future and works well on Windows 11. However, if you use Windows 10, we suggest using WSL 1 for now, as enabling GUIs for WSL2 on Windows 10 is tricky. It appears that transitioning from WSL1 to WSL2 is pretty straightforward. 
+There are currently two versions of WSL: WSL 1 and WSL 2. It is much easier to install WSL2 nowadays, so this the easier route. To install WSL2, run the one-line install command found here: https://docs.microsoft.com/en-us/windows/wsl/install. You will need to restart your computer afterwards before you can use WSL2. By default, you will install Ubuntu, which is what we recommend also. After the restart, you should be able to launch a WSL session. 
 
 To install WSL1, follow only stpes #1 and #6 (not #2-#5) of these manual install instructions: https://docs.microsoft.com/en-us/windows/wsl/install-manual. Note that you will need to restart your computer after step 1. When you get to the step of choosing a Linux distribution from the Microsoft store, we suggest you install Ubuntu, as it is probably the easiest to work with. If it is installed successfully, you should be open Ubuntu from the Start Menu and have a black terminal screen appear.
-
-In install WSL2, run the one-line install command found here: https://docs.microsoft.com/en-us/windows/wsl/install. You will need to restart your computer afterwards before you can use WSL2. By default, you will install Ubuntu, which is what we recommend also. After the restart, you should be able to launch a WSL session. 
 
 ### Install Windows Terminal
 We recommend Windows Terminal to run all the various terminal programs in Windows (cmd, powershell, WSL, etc.). It's much more customizable to use than the default WSL shell. Windows Terminal is easily installed from the Windows store: https://docs.microsoft.com/en-us/windows/terminal/install. 
@@ -42,10 +40,10 @@ sudo apt install gcc
 
 ### Note for WSL2 on Windows 11
 
-XMing (the following section) should not be needed for windows 11 from build 22000 or higher. Your build can be checked by typing `winver` in a cmd/powershell (not WSL shell) and pressing enter with the build number showing on the second line. You may need to install the preview driver matching your system which can be found here:
-https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
+XMing (the following section) may not be needed for windows 11 from build 22000 or higher. However, we suggest you install it anyways as the setup instructions have not been tested without XMing. 
 
-You can skip to installing git 
+Your build can be checked by typing `winver` in a cmd/powershell (not WSL shell) and pressing enter with the build number showing on the second line. If you are running Windows 11 build 22000 or higher, you may be able to bypass the need for XMing by following these instructions:
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps.
 
 ### Install xming
 
@@ -53,10 +51,12 @@ Normally, WSL is just a command prompt, so it does not have a GUI interface. If 
 
 The following insturctions are different depending on whether you are using WSL1 or WSL2. If you are using WSL2 and have Windows 11 with build 22000 or higher, you don't need to do any of the following. 
 
+#### xming for WSL1
 For WSL1, after you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
 
     echo export DISPLAY=localhost:0.0 >> ~/.bashrc
-    
+
+#### xming for WSL2
 For WSL2, after you download and install xming, run xlaunch. Xlaunch is xming but allows you to customize some xming settings. Use the default settings except check the box that says "No Access Control" (should be 3rd page of the interative prompt) before clicking finish, which will launch xming. You should now see the xming icon appear in the Windows taskbar. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming.  
 
     export DISPLAY=`grep -oP "(?<=nameserver ).+" /etc/resolv.conf`:0.0
