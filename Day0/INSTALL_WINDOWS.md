@@ -49,14 +49,14 @@ https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps.
 
 Normally, WSL is just a command prompt, so it does not have a GUI interface. If you try to display matplotlib plots through the command line, it will not work, because WSL does not directly talk with your Windows desktop normally. However, you can make this communication happen with xming, which can be installed from here: https://sourceforge.net/projects/xming/.
 
-The following insturctions are different depending on whether you are using WSL1 or WSL2. If you are using WSL2 and have Windows 11 with build 22000 or higher, you don't need to do any of the following. 
+The following insturctions are different depending on whether you are using WSL1 or WSL2. 
 
-#### xming for WSL1
+#### xming for WSL1 and WSL2+Win11
 For WSL1, after you download and install xming, click on it to run. It runs passively in the background, so you should not expect anything to happen. You should just see the xming icon appear in the Windows taskbar. This means the connection is active. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming. 
 
     echo export DISPLAY=localhost:0.0 >> ~/.bashrc
 
-#### xming for WSL2
+#### xming for WSL2 (if the above doesn't work)
 For WSL2, after you download and install xming, run xlaunch. Xlaunch is xming but allows you to customize some xming settings. Use the default settings except check the box that says "No Access Control" (should be 3rd page of the interative prompt) before clicking finish, which will launch xming. You should now see the xming icon appear in the Windows taskbar. Then, add the following line to your .bashrc file in WSL so that WSL knows to forward displays to xming.  
 
     export DISPLAY=`grep -oP "(?<=nameserver ).+" /etc/resolv.conf`:0.0
