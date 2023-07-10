@@ -75,7 +75,7 @@ We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and D
 Masking is optional but recommended (especially if you are not the presenter). We will have 2 COVID tests per person, and we ask everyone to test once Monday and Wednesday. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
 
 ### Afternoon Workspaces
-We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), Boardroom (8072), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 14 people), 5510-B (5th floor, 18 people). Note that 4430 will be used for the optional afternoon session. Groups assigned to that room can move elsewhere for that hour if they prefer working on the project instead (e.g., the 8th floor Sky Lounge). 
+We will have the following rooms for folks to work in: CIERA Sky Lounge (lobby area), 8040 (8 people), 8054 (8 people), 8056 (4 people), 3507 (3rd floor, 10 people), 4430 (4th floor, 14 people), 5510-B (5th floor, 18 people). Note that 4430 will be used for the optional afternoon session. Groups assigned to that room can move elsewhere for that hour if they prefer working on the project instead (e.g., the 8th floor Sky Lounge). 
 
 Below is a map of the rooms in each floor. Please let us know if there are insufficient plugs, and we can bring more. Please keep the areas clean as these are shared areas!
 
