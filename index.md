@@ -5,13 +5,11 @@
 Code/Astro will be hybrid and offer both in-person and virtual synchronous participation. The in-person component will be held at Northwestern University in Evanston, IL. Travel funding is available to support anyone who is accepted to the workshop and needs financial assistance (exact amount will depend on demand, but we anticipate to be able to cover at least the large majority of it). Please note that if you are just looking for access to the course materials and do not want to participate synchronously during the workshop, you don't need to apply: the course material are on [Github](https://github.com/semaphoreP/codeastro) with corresponding lectures posted on [Youtube](https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH).
 
 ### Dates
-July 15, 2024 - July 19, 2024 (likely)
-June 10 - June 14 (backup 1)
-July 29 - Aug 2 (backup 2)
+July 15, 2024 - July 19, 2024
 
 ### Instructors
 
- * Sarah Blunt (Caltech)
+ * Sarah Blunt (Northwestern)
  * Jason Wang (Northwestern)
  * Matt Hosek (UCLA)
  
