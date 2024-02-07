@@ -17,6 +17,10 @@ July 15, 2024 - July 19, 2024
  
  * TBA
 
+### Panelists
+ 
+ * Aristotle Socrates (Camber)
+
 ### Local Organizing Committee
 
 Local logistics are being organized by the [CIERA staff](https://ciera.northwestern.edu/directory/?filter_keyword=&filter_tax_ciera_person_type=staff&filter_tax_ciera_research_topic=all&filter_tax_ciera_research_method=all) led by Madeline Wilson and also including William Vercellone and Janet Lyons. 
