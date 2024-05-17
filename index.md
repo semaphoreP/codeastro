@@ -15,7 +15,18 @@ July 15, 2024 - July 19, 2024
  
 ### Teaching Assistants
  
- * TBA
+ * Shubh Agrawal (UPenn)
+ * Isa Cox (RIT)
+ * Rae Holcolmb (UCI)
+ * Kruthi Krishna (Radboud)
+ * Siddharth Kumar (IISC)
+ * Marcin Marculewicz (Xiamen University)
+ * Suchi Narayanan (CfA)
+ * Sameh Othman (FZJ)
+ * Vivek Reddy Pininti
+ * Pranav Satheesh (University of Florida)
+ * Sachin Venkatesh (Georgia Institute of Technology)
+ * Maria Vincent (University of Hawaii)
 
 ### Panelists
  
