@@ -90,7 +90,7 @@ The instructions in the video are adapted from the official [Getting Started wit
 
 # Finished?
 
-When you have finished everything above, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdSAazV3aBBNQZ5jAQ4av-SApFepIlyDXkeappu8f7eli-AaA/viewform?usp=sf_link) with the secret code so we know you are ready for the workshop!
+When you have finished everything above, fill out [this form](https://forms.gle/Ubxw58vRtC9sNRLf6) with the secret code so we know you are ready for the workshop!
 
 # Apple-specific Instructions
 
