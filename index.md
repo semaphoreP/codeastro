@@ -37,14 +37,14 @@ July 15, 2024 - July 19, 2024
 Local logistics are being organized by the [CIERA staff](https://ciera.northwestern.edu/directory/?filter_keyword=&filter_tax_ciera_person_type=staff&filter_tax_ciera_research_topic=all&filter_tax_ciera_research_method=all) led by Madeline Wilson and also including William Vercellone and Janet Lyons. 
 
 # ​Schedule
- Detailed information, agenda, and logistical information will be released at a later date. The workshop will held at [CIERA, Northwestern University’s Center for Interdisciplinary Exploration and Research in Astrophysics](https://ciera.northwestern.edu/), and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. Topics covered each day are as follows:
+ Detailed information, agenda, and logistical information will be released at a later date. The workshop will held at [CIERA, Northwestern University’s Center for Interdisciplinary Exploration and Research in Astrophysics](https://ciera.northwestern.edu/), and virtually over Zoom. Structured activities will occur from 9am-noon (CDT) each day. The rest of the time is unstructured and participants can work on their packages for their group projects at their own pace. In the afternoons (CDT), we are also offering optional special topics, but these are not required. Topics covered each day are as follows:
 
 | Mon. Day 1  | Tue. Day 2  | Wed. Day 3  | Thu. Day 4  | Fri. Day 5   |
 | :------------ | :------------ | :-------------- | :------------- | :------------ |
 |  Development Environments | Git Mechanics             | Releasing Code          | Software Testing              | Industry Panel Discussion     |
 |  Programming Paradigms    | Debugging                 | Code Documentation      | Anti-Discriminatory Practices   | Project Presentations |
-|  Git/Github Basics        | Python Package Tutorials  |         | Code Profiling   |        |
-|  Parallel Programming     |                           |         |                  |
+|  Git/Github Basics        | Parallel Programming   |         | Code Profiling   |        |
+|  Python Package Tutorials    |  jax                       |         |   Supplementary Tools  |
 
 ### Logisitcal Details
 [A more detailed agenda and in-person logistical details from the 2023 workshop are avilable here](https://semaphorep.github.io/codeastro/details.html). This will be updated before the 2024 workshop. 
