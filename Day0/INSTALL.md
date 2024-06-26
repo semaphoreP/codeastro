@@ -70,7 +70,7 @@ Once you've installed all of the requirements, clone the `orbitize!` repository 
 
 You may get some warnings, but you should see 0 errors and a secret code at the end of the output. We will ask you for the secret code to check your python installation is all working. 
 
-If you run into any issues, [contact us](mailto:sblunt@caltech.edu). We will hold a "virtual office hours" session for 
+If you run into any issues, contact us on discord or piazza. We will hold a "virtual office hours" session for 
 technical setup questions.
 
 
