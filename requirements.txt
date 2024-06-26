@@ -3,7 +3,6 @@ scipy
 astropy
 matplotlib
 cython
-orbitize
 pytest
 pandas
 sphinx
