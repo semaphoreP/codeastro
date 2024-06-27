@@ -78,14 +78,14 @@ We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and D
 ### COVID Policy
 Masking is optional. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
 
-### Afternoon Workspaces 
-Work in progress..
+### In-Person Rooms
+All synchronous activities in the morning will be held on the 7th floor. Group work spaces are located on the 8th floor. Spaces are first-come-first-serve, so you and your group should decide where you want to work.
 
-Below is a map of the rooms in each floor. Please let us know if there are insufficient plugs, and we can bring more. Please keep the areas clean as these are shared areas!
+Below are maps of the rooms in each floor. Please let us know if there are insufficient plugs, and we can bring more. Please keep the areas clean as these are shared areas!
 
 | Floor | Map|
 |-------|----|
-| [8th Floor](imgs/ciera-meetingrooms-8thfloor.png) | ![map of rooms on the 8th floor](imgs/ciera-meetingrooms-8thfloor.png) |
+| [8th Floor](imgs/Code-Astro-Floorplan-2024.png) | ![map of rooms on the 8th floor](imgs/Code-Astro-Floorplan-2024.png) |
 | [7th Floor](imgs/ciera-meetingrooms-7thfloor.png) | ![map of rooms on the 7th floor](imgs/ciera-meetingrooms-7thfloor.png) |
 
 ### Workshop Dinner
