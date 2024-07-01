@@ -2,7 +2,7 @@
 
 ## Agenda
 
-All dates and times are CDT (Chicago Time). Room information will be added shortly. 
+All dates and times are CDT (Chicago Time). Please note that the time of the optional lessons may change. 
 
 **Monday July 15**
 
