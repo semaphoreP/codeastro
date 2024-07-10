@@ -12,9 +12,9 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below) | 
-|  2:00pm - 3:00pm | (Optional) Numpy/Pandas |  TBD  |
-|  3:00pm - 4:00pm | (Optional) Matplotlib |  TBD  |
-|  4:00pm - 5:00pm | (Optional) Astropy |  TBD  |
+|  2:00pm - 3:00pm | (Optional) Numpy/Pandas |  4-430  |
+|  3:00pm - 4:00pm | (Optional) Matplotlib |  4-430  |
+|  4:00pm - 5:00pm | (Optional) Astropy |  4-430  |
 
 **Tuesday July 16**
 
@@ -24,8 +24,8 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)   | 
-|  2:00pm - 3:00pm | (Optional) Parallel Programming | TBD  |
-|  3:00pm - 4:00pm | (Optional) jax | TBD  |
+|  2:00pm - 3:00pm | (Optional) Parallel Programming | 5-510  |
+|  3:00pm - 4:00pm | (Optional) jax | 5-510  |
 
 **Wednesday July 17**
 
@@ -45,8 +45,8 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)  | 
-|  2:00pm - 3:00pm | (Optional) Profiling | TBD   |
-|  3:00pm - 4:00pm | (Optional) Supplementary Tools | TBD   |
+|  2:00pm - 3:00pm | (Optional) Profiling | 4-430   |
+|  3:00pm - 4:00pm | (Optional) Supplementary Tools | 4-430   |
 
 **Friday July 19**
 
@@ -87,6 +87,8 @@ Below are maps of the rooms in each floor. Please let us know if there are insuf
 |-------|----|
 | [8th Floor](imgs/Code-Astro-Floorplan-2024.png) | ![map of rooms on the 8th floor](imgs/Code-Astro-Floorplan-2024.png) |
 | [7th Floor](imgs/ciera-meetingrooms-7thfloor.png) | ![map of rooms on the 7th floor](imgs/ciera-meetingrooms-7thfloor.png) |
+| [5th Floor](imgs/ciera-meetingrooms-5thfloor.png) | ![map of rooms on the 5th floor](imgs/ciera-meetingrooms-5thfloor.png) |
+| [4th Floor](imgs/ciera-meetingrooms-4thfloor.png) | ![map of rooms on the 4th floor](imgs/ciera-meetingrooms-4thfloor.png) |
 
 ### Workshop Dinner
 The workshop dinner will be taking place at [Five and Dime at 1026 Davis Street (9 min walk from CIERA)](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu). Walking instructions from CIERA are below:

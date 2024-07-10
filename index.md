@@ -28,9 +28,10 @@ July 15, 2024 - July 19, 2024
  * Sachin Venkatesh (Georgia Institute of Technology)
  * Maria Vincent (University of Hawaii)
 
-### Panelists
+### Industry Panelists
  
  * Aristotle Socrates (Camber)
+ * Alex Gurvich (NASA)
 
 ### Local Organizing Committee
 
