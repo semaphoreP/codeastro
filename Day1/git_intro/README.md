@@ -27,7 +27,7 @@ with your Github page and VS Code.
    the repo, click the green `Code` button, and copy the HTTPS address
    for the repo.
 
-   Then, in your terminal window, navigate to wherever
+   Then, in your terminal window within VS Code, navigate to wherever
    you'd like the repo to live on your local machine and type the
    following. This will create a new directory on your local machine with the same name as the repo. 
    
@@ -251,5 +251,7 @@ git revert <ID>
 We'll talk more about `git revert` later in the workshop.
 
 
-
+# Additional Resources
+For a more detailed introduction to Git, check out [this astrobites
+post](https://astrobites.org/2023/09/29/git-started/) by Code/Astro's own Pranav Satheesh!
 
