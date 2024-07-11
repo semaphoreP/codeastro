@@ -10,8 +10,8 @@ a terminal window, and then your favorite text editor.
 
 ## Make a Remote Repository via Github
 
-1. After logging into github, click the `Repositories` tab at the top
-   of the page and then click the `New` green button to the upper right.
+1. After logging into github and navigating to ``Your Profile``, click the `Repositories` tab at the top
+   of the page.  Then, click the `New` green button to the upper right.
 
 2. Assign your new repo anything you wish, and then configure
    some of the basic settings. For this demo, we'll set the code to be
