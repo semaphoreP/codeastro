@@ -178,7 +178,7 @@ Git will then find the lines of the file that are in conflict and
 mark them on our local version like this:
 
 <p align="center">
-  <img width="1143" height="500" src="./figs/conflict_warning.png">
+  <img width="1143" height="800" src="./figs/conflict_warning.png">
 </p>
 
 We can now edit the file by deciding which of the lines of the
