@@ -52,7 +52,7 @@ repo:
 </p>
 
 
-## Adding a File to Your Repo 
+## Adding a File to Your Repo
 
 5. Now, let's make a new text file to add to the repo directory on
    your machine. For this demo, we'll make a file called `hello.txt`
@@ -131,7 +131,7 @@ git push origin main
    upper right.
 
 
-## Pulling Changes From the Remote Repo
+## Pulling Changes From the Remote Repo 
 
 9. Sometimes a file on the remote repo is updated, and you want to
    add those upates to the file on your local machine. To simulate
@@ -200,7 +200,7 @@ One of the key advantages of git is that it allows us to keep track of
 and undo changes that we decide we don't actually want to keep. Here
 are three situations with commands you can use to undo these changes:
 
-### Deleting Uncommitted Local Changed
+### Deleting Uncommitted Local Changes
 If you want to remove all local changes made to a file, and you
 haven't commited any of those changes yet, then you can easily revert
 back to the previous commited version of the file by using:
@@ -209,7 +209,7 @@ back to the previous commited version of the file by using:
 git checkout <file_name>
 ```
 
-### Preserving Local Changes but also Updating From Remote
+### Updating From Remote while Preserving Uncommitted Local Changes
 This comes up if there are changes to the remote repo that you want to
 pull down to your local repo, but you have local changes that aren't
 ready to be committed yet (remember that git won't let you `git pull`
