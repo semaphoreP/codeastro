@@ -4,9 +4,8 @@ Github and clone it to your local machine; (2) Add and edit files to
 the repo; (3) Resolve conflicts between the remote and local versions
 of files in the repo; and (4) Remove changes you don't want to keep.
 
-For this demo, you will need 3 applications running: a web-browser
-with the Github webpage (where you have logged into your account), 
-a terminal window, and then your favorite text editor. 
+For this demo, you will need two wondows open: a web-browser
+with your Github page and VS Code. 
 
 ## Make a Remote Repository via Github
 
