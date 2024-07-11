@@ -26,7 +26,7 @@ Example docstrings for these cases (and more!) can be found [here](https://sphin
 
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
-documetation tools, like
+documentation tools, like
 [sphinx](https://www.sphinx-doc.org/en/master/). Let's try using
 sphinx to build documentation for `correlate.py`!
 
@@ -261,7 +261,7 @@ pages for [orbitize](https://orbitize.readthedocs.io/en/latest/index.html),
 [RadVel](https://radvel.readthedocs.io/en/latest/), and
 [SPISEA](https://spisea.readthedocs.io/en/latest/). 
 
-## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
+## Bonus Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
 other users can access it easily. If your code is in a GitHub repo, is
 public, 
