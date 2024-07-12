@@ -9,9 +9,7 @@ docstrings (see examples
 [here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
 but today we will focus on the Google Docstring. 
 
-In the `tutorial_doc` directory, open `correlate.py` in your favorite
-text editor. These functions have Google-style docstrings. Let's look at
-the different components of the docstring for the `cross_corr` function:
+Here is an example of a Google-stype docstring for a function called `cross_corr`:
 
 
 <p align="center">
@@ -26,12 +24,11 @@ Example docstrings for these cases (and more!) can be found [here](https://sphin
 
 In addition to providing crucial information, docstrings provide a standardized way to
 document code that can be easily parsed by automated
-documetation tools, like
+documentation tools, like
 [sphinx](https://www.sphinx-doc.org/en/master/). Let's try using
 sphinx to build documentation for `correlate.py`!
 
 # Sphinx quickstart guide
-
 1. In this example, we will create documentation for the function
 `correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
 the codeastro repository. Start by using `cd` to move into the
@@ -232,7 +229,7 @@ We can make a link to the correlation page by referring to its label
 2. Set up sphinx documentation for your project repo and build the doc
 page for your function(s). Make sure it builds correctly!
     * Hint: to begin, make a `docs` directory in your repo, just like
-      step 4 in the example above. 
+      step 2 in the example above. 
 
 
 # Activity Wrap-Up: Moving Forward with Code Documentation
@@ -261,7 +258,7 @@ pages for [orbitize](https://orbitize.readthedocs.io/en/latest/index.html),
 [RadVel](https://radvel.readthedocs.io/en/latest/), and
 [SPISEA](https://spisea.readthedocs.io/en/latest/). 
 
-## Bonus Afternoon Activity: Linking your Sphinx Documentation with ReadTheDocs
+## Bonus Activity: Linking your Sphinx Documentation with ReadTheDocs
 In most cases, we want to host our sphinx documentation online so that
 other users can access it easily. If your code is in a GitHub repo, is
 public, 
