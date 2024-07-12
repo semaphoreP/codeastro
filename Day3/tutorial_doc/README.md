@@ -9,10 +9,7 @@ docstrings (see examples
 [here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
 but today we will focus on the Google Docstring. 
 
-In the `tutorial_doc` directory, open `correlate.py` in your favorite
-text editor. These functions have Google-style docstrings. Let's look at
-the different components of the docstring for the `cross_corr` function:
-
+Here is an example of a Google-stype docstring for an example function:
 
 <p align="center">
   <img width="800" height="211" src="./figs/docstring_f.png">
@@ -31,7 +28,6 @@ documentation tools, like
 sphinx to build documentation for `correlate.py`!
 
 # Sphinx quickstart guide
-
 1. In this example, we will create documentation for the function
 `correlate.py`, which is located under the `Day3/tutorial_doc/` directory in
 the codeastro repository. Start by using `cd` to move into the
