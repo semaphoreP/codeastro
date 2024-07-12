@@ -9,7 +9,8 @@ docstrings (see examples
 [here](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)),
 but today we will focus on the Google Docstring. 
 
-Here is an example of a Google-stype docstring for an example function:
+Here is an example of a Google-stype docstring for a function called `cross_corr`:
+
 
 <p align="center">
   <img width="800" height="211" src="./figs/docstring_f.png">
