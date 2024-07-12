@@ -229,7 +229,7 @@ We can make a link to the correlation page by referring to its label
 2. Set up sphinx documentation for your project repo and build the doc
 page for your function(s). Make sure it builds correctly!
     * Hint: to begin, make a `docs` directory in your repo, just like
-      step 4 in the example above. 
+      step 2 in the example above. 
 
 
 # Activity Wrap-Up: Moving Forward with Code Documentation
