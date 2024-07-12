@@ -2,14 +2,18 @@
 
 ## Agenda
 
-All dates and times are CDT (Chicago Time). Please note that the time of the optional lessons may change. 
+All dates and times are CDT (Chicago Time). Please note that the exact timing of the morning activities may change.  
 
 **Monday July 15**
 
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
-|  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:00am - 9:45am     | Welcome  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:50am - 10:00am     | Development Environments  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  10:00am - 10:50am     | Programming Paradigms  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  11:00am - 11:30am     | Git/Github Basics  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  11:30am - 12:00pm     | Gitflow  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below) | 
 |  2:00pm - 3:00pm | (Optional) Numpy/Pandas |  4-430  |
@@ -21,7 +25,9 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
-|  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:00am - 9:15am     | Welcome  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:15am - 10:30am     | Mechanics of Git  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  10:40am - 12:00pm     | Debugging  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)   | 
 |  2:00pm - 3:00pm | (Optional) Parallel Programming | 5-510  |
@@ -32,7 +38,9 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
-|  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:00am - 9:15am     | Welcome  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:15am - 10:30am     | Releasing Code  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  10:40am - 12:00pm     | Documentation  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 6:30pm       | Free-time | On Your Own    | 
 |  6:30pm - 9:00pm     | Workshop Dinner  | [Five and Dime](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu)       | 
 
@@ -42,7 +50,9 @@ All dates and times are CDT (Chicago Time). Please note that the time of the opt
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
-|  9:00am - 12:00pm     | Synchronous Activities               | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:00am - 9:15am     | Welcome  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:15am - 11:15am     | Testing  | 7-600 (7th Floor, 1800 Sherman)    |  
+|  11:25am - 12:00pm     | Anti-Discriminatory Practices  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)  | 
 |  2:00pm - 3:00pm | (Optional) Profiling | 4-430   |
