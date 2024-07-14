@@ -8,15 +8,14 @@ Example: we’re working on a package that plots the most likely galactic orbits
 
 ## Learning Objectives
 
-  * Identify which development environment is most appropriate for their programming task.
+  * Identify which development environment is most appropriate for a programming task.
   * Decide when and how to design software using functional and object oriented paradigms.
   * Use git to contribute version-controlled code
-  * Be able to define "git flow," and give examples of the advantages of git flow
-  * (Optional) Decide and implement parallelized Python code for “embarrassingly parallel” problems
+  * Define "git flow," and give examples of the advantages of git flow
 
 ## Useful Links
 
- * [Welcome Slides](https://docs.google.com/presentation/d/1sp7KDj7hJYAO8HbqRTTLEEa2DIiFknIayVy1iD_h0G4/edit?usp=sharing)
+ * [Welcome Slides](https://docs.google.com/presentation/d/1zvdseCIWwY3WfyZgN_ymu0E6FS-HwjGK68eGJu_q-CA/edit?usp=sharing)
  * [Colaboratory link for code_developing.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/code_developing.ipynb)
  * Introduction to Git:
     * [Slides: git basics](https://github.com/semaphoreP/codeastro/blob/main/Day1/intro_to_git.pptx)
@@ -24,4 +23,4 @@ Example: we’re working on a package that plots the most likely galactic orbits
     * [Slides: Gitflow](https://github.com/semaphoreP/codeastro/blob/main/Day1/gitflow.pptx)
 
  * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/parallelism.ipynb)
- * [Closing Slides](https://docs.google.com/presentation/d/17hjcGZCWItcQB0e8bfAjf3u5i2ONLkPD5I2z_lVpd_4/edit?usp=sharing)
+ * [Closing Slides](https://docs.google.com/presentation/d/17_9z1XNIO5LEH_PZ1nvQxfKerTxVWm37Vlus6etcipg/edit?usp=sharing)
