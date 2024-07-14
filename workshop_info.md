@@ -5,7 +5,7 @@ This is a "cheatsheet" of information for the workshop. Please let us know if th
 - Workshop GitHub (course materials): https://github.com/semaphoreP/codeastro
 - Calendar (has room & zoom info): https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688&title=Code/Astro
 - Discord (for discussions; invite-only): https://discord.com/channels/851894981999591424/851899721479749652
-- Piazza (for questions; invite-only): https://piazza.com/class/l3kub97jktl42e
+- Piazza (for questions; invite-only): https://piazza.com/class/lxpaku2gmn92rx
 - Project information: https://github.com/semaphoreP/codeastro#project-information
 - Vocabulary: https://docs.google.com/document/d/1SM4SNwluiyI4eRGoEG0mEGpcOCMBhsvjOnT1CRCSejg/edit
 - Anonymous feedback form: https://forms.gle/wGL3PVPu2fanrp4W8
