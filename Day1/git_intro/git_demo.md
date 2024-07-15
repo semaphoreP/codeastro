@@ -189,7 +189,7 @@ To push the fixed file back to the remote repo, we do the following:
 ```
 git add hello.txt
 git commit -m 'fixing conflict'
-git push origin master
+git push origin main
 ```
 	
 And now everything is back to normal.
