@@ -26,8 +26,10 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 | :------------ | :------------ | :-------------- |
 |  8:30am - 9:00am | Breakfast         | 7-600 (7th Floor, 1800 Sherman)     |
 |  9:00am - 9:15am     | Welcome  | 7-600 (7th Floor, 1800 Sherman)    | 
-|  9:15am - 10:30am     | Mechanics of Git  | 7-600 (7th Floor, 1800 Sherman)    | 
-|  10:40am - 12:00pm     | Debugging  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:15am - 9:40am     | Gitflow Continued  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  9:45am - 10:50am     | Mechanics of Git  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  11:00am - 11:55am     | Debugging  | 7-600 (7th Floor, 1800 Sherman)    | 
+|  11:55am - 12:00pm     | Group Photo  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)   | 
 |  2:00pm - 3:00pm | (Optional) Parallel Programming | 5-510  |
