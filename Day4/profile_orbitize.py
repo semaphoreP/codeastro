@@ -9,13 +9,13 @@ The `-m cProfile` will attach the cProfile profiler to this script when it runs
 The `-o profiler_output.txt` will save its output to "profiler_output.txt". 
 
 If you have any issues running the above command, your python configuration might be different than what
-we are assuing here. Ask a TA to help you figure out what needs to be changed if needed!
+we are assuming here. Ask a TA to help you figure out what needs to be changed if needed!
 
 Note on parallelized code:
 orbitize! by default is parallelized, but we will avoid doing that here. 
 Using parallelism will make the cprofiler output more confusing than necessary. We just want to know what takes the most time,
 summed up across multiple processes. Doing this on parallelized code, each process must save its own cProfile output and you 
-need to combine the outputs afterwards (using `pstats.add()`). It is bset to avoid this when possible. Here, we do a very short 
+need to combine the outputs afterwards (using `pstats.add()`). It is best to avoid this when possible. Here, we do a very short 
 orbit fit (probably not good enough for science) to benchmark our code on a single core in a short amount of time. 
 
 """
