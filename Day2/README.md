@@ -20,5 +20,7 @@ Example:  We’ll continue working on the core functionality we sketched out yes
     * 1 person should be the recorder: writes down the solution (suggestion: use powerpoint, keynote, or google slides to draw out the git commit tree)
   * [Debugging lesson](https://github.com/semaphoreP/codeastro/blob/main/Day2/Debugging.md)
   * Fix this orbitize! bug (debugging activity): https://github.com/sblunt/orbitize/issues/230
-  * [Colaboratory link for numpy_pandas.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day2/numpy_pandas.ipynb)
-  * [Colaboratory link for mpl_astropy.ipynb](https://github.com/semaphoreP/codeastro/blob/main/Day2/activity_mpl_astropy/activity_mpl_astropy.ipynb)
+
+Optional Activities:
+  * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day2/parallelism.ipynb)
+
