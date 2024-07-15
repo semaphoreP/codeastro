@@ -22,5 +22,5 @@ Example: we’re working on a package that plots the most likely galactic orbits
     * [git basics demo](https://github.com/semaphoreP/codeastro/blob/main/Day1/git_intro/README.md)
     * [Slides: Gitflow](https://github.com/semaphoreP/codeastro/blob/main/Day1/gitflow.pptx)
 
- * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/parallelism.ipynb)
+ * [Colabotary link for astropy_upload.ipynb](https://colab.research.google.com/drive/1Umm_v795tOhFcWzk65T3y9sk3_ThL6jy?usp=sharing)
  * [Closing Slides](https://docs.google.com/presentation/d/17_9z1XNIO5LEH_PZ1nvQxfKerTxVWm37Vlus6etcipg/edit?usp=sharing)

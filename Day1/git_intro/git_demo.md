@@ -4,14 +4,13 @@ Github and clone it to your local machine; (2) Add and edit files to
 the repo; (3) Resolve conflicts between the remote and local versions
 of files in the repo; and (4) Remove changes you don't want to keep.
 
-For this demo, you will need 3 applications running: a web-browser
-with the Github webpage (where you have logged into your account), 
-a terminal window, and then your favorite text editor. 
+For this demo, you will need two wondows open: a web-browser
+with your Github page and VS Code. 
 
 ## Make a Remote Repository via Github
 
-1. After logging into github, click the `Repositories` tab at the top
-   of the page and then click the `New` green button to the upper right.
+1. After logging into github and navigating to ``Your Profile``, click the `Repositories` tab at the top
+   of the page.  Then, click the `New` green button to the upper right.
 
 2. Assign your new repo anything you wish, and then configure
    some of the basic settings. For this demo, we'll set the code to be
@@ -28,7 +27,7 @@ a terminal window, and then your favorite text editor.
    the repo, click the green `Code` button, and copy the HTTPS address
    for the repo.
 
-   Then, in your terminal window, navigate to wherever
+   Then, in your terminal window within VS Code, navigate to wherever
    you'd like the repo to live on your local machine and type the
    following. This will create a new directory on your local machine with the same name as the repo. 
    
@@ -52,7 +51,7 @@ repo:
 </p>
 
 
-## Adding a File to Your Repo 
+## Adding a File to Your Repo
 
 5. Now, let's make a new text file to add to the repo directory on
    your machine. For this demo, we'll make a file called `hello.txt`
@@ -131,7 +130,7 @@ git push origin main
    upper right.
 
 
-## Pulling Changes From the Remote Repo
+## Pulling Changes From the Remote Repo 
 
 9. Sometimes a file on the remote repo is updated, and you want to
    add those upates to the file on your local machine. To simulate
@@ -200,7 +199,7 @@ One of the key advantages of git is that it allows us to keep track of
 and undo changes that we decide we don't actually want to keep. Here
 are three situations with commands you can use to undo these changes:
 
-### Deleting Uncommitted Local Changed
+### Deleting Uncommitted Local Changes
 If you want to remove all local changes made to a file, and you
 haven't commited any of those changes yet, then you can easily revert
 back to the previous commited version of the file by using:
@@ -209,7 +208,7 @@ back to the previous commited version of the file by using:
 git checkout <file_name>
 ```
 
-### Preserving Local Changes but also Updating From Remote
+### Updating From Remote while Preserving Uncommitted Local Changes
 This comes up if there are changes to the remote repo that you want to
 pull down to your local repo, but you have local changes that aren't
 ready to be committed yet (remember that git won't let you `git pull`
@@ -252,5 +251,7 @@ git revert <ID>
 We'll talk more about `git revert` later in the workshop.
 
 
-
+# Additional Resources
+For a more detailed introduction to Git, check out [this astrobites
+post](https://astrobites.org/2023/09/29/git-started/) by Code/Astro's own Pranav Satheesh!
 
