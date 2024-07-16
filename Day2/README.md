@@ -23,4 +23,5 @@ Example:  We’ll continue working on the core functionality we sketched out yes
 
 Optional Activities:
   * [Colaboratory link for parallelism.ipynb](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day2/parallelism/parallelism.ipynb)
+  * [Colaboratory link for jax.ipynb](https://colab.research.google.com/drive/1wshW6THrenwIYLr6Q5uoJQeY9oyRLRZx?usp=sharing)
 
