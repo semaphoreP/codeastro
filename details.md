@@ -32,8 +32,8 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  11:55am - 12:00pm     | Group Photo  | 7-600 (7th Floor, 1800 Sherman)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)   | 
-|  2:00pm - 3:00pm | (Optional) Parallel Programming | 5-510  |
-|  3:00pm - 4:00pm | (Optional) jax | 5-510  |
+|  2:00pm - 3:00pm | (Optional) Parallel Programming | 5-437 (5-510)  |
+|  3:00pm - 4:00pm | (Optional) jax | 5-437  (5-510)  |
 
 **Wednesday July 17**
 
