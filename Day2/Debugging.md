@@ -7,7 +7,10 @@ The `debug_matrix.py` code is supposed to generate some pixel art but it current
 
 ## Activity: Debug orbitize!
 
-The issue you are tasked with investigating is this one: https://github.com/sblunt/orbitize/issues/230. To do so, download a development version of orbitize! for the debugging activity. 
+The issue you are tasked with investigating is this one: https://github.com/sblunt/orbitize/issues/230. 
+
+### (If necessary): install development version of orbitize!:
+To do so, download a development version of orbitize! for the debugging activity. You may have already done this already as part of Day0 setup, if you followed the installation instructions. If you did, you can skip this section. 
 
     git clone https://github.com/sblunt/orbitize.git
 
@@ -16,6 +19,8 @@ Next, we'll want to override your system's default `orbitize!` installation with
     pip install -r requirements.txt -e .
 
 That command just ran pip to install the package in the current directory, and to automatically update when you make changes to the code (useful for developing on packages). Installing code from source like this also allows you to use the interactive debugger in VS Code on the `orbitize!` source code by default. 
+
+### Setup VS Code Debugger
 
 Next, get the VS Code debugger set up to run the `broken_orbitize.py` script that reproduces the bug. You can also write your own debug script if you prefer. If you have not set up the debugger before, open up the `broken_orbitize.py` file, then open the debug tab from the left side (4th buttom from top). Click the "create a launch.json file" link shown in the screenshot below:
 
