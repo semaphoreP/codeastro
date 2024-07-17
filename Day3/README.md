@@ -7,11 +7,10 @@ Nothing is scheduled for today! Feel free to take time off today.
 
 ## Learning Objectives
 
-  * Be able to use docstrings and sphinx to document code for others to use
-  * Profile the run time of your code and identify the computational bottlenecks
+  * Use docstrings and sphinx to document code for others to use
   * Set up and release Python packages publicly
 
 ## Useful Links
 
-  * [Day 3 Slides](https://docs.google.com/presentation/d/1MXeZZMRHcmewBnWR1my4-JEDK9Mj4EkYs-hDiDZgtw4/edit?usp=sharing)
-  * [Slides on Releasing Code](https://docs.google.com/presentation/d/13hsrEckVlQrVZZ-NCrm8hoG4Uun4M3yIwQQRBfO3ee0/edit?usp=sharing)
+  * [Day 3 Slides](https://docs.google.com/presentation/d/1ACnLzSlyPDqaaZdQPo1QtahW8yQ3hz9aYhAND35t8Mc/edit?usp=sharing)
+  * [Slides on Releasing Code](https://docs.google.com/presentation/d/1qnnxWluK9fi96aptvhIvfCTAriC3Q_KhIaBtJPZvoro/edit?usp=sharing)

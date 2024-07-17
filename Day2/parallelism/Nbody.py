@@ -10,7 +10,7 @@ radius = 1     # sphere radius [m]
 Vcf = 0.5      # fraction of circular velocity
 G = 6.673e-11  # gravitational constant
 
-tstop = 10000  # stop time (seconds)
+tstop = 1000  # stop time (seconds)
 dt = 10.0
 
 np.random.seed(12345)
