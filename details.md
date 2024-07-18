@@ -58,7 +58,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (see below)  | 
 |  2:00pm - 3:00pm | (Optional) Profiling | 4-430   |
-|  3:00pm - 4:00pm | (Optional) Supplementary Tools | 4-430   |
+|  3:00pm - 4:00pm | (Optional) Supplementary Tools | Cancelled   |
 
 **Friday July 19**
 
