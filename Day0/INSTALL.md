@@ -66,6 +66,7 @@ Once you've installed all of the requirements, clone the `orbitize!` repository 
 
     git clone https://github.com/sblunt/orbitize.git
     cd orbitize
+    pip install -r requirements.txt
     pip install -e . --upgrade
     pytest --mode codeastro
 
