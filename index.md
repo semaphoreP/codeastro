@@ -5,7 +5,7 @@
 Code/Astro will be hybrid and offer both in-person and virtual synchronous participation. The in-person component will be held at Northwestern University in Evanston, IL. Travel funding is available to support anyone who is accepted to the workshop and needs financial assistance (exact amount will depend on demand, but we anticipate to be able to cover at least the large majority of it). Please note that if you are just looking for access to the course materials and do not want to participate synchronously during the workshop, you don't need to apply: the course material are on [Github](https://github.com/semaphoreP/codeastro) with corresponding lectures posted on [Youtube](https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH).
 
 ### Dates
-July 15, 2024 - July 19, 2024
+August 4, 2025 - August 8, 2025
 
 ### Instructors
 
@@ -13,25 +13,18 @@ July 15, 2024 - July 19, 2024
  * Jason Wang (Northwestern)
  * Matt Hosek (UCLA)
  
-### Teaching Assistants
+### Head Teaching Assistants
  
- * Shubh Agrawal (UPenn)
- * Isa Cox (RIT)
  * Rae Holcolmb (UCI)
  * Kruthi Krishna (Radboud)
- * Siddharth Kumar (IISC)
- * Marcin Marculewicz (Xiamen University)
- * Suchi Narayanan (CfA)
- * Sameh Othman (FZJ)
- * Vivek Reddy Pininti
- * Pranav Satheesh (University of Florida)
- * Sachin Venkatesh (Georgia Institute of Technology)
- * Maria Vincent (University of Hawaii)
+   
+### Teaching Assistants
+
+* TBD
 
 ### Industry Panelists
  
- * Aristotle Socrates (Camber)
- * Alex Gurvich (NASA)
+ * TBD
 
 ### Local Organizing Committee
 
@@ -58,6 +51,6 @@ Before the workshop starts, we ask all participants to setup their development e
 
 We require participants to be familiar with Python or another high-level programming language (e.g., Java, Matlab). Participants are expected to develop on their own computers and have set up their development environment there. Attendence to the workshop can either be in-person or virtual, but participants are expected to particpate synchronously. For those that are interested in the materials but cannot particpate in real time, the code is already on [Github](https://github.com/semaphoreP/codeastro) with corresponding lectures from previous years posted on [Youtube](https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH), so please apply only if you intend to participate synchronously. For those that require financial assistance in any way to participate (the workshop itself is free), we have some funding support available for in-person and remote attendence, and we will poll about that after accepting applicants. Anyone related to astronomy is eligible. If you have questions about the application, contact Jason Wang (jason.wang@northwestern.edu). 
 
-**Applications for the 2024 workshop are open at [this link](https://forms.gle/9hhpKtoRd1QMVxuz7). Apply by February 16th at 11:59pm Pacific Time.**
+**Applications for the 2025 workshop are open at [this link](https://forms.gle/54YFzKsdcbSWAVpG7). Apply by February 1st at 11:59pm Pacific Time.**
 
 In addition to some basic questions, the application form has some questions about your programming background and goals for taking this workshop. In the event we receive too many applications, we will use these responses to help us make decisions on admission to the workshop. Part of the application also consists of taking a diagnostic assignment. There is no need to know everything on this assignment. We are using it to get a sense of the Python expertise of the participants and to help get everyone on the same page in programming jargon. Feel free to use other resources to help complete this assignment! The demographic questions at the end are optional and are used by us to identify biases in our advertising or admissions strategy for the workshop.
