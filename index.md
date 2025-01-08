@@ -54,3 +54,9 @@ We require participants to be familiar with Python or another high-level program
 **Applications for the 2025 workshop are open at [this link](https://forms.gle/54YFzKsdcbSWAVpG7). Apply by February 1st at 11:59pm Pacific Time.**
 
 In addition to some basic questions, the application form has some questions about your programming background and goals for taking this workshop. In the event we receive too many applications, we will use these responses to help us make decisions on admission to the workshop. Part of the application also consists of taking a diagnostic assignment. There is no need to know everything on this assignment. We are using it to get a sense of the Python expertise of the participants and to help get everyone on the same page in programming jargon. Feel free to use other resources to help complete this assignment! The demographic questions at the end are optional and are used by us to identify biases in our advertising or admissions strategy for the workshop.
+
+# TA Applications
+
+People who have participated in previous years of Code/Astro are welcome to apply as Teaching Assistants for the 2025 workshop. TAs are responsible for helping participants with computer set up prior to the workshop, answering questions during lessons, and mentoring project groups. TAs can assist in person or virtually. In addition, this year we are adding a new type of "Local Liaison" TA who works with a small group of remote participants at their home institution to bring them a more inclusive experience.
+
+**Applications for TA positions are open at [this link](https://forms.gle/aYgEqTT2MEfs4R1i7). Apply by February 1st at 11:59pm Pacific Time.**
