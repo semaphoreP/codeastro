@@ -9,7 +9,7 @@ August 4, 2025 - August 8, 2025
 
 ### Instructors
 
- * Sarah Blunt (Northwestern)
+ * Sarah Blunt (UCSC)
  * Jason Wang (Northwestern)
  * Matt Hosek (UCLA)
  
@@ -41,7 +41,7 @@ Local logistics are being organized by the [CIERA staff](https://ciera.northwest
 |  Python Package Tutorials    |  jax                       |         |   Supplementary Tools  |
 
 ### Logisitcal Details
-[A more detailed agenda and in-person logistical details from the workshop are avilable here](https://semaphorep.github.io/codeastro/details.html).
+A more detailed agenda and in-person logistical details from the workshop will be available soon. In the meantime, you can check out the details from the 2024 worksho [here](https://semaphorep.github.io/codeastro/details.html).
 
 Before the workshop starts, we ask all participants to setup their development environment based on these [installation instructions](https://github.com/semaphoreP/codeastro/blob/main/Day0/INSTALL.md) and provide us the secret code at the end.
 
