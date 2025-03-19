@@ -11,7 +11,6 @@ August 4, 2025 - August 8, 2025
 
  * Sarah Blunt (UCSC)
  * Jason Wang (Northwestern)
- * Matt Hosek (UCLA)
  
 ### Head Teaching Assistants
  
