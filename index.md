@@ -23,7 +23,8 @@ August 4, 2025 - August 8, 2025
 
 ### Industry Panelists
  
- * TBD
+ * Saeed Rezaee
+ * (TBD)
 
 ### Local Organizing Committee
 
