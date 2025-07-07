@@ -19,12 +19,21 @@ August 4, 2025 - August 8, 2025
    
 ### Teaching Assistants
 
-* TBD
+* Elizabeth Moreno Hilario
+* Chaitanya Chawak
+* Sheila Sagear
+* Sameh Othman
+* Maria Stone
+* Haniyeh Tajer
+* Vidya Venkatesan
+* Ellis Bogat
 
 ### Industry Panelists
  
  * Saeed Rezaee
- * (TBD)
+ * Candice Stauffer
+ * Sarah Blunt
+ * Jason Wang
 
 ### Local Organizing Committee
 
