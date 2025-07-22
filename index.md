@@ -15,7 +15,7 @@ August 4, 2025 - August 8, 2025
 ### Head Teaching Assistants
  
  * Rae Holcolmb (UCI)
- * Kruthi Krishna (Radboud)
+ * Kruthi Krishna (DESY Zeuthen)
    
 ### Teaching Assistants
 
