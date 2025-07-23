@@ -4,7 +4,7 @@
 
 All dates and times are CDT (Chicago Time). Please note that the exact timing of the morning activities may change.  
 
-**Monday July 15**
+**Monday August 4**
 
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
@@ -20,7 +20,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  3:00pm - 4:00pm | (Optional) Matplotlib |  8072 (1800 Sherman)  |
 |  4:00pm - 5:00pm | (Optional) Astropy |  8072 (1800 Sherman)  |
 
-**Tuesday July 16**
+**Tuesday August 5**
 
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
@@ -35,7 +35,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  2:00pm - 3:00pm | (Optional) Parallel Programming | 8072 (1800 Sherman)  |
 |  3:00pm - 4:00pm | (Optional) jax | 8072 (1800 Sherman)  |
 
-**Wednesday July 17**
+**Wednesday August 6**
 
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
@@ -47,7 +47,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  6:30pm - 9:00pm     | Workshop Dinner  | [Five and Dime](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu)       | 
 
 
-**Thursday July 18**
+**Thursday August 7**
 
 |   Time   | Activity  | Room  | 
 | :------------ | :------------ | :-------------- |
@@ -59,7 +59,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman)  | 
 |  2:00pm - 3:00pm | (Optional) Profiling | 8072 (1800 Sherman)   |
 
-**Friday July 19**
+**Friday August 8**
 
 
 |   Time   | Activity  | Room  | 
@@ -109,7 +109,7 @@ The workshop dinner will be taking place at [Five and Dime at 1026 Davis Street 
 
 ![map of walk to Five and Dime](imgs/map_to_fiveanddime.png)
 
-The workshop dinner will begin at 6:30pm. Service will be buffet style. Food and water is included, alcoholic drinks can be purchased independently at the bar. 
+The workshop dinner will begin at 6:30pm. Service will be buffet style. Food and non-alcoholic drinks are included, alcoholic drinks can be purchased independently at the bar. 
 
 
 ### Getting to Evanston from O'Hare International Airport
@@ -162,7 +162,7 @@ See the Bean, the Sears (Willis) Tower, a Chicago Cubs or White Sox game, the Ar
 
 [Tripadvisor](https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html)
 
-[July Events Calendar](https://www.timeout.com/chicago/events-calendar)
+[Timeout.com Events Calendar](https://www.timeout.com/chicago/events-calendar)
 
 [Travel and Leisure](https://www.travelandleisure.com/trip-ideas/city-vacations/best-things-to-do-in-chicago)
 
