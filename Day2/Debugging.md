@@ -22,7 +22,11 @@ That command just ran pip to install the package in the current directory, and t
 
 ### Setup VS Code Debugger
 
-Next, get the VS Code debugger set up to run the `broken_orbitize.py` script that reproduces the bug. You can also write your own debug script if you prefer. If you have not set up the debugger before, open up the `broken_orbitize.py` file, then open the debug tab from the left side (4th buttom from top). Click the "create a launch.json file" link shown in the screenshot below:
+To get the VS Code debugger set up to run the `broken_orbitize.py` script that reproduces the bug, open up the `broken_orbitize.py` file first. After opening the file, check in the bottom left corner of VS Code that you are in the `codeastro` Python environment. If not, click on the python environment (area circled below) to switch environments:
+
+![What you should see in the VS Code status bar. Click on it to change environments.](imgs/debug_environment.png "You should see something like this.")
+
+Then open the debug tab from the left side (4th buttom from top). Click the "create a launch.json file" link shown in the screenshot below:
 
 ![What you should see when you open up the debug tab](imgs/debug_new.png "You should see something like this.")
 
