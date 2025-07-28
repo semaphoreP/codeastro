@@ -7,7 +7,7 @@ The `debug_matrix.py` code is supposed to generate some pixel art but it current
 
 ## Activity: Debug orbitize!
 
-The issue you are tasked with investigating is this one: https://github.com/sblunt/orbitize/issues/230. 
+Dive into understanding unknown code with the help of the debugger! The issue you are tasked with investigating is this one: https://github.com/sblunt/orbitize/issues/230. 
 
 ### (If necessary): install development version of orbitize!:
 To do so, download a development version of orbitize! for the debugging activity. You may have already done this already as part of Day0 setup, if you followed the installation instructions. If you did, you can skip this section. 
@@ -22,7 +22,11 @@ That command just ran pip to install the package in the current directory, and t
 
 ### Setup VS Code Debugger
 
-Next, get the VS Code debugger set up to run the `broken_orbitize.py` script that reproduces the bug. You can also write your own debug script if you prefer. If you have not set up the debugger before, open up the `broken_orbitize.py` file, then open the debug tab from the left side (4th buttom from top). Click the "create a launch.json file" link shown in the screenshot below:
+To get the VS Code debugger set up to run the `broken_orbitize.py` script that reproduces the bug, open up the `broken_orbitize.py` file first. After opening the file, check in the bottom left corner of VS Code that you are in the `codeastro` Python environment. If not, click on the python environment (area circled below) to switch environments:
+
+![What you should see in the VS Code status bar. Click on it to change environments.](imgs/debug_environment.png "You should see something like this.")
+
+Then open the debug tab from the left side (4th buttom from top). Click the "create a launch.json file" link shown in the screenshot below:
 
 ![What you should see when you open up the debug tab](imgs/debug_new.png "You should see something like this.")
 
@@ -58,8 +62,9 @@ Report on Piazza the follow two items:
   * Which of the nine inputs is/are cuasing the function to return NaN, and report on any modifications you made
 
 ### Roles
-  * Driver: in charge of sharing their screen and typing the code for this activity
-  * Navigator: in charge of directing the driver what to code (everyone else; can be more than one person)
+  * Driver: in charge of sharing their screen and running the VS Code debugger for this activity
+  * Navigator: in charge of directing the driver what to do (can be more than one person)
+  * Vice-navigator: keeps track of where in the code you are at (which function is the debugger currently in, what called this function (call stack))
 
 ## Debugging Principles
 
