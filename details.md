@@ -16,9 +16,9 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  11:30am - 12:00pm     | Gitflow  | LR2 (Technological Institute)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman) | 
-|  2:00pm - 3:00pm | (Optional) Numpy/Pandas |  8072 (1800 Sherman)  |
-|  3:00pm - 4:00pm | (Optional) Matplotlib |  8072 (1800 Sherman)  |
-|  4:00pm - 5:00pm | (Optional) Astropy |  8072 (1800 Sherman)  |
+|  2:00pm - 3:00pm | (Optional) Numpy/Pandas (Foundational) |  8072 (1800 Sherman)  |
+|  3:00pm - 4:00pm | (Optional) Matplotlib  (Foundational) |  8072 (1800 Sherman)  |
+|  4:00pm - 5:00pm | (Optional) jax  (Advanced)  |  8072 (1800 Sherman)  |
 
 **Tuesday August 5**
 
@@ -32,8 +32,8 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  11:55am - 12:00pm     | Group Photo  | LR2 (Technological Institute)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman)   | 
-|  2:00pm - 3:00pm | (Optional) Parallel Programming | 8072 (1800 Sherman)  |
-|  3:00pm - 4:00pm | (Optional) jax | 8072 (1800 Sherman)  |
+|  2:00pm - 3:00pm | (Optional) Parallel Programming (Advanced) | 8072 (1800 Sherman)  |
+|  3:00pm - 4:00pm | (Optional) Astropy  (Foundational) | 8072 (1800 Sherman)  |
 
 **Wednesday August 6**
 
@@ -57,7 +57,7 @@ All dates and times are CDT (Chicago Time). Please note that the exact timing of
 |  11:25am - 12:00pm     | Anti-Discriminatory Practices  | LR2 (Technological Institute)    | 
 |  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
 |  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman)  | 
-|  2:00pm - 3:00pm | (Optional) Profiling | 8072 (1800 Sherman)   |
+|  2:00pm - 3:00pm | (Optional) Profiling  (Advanced) | 8072 (1800 Sherman)   |
 
 **Friday August 8**
 
