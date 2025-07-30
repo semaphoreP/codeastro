@@ -47,7 +47,7 @@ The workshop will held at [CIERA, Northwestern University’s Center for Interdi
 |  Development Environments | Git Mechanics             | Releasing Code          | Software Testing              | Industry Panel Discussion     |
 |  Programming Paradigms    | Debugging                 | Code Documentation      | Anti-Discriminatory Practices   | Project Presentations |
 |  Git/Github Basics        | Parallel Programming   |         | Code Profiling   |        |
-|  Python Package Tutorials    |  jax                       |         |   Supplementary Tools  |
+|  Python Package Tutorials    |  jax                       |         |   |
 
 ### Logisitcal Details
 [A more detailed agenda and in-person logistical details from the workshop are avilable here](https://semaphorep.github.io/codeastro/details.html).
