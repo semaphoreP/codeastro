@@ -16,7 +16,7 @@ Example: We’ll write docstrings for a couple core classes and functions (all w
 
 ## Useful Links:
 
-  * [Day 4 Slides](https://docs.google.com/presentation/d/1utAZ7Vm5h29o4YKlp5LUMKAb2o4-IE3yxZdfap9y4Ng/edit?usp=sharing)
+  * [Day 4 Slides](https://docs.google.com/presentation/d/1owFplGqbaOlGECxj1KQUDuIzbPrXOp1UWpyRdyMI9KI/edit?usp=sharing)
   * [Testing Slides](https://docs.google.com/presentation/d/1mObfDklqtAzIg42HmkfG_DvEYoZ5qH4L32o9BYBbWs0/edit?usp=sharing)
   * [Testing Think-pair Activity](https://colab.research.google.com/drive/1y_Zq81xzOJu3Zz7Kvv_S_4mUScX_yg7w?usp=sharing)
   * [Anti-Discriminatory Practices](https://docs.google.com/presentation/d/1JPq3xu8GlRtyT0FmQ_vpJf7hzjSUZzlDGyRkNFjmzfE/edit?usp=sharing)

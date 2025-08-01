@@ -21,11 +21,11 @@ Example: we’re working on a package that plots the most likely galactic orbits
     * [Slides: git basics](https://github.com/semaphoreP/codeastro/blob/main/Day1/intro_to_git.pptx)
     * [git basics demo](https://github.com/semaphoreP/codeastro/blob/main/Day1/git_intro/git_demo.md)
     * [Slides: Gitflow](https://github.com/semaphoreP/codeastro/blob/main/Day1/gitflow.pptx)
- * [Closing Slides](https://docs.google.com/presentation/d/17_9z1XNIO5LEH_PZ1nvQxfKerTxVWm37Vlus6etcipg/edit?usp=sharing)
+ * [Closing Slides](https://docs.google.com/presentation/d/1KkozMVRtONPKms3lVlQ5gRiM4ypCOSbRiP1F7ZerPHI/edit?usp=sharing)
 
 Optional Activities:
  * [Colabotary link for numpy/pandas lesson](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/numpy_pandas.ipynb)
  * [Colabotary link for astropy lesson](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/astropy.ipynb)
  * [Colabotary link for matplotlib lesson](https://colab.research.google.com/github/semaphoreP/codeastro/blob/main/Day1/activity_mpl/activity_mpl.ipynb)
- * [Slides for astropy lesson](https://github.com/semaphoreP/codeastro/blob/main/Day1/astropy_slides.pdf)
+  * [Colaboratory link for jax.ipynb](https://colab.research.google.com/drive/1wshW6THrenwIYLr6Q5uoJQeY9oyRLRZx?usp=sharing)
 
