@@ -40,7 +40,7 @@ The workshop will held at UCSC in 2026. Structured activities will occur from 9a
 |  Development Environments | Git Mechanics             | Releasing Code          | Software Testing              | Industry Panel Discussion     |
 |  Programming Paradigms    | Debugging                 | Code Documentation      | Anti-Discriminatory Practices   | Project Presentations |
 |  Git/Github Basics        | Parallel Programming   |         | Code Profiling   |        |
-|  Python Package Tutorials    |  jax                       |         |   Supplementary Tools  |
+|  Python Package Tutorials    |  jax                       |         |   |
 
 ### Logisitcal Details
 A more detailed agenda and in-person logistical details for the workshop will be posted in the future. 
