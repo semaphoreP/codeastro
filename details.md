@@ -1,5 +1,7 @@
 # Workshop Details
 
+**This page is currently outdated and for the 2025 Code/Astro workshop**
+
 ## Agenda
 
 All dates and times are CDT (Chicago Time). Please note that the exact timing of the morning activities may change.  
