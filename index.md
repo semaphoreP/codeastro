@@ -26,7 +26,7 @@ June 22, 2026 - June 26, 2026
 
 ### Industry Panelists
  
- * TBA
+ * Chaitanya Chawak
 
 ### Local Organizing Committee
 
