@@ -1,7 +1,7 @@
 # Program Description
 
 ​Code/Astro is a week-long astronomy software development workshop motivated by the growing usage of open-source software in astronomical research. The goal of this program is to teach participants fundamental software engineering skills and best practices for building sustainable open-source packages for astronomy applications. During the workshop, participants will obtain hands-on experience with software engineering by developing a small software package from scratch. The workshop will also serve as a networking and career development opportunity. The workshop is free and open to folks at all career levels. 
-Code/Astro is supported in 2026 by Schmidt Sciences. Code/Astro also acknowledged past support from the Heising-Simons Foundation.
+Code/Astro is supported in 2026 by Schmidt Sciences. Code/Astro acknowledges past support from the Heising-Simons Foundation.
 
 Code/Astro will be hybrid and offer both in-person and virtual synchronous participation. The in-person component will be held at UCSC in Santa Cruz, California. Some travel funding is available to support workshop attendees who need financial assistance. Please note that if you are just looking for access to the course materials and do not want to participate synchronously during the workshop, you don't need to apply: the course material are on [Github](https://github.com/semaphoreP/codeastro) with corresponding lectures posted on [Youtube](https://www.youtube.com/playlist?list=PLTNjIIFfMXAU2DAC8AYB8K982xPeAsuI5).
 
@@ -18,11 +18,21 @@ June 22, 2026 - June 26, 2026
  
 ### Head Teaching Assistants
  
- * TBA
+ * Rae Holcomb
+ * Kruthi Krishna
+ * Sheila Sagear
    
 ### Teaching Assistants
 
-* TBA
+* Jenna Karcheski
+* Haniyeh Tajer
+* Daniel Lopez-Sanders
+* Gopika SM
+* Chaitanya Chawak
+* Elizabeth Moreno Hilario
+* Loren Robinson
+* David Law
+* Evan Carrasco
 
 ### Industry Panelists
  
