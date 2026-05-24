@@ -1,75 +1,71 @@
 # Workshop Details
 
-**This page is currently outdated and for the 2025 Code/Astro workshop**
-
 ## Agenda
 
-All dates and times are CDT (Chicago Time). Please note that the exact timing of the morning activities may change.  
+All dates and times are PDT (Pacific Time). Please note that the exact timing of the morning activities may change.  
 
-**Monday August 4**
+**Monday June 22**
 
-|   Time   | Activity  | Room  | 
+| Time | Activity | Room |
 | :------------ | :------------ | :-------------- |
-|  8:30am - 9:00am | Breakfast         | LR2 (Technological Institute)     |
-|  9:00am - 9:45am     | Welcome  | LR2 (Technological Institute)    | 
-|  9:50am - 10:00am     | Development Environments  | LR2 (Technological Institute)    | 
-|  10:00am - 10:50am     | Programming Paradigms  | LR2 (Technological Institute)    | 
-|  11:00am - 11:30am     | Git/Github Basics  | LR2 (Technological Institute)    | 
-|  11:30am - 12:00pm     | Gitflow  | LR2 (Technological Institute)    | 
-|  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
-|  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman) | 
-|  2:00pm - 3:00pm | (Optional) Numpy/Pandas (Foundational) |  8072 (1800 Sherman)  |
-|  3:00pm - 4:00pm | (Optional) Matplotlib  (Foundational) |  8072 (1800 Sherman)  |
-|  4:00pm - 5:00pm | (Optional) jax  (Advanced)  |  8072 (1800 Sherman)  |
+| 8:30am - 9:00am | Breakfast | Rachel Carson College Dining Hall |
+| 9:00am - 9:45am | Welcome | Oakes Learning Center |
+| 9:50am - 10:00am | Development Environments | Oakes Learning Center |
+| 10:00am - 10:50am | Programming Paradigms | Oakes Learning Center |
+| 11:00am - 11:30am | Git/Github Basics | Oakes Learning Center |
+| 11:30am - 12:00pm | Gitflow | Oakes Learning Center |
+| 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
+| 1:00pm - 5:00pm | Work on Project | Oakes Academic 101, 102, 103, 106, 222 |
+| 2:00pm - 3:00pm | (Optional) Numpy/Pandas (Foundational) | Oakes Academic 102 |
+| 3:00pm - 4:00pm | (Optional) Matplotlib (Foundational) | Oakes Academic 102 |
+| 4:00pm - 5:00pm | (Optional) JAX (Advanced) | Oakes Academic 103 |
 
-**Tuesday August 5**
+**Tuesday June 23**
 
-|   Time   | Activity  | Room  | 
+| Time | Activity | Room |
 | :------------ | :------------ | :-------------- |
-|  8:30am - 9:00am | Breakfast         | LR2 (Technological Institute)     |
-|  9:00am - 9:15am     | Welcome  | LR2 (Technological Institute)    | 
-|  9:15am - 9:40am     | Gitflow Continued  | LR2 (Technological Institute)    | 
-|  9:45am - 10:50am     | Mechanics of Git  | LR2 (Technological Institute)    | 
-|  11:00am - 11:55am     | Debugging  | LR2 (Technological Institute)    | 
-|  11:55am - 12:00pm     | Group Photo  | LR2 (Technological Institute)    | 
-|  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
-|  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman)   | 
-|  2:00pm - 3:00pm | (Optional) Parallel Programming (Advanced) | 8072 (1800 Sherman)  |
-|  3:00pm - 4:00pm | (Optional) Astropy  (Foundational) | 8072 (1800 Sherman)  |
+| 8:30am - 9:00am | Breakfast | Rachel Carson College Dining Hall |
+| 9:00am - 9:15am | Welcome | Oakes Learning Center |
+| 9:15am - 9:40am | Gitflow Continued | Oakes Learning Center |
+| 9:45am - 10:50am | Mechanics of Git | Oakes Learning Center |
+| 11:00am - 11:55am | Debugging | Oakes Learning Center |
+| 11:55am - 12:00pm | Group Photo | Oakes Learning Center |
+| 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
+| 1:00pm - 5:00pm | Work on Project | Oakes Academic 101, 102, 103, 106, 222 |
+| 2:00pm - 3:00pm | (Optional) Parallel Programming (Advanced) | Oakes Academic 103 |
+| 3:00pm - 4:00pm | (Optional) Astropy (Foundational) | Oakes Academic 102 |
 
-**Wednesday August 6**
+**Wednesday June 24**
 
-|   Time   | Activity  | Room  | 
+| Time | Activity | Room |
 | :------------ | :------------ | :-------------- |
-|  8:30am - 9:00am | Breakfast         | LR2 (Technological Institute)     |
-|  9:00am - 9:15am     | Welcome  | LR2 (Technological Institute)    | 
-|  9:15am - 10:30am     | Releasing Code  | LR2 (Technological Institute)    | 
-|  10:40am - 12:00pm     | Documentation  | LR2 (Technological Institute)    | 
-|  12:00pm - 6:30pm       | Free-time | On Your Own    | 
-|  6:30pm - 9:00pm     | Workshop Dinner  | [Five and Dime](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu)       | 
+| 8:30am - 9:00am | Breakfast | Rachel Carson College Dining Hall |
+| 9:00am - 9:15am | Welcome | Oakes Learning Center |
+| 9:15am - 10:30am | Releasing Code | Oakes Learning Center |
+| 10:40am - 12:00pm | Documentation | Oakes Learning Center |
+| 12:00pm - 6:30pm | Free-time | On your own |
+| 6:30pm - 9:00pm | Workshop Dinner | TBD |
 
+**Thursday June 25**
 
-**Thursday August 7**
-
-|   Time   | Activity  | Room  | 
+| Time | Activity | Room |
 | :------------ | :------------ | :-------------- |
-|  8:30am - 9:00am | Breakfast         | LR2 (Technological Institute)     |
-|  9:00am - 9:15am     | Welcome  | LR2 (Technological Institute)    | 
-|  9:15am - 11:15am     | Testing  | LR2 (Technological Institute)    |  
-|  11:25am - 12:00pm     | Anti-Discriminatory Practices  | LR2 (Technological Institute)    | 
-|  12:00pm - 1:00pm       | Lunch | On Your Own (see below for restaurants)        | 
-|  1:00pm - 5:00pm      | Work on Project  | 8th Floor Spaces (1800 Sherman)  | 
-|  2:00pm - 3:00pm | (Optional) Profiling  (Advanced) | 8072 (1800 Sherman)   |
+| 8:30am - 9:00am | Breakfast | Rachel Carson College Dining Hall |
+| 9:00am - 9:15am | Welcome | Oakes Learning Center |
+| 9:15am - 11:15am | Testing | Oakes Learning Center |
+| 11:25am - 12:00pm | Anti-Discriminatory Practices | Oakes Learning Center |
+| 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
+| 1:00pm - 5:00pm | Work on Project | Oakes Academic 101, 102, 103, 106, 222 |
+| 2:00pm - 3:00pm | (Optional) Profiling (Advanced) | Oakes Academic 103 |
 
-**Friday August 8**
+**Friday June 26**
 
-
-|   Time   | Activity  | Room  | 
+| Time | Activity | Room |
 | :------------ | :------------ | :-------------- |
-|  8:30am - 9:00am | Breakfast         | LR2 (Technological Institute)     |
-|  9:00am - 10:00am    | Industry Panel               | LR2 (Technological Institute)    | 
-|  10:00am - 11:45am    | Group Project Show & Tell              | LR2 (Technological Institute)    | 
-|  11:45am - 12:00pm       | Closing Remarks |  LR2 (Technological Institute)         | 
+| 8:30am - 9:00am | Breakfast | Rachel Carson College Dining Hall |
+| 9:00am - 10:00am | Industry Panel | Oakes Learning Center |
+| 10:00am - 11:45am | Group Project Show & Tell | Oakes Learning Center |
+| 11:45am - 12:00pm | Closing Remarks | Oakes Learning Center |
 
 
 ## Recording Policy
@@ -77,98 +73,134 @@ We are going to record to workshop to enable broader access to the materials fro
 
 ## In-Person Logistics 
 
+
 ### Morning Session
-Breakfast and the morning sessions will be held in the [Northwestern Technological Institute (often called "Tech")](https://g.co/kgs/V5suWjm), an auditorium located on the ground floor. Tech is a 25-minute walk from the Holiday Inn hotel. The 201 bus can also be used to arrive at Tech. Tech can be confusing to navigate, but there is a website called [Tech Room Finder](https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L171&room-floor=1&room-id=789&room-ingress=) to assist. 
+Breakfast will be held at Rachel Carson College Dining Hall. Most full-group morning sessions will be held in the Oakes Learning Center, with additional workshop space available in Oakes Academic rooms 101, 102, 103, 106, and 222. These rooms are reserved for Code/Astro from 8:00am to 9:00pm during the workshop week.
+
+Oakes Learning Center and the Oakes Academic classrooms are near the workshop housing area, so participants should plan to arrive a few minutes early each morning to find the correct room and get settled.
 
 
 ### Lunch
-Lunch is on-your-own (see below for more information). Note that it is a 20-minute walk to our afternoon location, but there are lunch options on Noyes St. and in Downtown Evanston that are only a small detour on the way there.
-
+Lunch will be held at Rachel Carson College Dining Hall, or participants may choose to eat on their own. Afternoon sessions will return to the Oakes workshop spaces, so please plan to be back at Oakes by 1:00pm. More information about Santa Cruz food recommendations and things to do will be included below.
 
 ### Afternoon Session
-Afternoon sessions will be held in [1800 Sherman Ave, Evanston, IL 60201](https://www.google.com/maps/place/1800+Sherman+Ave,+Evanston,+IL+60201/@42.050331,-87.6846099,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd00bfa3632f3:0x8d6a9629f47228ab!8m2!3d42.050331!4d-87.682035!16s%2Fg%2F1thtdqy6?entry=ttu). We have several spaces on the 8th floor in 1800 Sherman for you to work on your 
-groups projects in the afternoon in (see below for more information). 
-The instructors and TAs will be available there in the afternoon in those rooms to help answer any
-questions, or discuss your project with you.
+Afternoon sessions will be held in the Oakes workshop spaces. Project work will use the Oakes Academic classrooms, including rooms 101, 102, 103, 106, and 222. Optional afternoon sessions may be assigned to specific Oakes Academic rooms.
+The instructors and TAs will be available in these rooms during the afternoon to answer questions and discuss projects with each group.
 
-There will be nothing planned on Wednesday afternoon (although the rooms are available if you want to work on your project), as this gives you an opportunity to have some time to explore Evanston and Chicago.
-We will also host a workshop dinner on Wednesday evening at 6:30pm at Five and Dime, which is located in downtown Evanston. 
+There will be nothing planned on Wednesday afternoon, although Oakes Learning Center and the Oakes Academic classrooms are available if you want to work on your project. This gives you time to rest, explore campus, or visit Santa Cruz.
+
 
 ### COVID Policy
 Masking is optional. If you do test positive for COVID, please let us know and attend the workshop remotely. We can cover costs for you to properly quarantine in a hotel room until you recover. 
 
-### 1800 Sherman In-Person Rooms
-1800 Sherman houses CIERA (the astronomy research unit at Northwestern), so you may bump into other astronomers. Group work spaces are located on the 8th floor. Spaces are first-come-first-serve, so you and your group should decide where you want to work.
+### Oakes In-Person Rooms
 
-Below are maps of the rooms in each floor. Please let us know if there are insufficient plugs, and we can bring more. Please keep the areas clean as these are shared areas!
+The main workshop space will be the Oakes Learning Center. Additional project work and optional session spaces are available in Oakes Academic rooms 101, 102, 103, 106, and 222. These rooms are reserved for Code/Astro during the workshop week.
 
-| Floor | Map|
-|-------|----|
-| [8th Floor](imgs/Code-Astro-Floorplan-2024.png) | ![map of rooms on the 8th floor](imgs/Code-Astro-Floorplan-2025.png) |
+During afternoon project work, groups may use any available Oakes Academic classroom. Spaces are first-come-first-serve, so you and your group should decide where you want to work. The instructors and TAs will be nearby to answer questions and discuss projects.
 
-### Workshop Dinner
-The workshop dinner will be taking place at [Five and Dime at 1026 Davis Street (9 min walk from CIERA)](https://www.google.com/maps/place/Five+%26+Dime/@42.0485969,-87.6866502,17z/data=!3m1!5s0x880fd00fbd24232f:0x3405ad57c073f3bf!4m6!3m5!1s0x880fd00fbd281f2b:0x225529537d95fd0a!8m2!3d42.0468628!4d-87.6863463!16s%2Fg%2F11c0rl46wt?entry=ttu). Walking instructions from CIERA are below:
-
-![map of walk to Five and Dime](imgs/map_to_fiveanddime.png)
-
-The workshop dinner will begin at 6:30pm. Service will be buffet style. Food and non-alcoholic drinks are included, alcoholic drinks can be purchased independently at the bar. 
+Please let us know if there are insufficient plugs, and we can bring more. Please keep the rooms clean, as these are shared spaces.
 
 
-### Getting to Evanston from O'Hare International Airport
-O’Hare International Airport to Evanston
+### Getting to Santa Cruz from San José Mineta International Airport (SJC)
+
+San José Mineta International Airport is usually the easiest airport for getting to Santa Cruz.
 
 #### Public Transportation
-The cheapest way to get to Evanston from O’Hare International Airport is by taking public transportation.
 
-**Chicago Transit Authority (busses and the elevated train)**
+The main public transit route is:
 
-[Option 1](https://maps.app.goo.gl/Lm78wjuFrEMx1bte9): Take the CTA metro trains straight from the airport terminals with at least one transfer near downtonwn (~2 hour). 
+1. From SJC, take VTA Route 60 or a rideshare/taxi to a transit connection in San José.
+2. Go to San José Diridon Station.
+3. From San José Diridon, take the Highway 17 Express bus to Downtown Santa Cruz.
+4. From Downtown Santa Cruz, take a local bus or rideshare to UC Santa Cruz / Oakes.
 
-[Option 2](https://maps.app.goo.gl/yPQdienBosJGeact7): Take the O'Hare Airport Transit System to the Multi-Modal Facility/Rental Car Center. From outside of the Multi-Modal Facility, take the Pulse Dempster Line Bus (or 250 bus) straight to downtown Evanston (~1 hour and 20 minutes).
+SJC’s public transit page notes that VTA Route 60 serves Terminal A and Terminal B and connects the airport to regional transit. Santa Cruz METRO’s Highway 17 Express connects San José Diridon Station with Santa Cruz. Please check the latest schedules before traveling.
+
+#### Taxi/Uber/Lyft
+
+A taxi, Uber, or Lyft from SJC to Santa Cruz is the most direct option, but it is usually more expensive than public transportation. Travel time depends on traffic on Highway 17.
+
+### Getting to Santa Cruz from San Francisco International Airport (SFO)
+
+San Francisco International Airport is also possible, but the route is less direct than SJC.
+
+#### Public Transportation
+
+The main public transit route is:
+
+1. From SFO, connect to Millbrae Station by BART or SamTrans.
+2. From Millbrae, take Caltrain southbound to San José Diridon Station.
+3. From San José Diridon, take the Highway 17 Express bus to Downtown Santa Cruz.
+4. From Downtown Santa Cruz, take a local bus or rideshare to UC Santa Cruz / Oakes.
+
+This route has multiple transfers, so participants should plan extra time and check schedules before traveling.
+
+### Getting between UC Santa Cruz, Oakes, and Downtown Santa Cruz
+
+UC Santa Cruz is fairly isolated from the rest of town. The campus is up the hill from Downtown Santa Cruz, so walking downtown is usually not the best option.
+
+Santa Cruz METRO buses connect campus with Downtown Santa Cruz and other parts of town. Useful campus routes may include routes such as 11, 16, 18, 19, and 20, but participants should always check the current [Santa Cruz METRO routes and schedules](https://scmetro.org/rider-info/routes-schedules/) before traveling.
+
+For getting around campus, UC Santa Cruz also has campus transit options. More information is available through [UCSC Transportation & Parking Services](https://transportation.ucsc.edu/buses-shuttles/).
+
+The main downtown transit hub is the Santa Cruz METRO Center. This is where participants can connect between local Santa Cruz buses and the Highway 17 Express.
 
 
-**Taxi/Uber/Lyft**
+### Things to do in Santa Cruz
 
-The fastest way to get to Evanston from O’Hare is by taking an Uber/Lyft/Taxi. Uber and Lyft drivers are authorized to pick up riders from designated pickup zones (viewable in the relevant app). Surge pricing may be in effect, but non-surge rates typically run around $60. The drive to CIERA can take anywhere between 25 minutes to an hour, depending on traffic. Alternatively, [American Taxi](https://www.americantaxi.com/) can be pre-arranged and offers a flat rate of $42 from O’Hare to Evanston. 
-
-
-### Things to do in Evanston
-
-#### Noyes St. Restauraunts
-
-**Quick Bites/Takeout**
-Inspired Indian Co., Tomate Fresh Kitchen, D&D Dogs, Coffee Lab
-
-**Sit Down/Dinner (many also offer takeout options) (^=more costly)**
-Stacked and Folded, Soban Korea, Dave's Italian Kitchen
-
-#### Downtown Restaurants (by no means exhaustive)
-
-**Quick Bites/Takeout**
-
-Blaze Pizza, Jimmy John’s, Soulwich, Elephant and Vine, Sweetgreen, Colectivo Coffee, Habibi Mediterranean Grill, 10Q Chicken, Chipotle, Potbelly’s, Noodles & Co., Guzman y Gomez, Pono Ono Poke, Eggs with Benefits
-
-**Sit Down/Dinner (many also offer takeout options) (^=more costly)**
-
-Bat17, Koko Table Korean, Mumbai Indian Grill, Joy Yee Noodle, Chili’s, Stacked and Folded, Tapas Barcelona, Kansaku, TOMO, Koi, Trattoria Demi, Peppercorn’s Kitchen, Taco Diablo, Mt. Everest, Lou Malnati’s, The Barn Steakhouse^, LeTour^, Fonda, NaKorn Urban Thai, La Cocinita
-
-**Activities**
-
-Day at Lake Michigan, Northwestern University Block Museum, Dearborn Observatory, Grosse Point Lighthouse, Gichigamiin Indigenous Nations Museum
+Santa Cruz has a mix of beach, redwood, downtown, and campus-adjacent options. This list 
 
 
-### Things to do in Chicago
-Downtown Chicago is roughly a 45 min -1 hour train ride from CIERA. Take the Purple Line at the Davis Stop southbound (Loop Direction) straight there, or transfer to the Red Line at Howard (95th/Dan Ryan Direction). 
+#### Downtown Santa Cruz Restaurants
 
-See the Bean, the Sears (Willis) Tower, a Chicago Cubs or White Sox game, the Art Institute, Lake Michigan, an architectural boat tour from the Chicago River, and much, much more. Naturally not easy to make an exhaustive list of this, so check out these recommendations here:
+**Quick Bites / Takeout:**
+Pizza My Heart (you get a free shirt with a slice for $7), Zoccoli's Delicatessen, The Bagelry, Cafe Delmarette, Five Guys, Jack's Hamburgers
 
-[Tripadvisor](https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html)
+**Mexican Food:**
+Los Pericos, Taqueria Santa Cruz, Las Palmas Taco Bar
 
-[Timeout.com Events Calendar](https://www.timeout.com/chicago/events-calendar)
+**Indian / South Asian Food:**
+Namaste Indian Cuisine, Ambrosia India Bistro
 
-[Travel and Leisure](https://www.travelandleisure.com/trip-ideas/city-vacations/best-things-to-do-in-chicago)
+**Mediterranean / Middle Eastern Food:**
+Laili, Mozaic, Falafel of Santa Cruz
 
-[US News and World Report](https://travel.usnews.com/Chicago_IL/Things_To_Do/)
+**Asian Food:**
+MG Sushi (HIGHLY recommend), Kaito, Monster Pot, Full Steam Dumpling
+
+**Sit Down / Dinner:**
+Hula's Island Grill, Oswald, Chocolate, Laili, Mozaic, Kianti's Pizza & Pasta Bar
+
+#### Westside / Mission Area Restaurants
+
+**Quick Bites / Cafes:**
+Verve Coffee Roasters, 11th Hour Coffee, Companion Bakeshop, Santa Cruz Coffee Roasting
+
+**Sit Down / Dinner:**
+West End Tap & Kitchen, Bantam, Venus Spirits Cocktails & Kitchen, La Cabaña Taqueria
+
+#### Beach / Wharf Area Food
+
+**Quick Bites / Takeout:**
+Boardwalk food options, Ideal Bar & Grill, The Picnic Basket
+
+**Sit Down / Dinner:**
+Santa Cruz Wharf restaurants, Stagnaro Bros., Riva Fish House
+
+### Activities
+
+**Classic Santa Cruz:**
+Santa Cruz Beach Boardwalk, Santa Cruz Wharf, West Cliff Drive, Natural Bridges State Beach
+
+**Museums / Science:**
+Seymour Marine Discovery Center (Free!), Santa Cruz Museum of Art & History (free!)
+
+**Nature / Outdoors:**
+Natural Bridges State Beach, Wilder Ranch State Park, Henry Cowell Redwoods State Park, UCSC Arboretum & Botanic Garden
+
+**Downtown:**
+Downtown Santa Cruz has restaurants, coffee shops, bookstores, local shops, and the Museum of Art & History. It is also the main transit area for connecting between campus, downtown, and the beach.
 
 
 
