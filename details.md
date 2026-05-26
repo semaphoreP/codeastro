@@ -149,7 +149,7 @@ The main downtown transit hub is the Santa Cruz METRO Center. This is where part
 
 ### Things to do in Santa Cruz
 
-Santa Cruz has a mix of beach, redwood, downtown, and campus-adjacent options. This list 
+Santa Cruz has a mix of beach, redwood, downtown, and campus-adjacent options. 
 
 
 #### Downtown Santa Cruz Restaurants
