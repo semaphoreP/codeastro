@@ -36,6 +36,9 @@ June 22, 2026 - June 26, 2026
 ### Industry Panelists
  
  * Chaitanya Chawak
+ * Sarah Blunt
+ * Jason Wang
+ * Daniel Lopez-Sanders
 
 ### Local Organizing Committee
 
