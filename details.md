@@ -43,7 +43,7 @@ All dates and times are PDT (Pacific Time). Please note that the exact timing of
 | 9:15am - 10:30am | Releasing Code | Oakes Learning Center |
 | 10:40am - 12:00pm | Documentation | Oakes Learning Center |
 | 12:00pm - 6:30pm | Free-time | On your own |
-| 6:30pm - 9:00pm | Workshop Dinner | Oakes Lawn (Next to Oakes Learning Center) |
+| 5:30pm - 7:30pm | Workshop Dinner | Oakes Lawn (Next to Oakes Learning Center) |
 
 **Thursday June 25**
 
