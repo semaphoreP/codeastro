@@ -55,7 +55,7 @@ All dates and times are PDT (Pacific Time). Please note that the exact timing of
 | 11:25am - 12:00pm | Anti-Discriminatory Practices | Oakes Learning Center |
 | 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
 | 1:00pm - 5:00pm | Work on Project | Oakes Academic 102, 103, 106, 222 |
-| 1:00pm - 2:00pm | (Optional) Preparing for Future Observatories | Oakes Learning Center |
+| 2:00pm - 3:00pm | (Optional) Preparing for Future Observatories | Oakes Learning Center |
 | 4:00pm - 5:00pm | (Optional) Profiling | Oakes Learning Center |
 
 **Friday June 26**
