@@ -12,8 +12,7 @@ All dates and times are PDT (Pacific Time). Please note that the exact timing of
 | 9:00am - 9:45am | Welcome | Oakes Learning Center |
 | 9:50am - 10:00am | Development Environments | Oakes Learning Center |
 | 10:00am - 10:50am | Programming Paradigms | Oakes Learning Center |
-| 11:00am - 11:30am | Git/Github Basics | Oakes Learning Center |
-| 11:30am - 12:00pm | Gitflow | Oakes Learning Center |
+| 11:00am - 12:00pm | Git/Github Basics | Oakes Learning Center |
 | 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
 | 1:00pm - 5:00pm | Work on Project | Oakes Academic 102, 103, 106, 222 |
 | 3:00pm - 4:00pm | (Optional) Machine Learning | Oakes Learning Center |
@@ -25,8 +24,8 @@ All dates and times are PDT (Pacific Time). Please note that the exact timing of
 | :------------ | :------------ | :-------------- |
 | 8:00am - 9:00am | Breakfast (for people staying on campus only) | Rachel Carson College Dining Hall |
 | 9:00am - 9:15am | Welcome | Oakes Learning Center |
-| 9:15am - 9:40am | Gitflow Continued | Oakes Learning Center |
-| 9:45am - 10:50am | Mechanics of Git | Oakes Learning Center |
+| 9:15am - 9:45pm | Gitflow | Oakes Learning Center |
+| 9:50am - 10:50am | Mechanics of Git | Oakes Learning Center |
 | 11:00am - 11:55am | Debugging | Oakes Learning Center |
 | 11:55am - 12:00pm | Group Photo | Oakes Learning Center |
 | 12:00pm - 1:00pm | Lunch | Rachel Carson College Dining Hall or on your own |
