@@ -42,7 +42,8 @@ June 22, 2026 - June 26, 2026
 
 ### Local Organizing Committee
 
- * TBA
+ * Sarah Blunt
+ * Kyle Guides
 
 # ​Schedule
 The main workshop and lectures will be based at UCSC in 2026. Structured activities will occur from 9am-noon (PDT) each day. The rest of the time is unstructured, and participants can work on their packages for their group projects at their own pace. In the afternoons, we are also offering optional special topics, but these are not required. Topics covered each day are as follows:
