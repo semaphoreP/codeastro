@@ -3,6 +3,7 @@ This is a "cheatsheet" of information for the workshop. Please let us know if th
 - Code of Conduct: https://docs.google.com/presentation/d/1sp7KDj7hJYAO8HbqRTTLEEa2DIiFknIayVy1iD_h0G4/edit#slide=id.g86f14c9d87_0_78
 - Workshop website: https://semaphorep.github.io/codeastro/
 - Workshop GitHub (course materials): https://github.com/semaphoreP/codeastro
+- Lecture Recordings (2026): https://youtube.com/playlist?list=PLPL3opIQ355c&si=0WPA346VTMW4b-61
 - Lecture Recordings (2025): https://www.youtube.com/watch?v=qYsa25eMveA&list=PLTNjIIFfMXAU7UgiTQLEm67j57zxwPmxN
 - Lecture Recordings (2022): https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH
 - Calendar (has room & zoom info): https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&src=ZTExaWdnaGdncmU5a2FnaTg4bDM3Z2FkODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688&title=Code/Astro
