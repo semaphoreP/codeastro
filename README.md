@@ -8,7 +8,7 @@ Workshop website: https://semaphorep.github.io/codeastro/
 
 Workshop "cheatsheet" of links & information: https://github.com/semaphoreP/codeastro/blob/main/workshop_info.md
 
-Recording of the 2025 Code/Astro workshop: [https://www.youtube.com/playlist?list=PLb1880Rn0qkK7zTWcqGaXNbKZbxkpvUuH](https://www.youtube.com/watch?v=qYsa25eMveA&list=PLTNjIIFfMXAU7UgiTQLEm67j57zxwPmxN). 
+Recording of the 2026 Code/Astro workshop: https://youtube.com/playlist?list=PLPL3opIQ355c&si=0WPA346VTMW4b-61. 
 
 ## Getting Started
 
