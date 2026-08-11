@@ -32,6 +32,7 @@ June 22, 2026 - June 26, 2026
 * Loren Robinson
 * David Law
 * Evan Carrasco
+* Sonith L.S.
 
 ### Industry Panelists
  
